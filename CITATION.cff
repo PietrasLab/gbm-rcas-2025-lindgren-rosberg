@@ -1,0 +1,57 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it using the metadata in this file."
+title: "gbm-rcas-2025-lindgren-rosberg: analysis code, metadata, and figures"
+type: software
+
+authors:
+  - family-names: Lindgren
+    given-names: David
+  - family-names: Rosberg
+    given-names: Rebecca
+  - family-names: Smolag
+    given-names: Karolina I.
+  - family-names: Johansson
+    given-names: Elinn
+  - family-names: Manou
+    given-names: Dimitra
+  - family-names: Sjölund
+    given-names: Jonas
+  - family-names: Braun
+    given-names: Sebastian
+  - family-names: Phung
+    given-names: Bengt
+  - family-names: Harbst
+    given-names: Katja
+  - family-names: Jeannot
+    given-names: Pauline
+  - family-names: Malmberg
+    given-names: Maria
+  - family-names: Ceberg
+    given-names: Crister
+  - family-names: Jönsson
+    given-names: Göran B.
+  - family-names: Pietras
+    given-names: Kristian
+  - family-names: Pietras
+    given-names: Alexander
+
+repository-code: "https://github.com/PietrasLab/gbm-rcas-2025-lindgren-rosberg"
+license: GPL-3.0-or-later
+version: "2.1"
+date-released: 2026-08-11
+
+keywords:
+  - glioblastoma
+  - single-cell RNA-seq
+  - spatial transcriptomics
+  - Seurat
+  - Visium
+  - Visium HD
+  - RCAS-Tv-a
+  - mouse model
+
+references:
+  - type: dataset
+    title: "Processed single-cell and spatial transcriptomics Seurat objects for murine glioblastoma"
+    doi: "10.5281/zenodo.21607378"
+    url: "https://zenodo.org/records/21607378"

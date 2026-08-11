@@ -1,0 +1,31 @@
+sample_id,mouse_id,sex,sample_type,disease_state,irradiated,days_after_irradiation,survival_days,total_cell_no,viability,hybridization_batch,fastq_prefix,included_in_final_dataset,excluded_reason
+BRAIN_01,BRAIN_01,Female,Healthy,Healthy,no,,37,3.1 M,0.74,A: 2023_069_1,2023_069_1,TRUE,
+BRAIN_02,BRAIN_02,Male,Healthy,Healthy,no,,26,1.7 M,0.71,D: 2023_140_2,2023_140_2,FALSE,Low quality. high mitochondral/haemoglobin gene read count.
+BRAIN_03,BRAIN_03,,Healthy,,no,,,,,D: 2023_140_2,2023_140_2,FALSE,Failed at fixation/hybridization (no sequences)
+BRAIN_04a,BRAIN_04,Female,Healthy,Healthy,no,,,,,E: 2023_140_3,2023_140_3,TRUE,
+BRAIN_04b,BRAIN_04,Female,Healthy,Healthy,no,,,,,E: 2023_140_3,2023_140_3,TRUE,
+BRAIN_05,BRAIN_05,Male,Healthy,Healthy,no,,,,,E: 2023_140_3,2023_140_3,TRUE,
+BRAIN_06,BRAIN_06,Male,Healthy,Healthy,no,,,,,E: 2023_140_3,2023_140_3,TRUE,
+TP_01a,TP_01a,Female,Primary tumor,Tumor,no,,36,10.75 M,0.76,A: 2023_069_1,2023_069_1,FALSE,Technical replicate (pilot)
+TP_01b,TP_01b,Female,Primary tumor,Tumor,no,,36,10.75 M,0.76,B: 2023_069_2,2023_069_2,TRUE,
+TP_02,TP_02,Male,Primary tumor,Tumor,no,,29,1.34 M,0.76,C: 2023_140_1,2023_140_1,FALSE,Low quality. high mitochondral/haemoglobin gene read count.
+TP_03,TP_03,Male,Primary tumor,Tumor,no,,29,2.48 M,0.83,C: 2023_140_1,2023_140_1,FALSE,"Outlier, low  nUMI / nGenes distribution"
+TP_04,TP_04,Male,Primary tumor,Tumor,no,,35,2.28 M,0.84,C: 2023_140_1,2023_140_1,TRUE,
+TP_05,TP_05,Female,Primary tumor,Tumor,no,,45,6.49 M,0.87,C: 2023_140_1,2023_140_1,TRUE,
+TP_06,TP_06,Female,Primary tumor,Tumor,no,,32,4.07 M,0.94,C: 2023_140_1,2023_140_1,TRUE,
+TP_07,TP_07,,Primary tumor,,no,,,,,C: 2023_140_1,2023_140_1,FALSE,Failed at fixation/hybridization (no sequences)
+TP_08,TP_08,Female,Primary tumor,Tumor,no,,29,8.1 M,0.91,C: 2023_140_1,2023_140_1,TRUE,
+TR_01,TR_01,Female,Recurrent tumor,Tumor,yes,35,50,1 M,0.79,C: 2023_140_1,2023_140_1,TRUE,
+TR_02,TR_02,Female,Recurrent tumor,Tumor,yes,35,63,6.59 M,0.87,C: 2023_140_1,2023_140_1,TRUE,
+TR_03,TR_03,Female,Recurrent tumor,Tumor,yes,35,50,6.22 M,0.88,C: 2023_140_1,2023_140_1,TRUE,
+TR_04,TR_04,Male,Recurrent tumor,Tumor,yes,35,63,4.17 M,0.92,C: 2023_140_1,2023_140_1,TRUE,
+TR_05,TR_05,Male,Recurrent tumor,Tumor,yes,35,56,8.97 M,0.78,C: 2023_140_1,2023_140_1,FALSE,"Outlier, low  nUMI / nGenes distribution"
+TR_06,TR_06,Male,Recurrent tumor,Tumor,yes,31,46,1.64 M,0.78,C: 2023_140_1,2023_140_1,TRUE,
+TR_07,TR_07,Male,Recurrent tumor,Tumor,yes,31,55,2.53 M,0.9,C: 2023_140_1,2023_140_1,TRUE,
+,,,,,,,,,,,,,
+i) Failed at fixation/hybridization (no sequences),,,,,,,,,,,,,
+ii) Hybridizations 2023_140_1 and 2023_140_2 were pooled and run on the same flow cell,,,,,,,,,,,,,
+"iii) Custom probes: hybridization batches a slight differene in probes, Some probes considered poor quality in the pilor runs and were excluded. Probes CUSTOMPROBE_hPDGFB_nHA, CUSTOMPROBE_RFP_1, CUSTOMPROBE_RFP_2 are included in all Tumor hybridizations selected for the final data set",,,,,,,,,,,,,
+iv) sample from right and left hemisphere,,,,,,,,,,,,,
+"v) For sample TP_01, fixated cells from the same aliquout sample was hybridized and sequenced in two separate run to evaluate and uptade the custom probe spikeins in a pilot experiment. The second of these samples, TP_01b was selected for the final data set.",,,,,,,,,,,,,
+vi) Final data set represent the 16 samples icluded in dataset Lindgren et al. after QC filtering,,,,,,,,,,,,,

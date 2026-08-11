@@ -1,0 +1,703 @@
+new,published,Freq,frac
+0,Ambiguous,2,0.00273224043715847
+1,Ambiguous,3,0.004098360655737705
+10,Ambiguous,24,0.03278688524590164
+11,Ambiguous,9,0.012295081967213115
+12,Ambiguous,66,0.09016393442622951
+13,Ambiguous,244,0.3333333333333333
+14,Ambiguous,20,0.0273224043715847
+15,Ambiguous,0,0
+16,Ambiguous,8,0.01092896174863388
+17,Ambiguous,4,0.00546448087431694
+18,Ambiguous,4,0.00546448087431694
+19,Ambiguous,28,0.03825136612021858
+2,Ambiguous,5,0.006830601092896175
+20,Ambiguous,23,0.031420765027322405
+21,Ambiguous,3,0.004098360655737705
+22,Ambiguous,35,0.04781420765027322
+23,Ambiguous,3,0.004098360655737705
+24,Ambiguous,1,0.001366120218579235
+25,Ambiguous,1,0.001366120218579235
+26,Ambiguous,20,0.0273224043715847
+3,Ambiguous,8,0.01092896174863388
+4,Ambiguous,36,0.04918032786885246
+5,Ambiguous,10,0.01366120218579235
+6,Ambiguous,17,0.023224043715846996
+7,Ambiguous,88,0.12021857923497267
+8,Ambiguous,70,0.09562841530054644
+9,Ambiguous,0,0
+0,Astrocyte NT,0,0
+1,Astrocyte NT,0,0
+10,Astrocyte NT,0,0
+11,Astrocyte NT,0,0
+12,Astrocyte NT,0,0
+13,Astrocyte NT,0,0
+14,Astrocyte NT,1512,0.9661341853035144
+15,Astrocyte NT,0,0
+16,Astrocyte NT,3,0.0019169329073482429
+17,Astrocyte NT,0,0
+18,Astrocyte NT,0,0
+19,Astrocyte NT,0,0
+2,Astrocyte NT,0,0
+20,Astrocyte NT,0,0
+21,Astrocyte NT,0,0
+22,Astrocyte NT,0,0
+23,Astrocyte NT,0,0
+24,Astrocyte NT,0,0
+25,Astrocyte NT,0,0
+26,Astrocyte NT,0,0
+3,Astrocyte NT,0,0
+4,Astrocyte NT,0,0
+5,Astrocyte NT,0,0
+6,Astrocyte NT,50,0.03194888178913738
+7,Astrocyte NT,0,0
+8,Astrocyte NT,0,0
+9,Astrocyte NT,0,0
+0,Astrocyte R,14,0.019635343618513323
+1,Astrocyte R,0,0
+10,Astrocyte R,3,0.004207573632538569
+11,Astrocyte R,0,0
+12,Astrocyte R,0,0
+13,Astrocyte R,2,0.002805049088359046
+14,Astrocyte R,6,0.008415147265077139
+15,Astrocyte R,0,0
+16,Astrocyte R,603,0.8457223001402524
+17,Astrocyte R,0,0
+18,Astrocyte R,0,0
+19,Astrocyte R,0,0
+2,Astrocyte R,1,0.001402524544179523
+20,Astrocyte R,0,0
+21,Astrocyte R,1,0.001402524544179523
+22,Astrocyte R,0,0
+23,Astrocyte R,0,0
+24,Astrocyte R,0,0
+25,Astrocyte R,0,0
+26,Astrocyte R,0,0
+3,Astrocyte R,0,0
+4,Astrocyte R,0,0
+5,Astrocyte R,0,0
+6,Astrocyte R,83,0.11640953716690042
+7,Astrocyte R,0,0
+8,Astrocyte R,0,0
+9,Astrocyte R,0,0
+0,Astrocyte TE,0,0
+1,Astrocyte TE,0,0
+10,Astrocyte TE,2,7.062146892655367e-4
+11,Astrocyte TE,1,3.5310734463276836e-4
+12,Astrocyte TE,0,0
+13,Astrocyte TE,0,0
+14,Astrocyte TE,34,0.012005649717514125
+15,Astrocyte TE,0,0
+16,Astrocyte TE,6,0.00211864406779661
+17,Astrocyte TE,1,3.5310734463276836e-4
+18,Astrocyte TE,1,3.5310734463276836e-4
+19,Astrocyte TE,0,0
+2,Astrocyte TE,0,0
+20,Astrocyte TE,0,0
+21,Astrocyte TE,1,3.5310734463276836e-4
+22,Astrocyte TE,0,0
+23,Astrocyte TE,0,0
+24,Astrocyte TE,3,0.001059322033898305
+25,Astrocyte TE,0,0
+26,Astrocyte TE,0,0
+3,Astrocyte TE,0,0
+4,Astrocyte TE,0,0
+5,Astrocyte TE,0,0
+6,Astrocyte TE,2781,0.9819915254237288
+7,Astrocyte TE,2,7.062146892655367e-4
+8,Astrocyte TE,0,0
+9,Astrocyte TE,0,0
+0,Choroid,0,0
+1,Choroid,0,0
+10,Choroid,0,0
+11,Choroid,0,0
+12,Choroid,0,0
+13,Choroid,0,0
+14,Choroid,0,0
+15,Choroid,0,0
+16,Choroid,0,0
+17,Choroid,977,1
+18,Choroid,0,0
+19,Choroid,0,0
+2,Choroid,0,0
+20,Choroid,0,0
+21,Choroid,0,0
+22,Choroid,0,0
+23,Choroid,0,0
+24,Choroid,0,0
+25,Choroid,0,0
+26,Choroid,0,0
+3,Choroid,0,0
+4,Choroid,0,0
+5,Choroid,0,0
+6,Choroid,0,0
+7,Choroid,0,0
+8,Choroid,0,0
+9,Choroid,0,0
+0,Dendritic,0,0
+1,Dendritic,0,0
+10,Dendritic,0,0
+11,Dendritic,0,0
+12,Dendritic,0,0
+13,Dendritic,0,0
+14,Dendritic,0,0
+15,Dendritic,0,0
+16,Dendritic,0,0
+17,Dendritic,0,0
+18,Dendritic,0,0
+19,Dendritic,4,0.006482982171799027
+2,Dendritic,0,0
+20,Dendritic,606,0.9821717990275527
+21,Dendritic,0,0
+22,Dendritic,0,0
+23,Dendritic,0,0
+24,Dendritic,0,0
+25,Dendritic,0,0
+26,Dendritic,0,0
+3,Dendritic,0,0
+4,Dendritic,0,0
+5,Dendritic,0,0
+6,Dendritic,0,0
+7,Dendritic,0,0
+8,Dendritic,7,0.011345218800648298
+9,Dendritic,0,0
+0,Endothelial,0,0
+1,Endothelial,0,0
+10,Endothelial,1946,0.9994863893168978
+11,Endothelial,0,0
+12,Endothelial,0,0
+13,Endothelial,0,0
+14,Endothelial,0,0
+15,Endothelial,0,0
+16,Endothelial,0,0
+17,Endothelial,0,0
+18,Endothelial,0,0
+19,Endothelial,0,0
+2,Endothelial,0,0
+20,Endothelial,0,0
+21,Endothelial,0,0
+22,Endothelial,0,0
+23,Endothelial,0,0
+24,Endothelial,0,0
+25,Endothelial,0,0
+26,Endothelial,0,0
+3,Endothelial,0,0
+4,Endothelial,0,0
+5,Endothelial,0,0
+6,Endothelial,0,0
+7,Endothelial,0,0
+8,Endothelial,1,5.136106831022085e-4
+9,Endothelial,0,0
+0,Ependymal,0,0
+1,Ependymal,0,0
+10,Ependymal,0,0
+11,Ependymal,0,0
+12,Ependymal,0,0
+13,Ependymal,0,0
+14,Ependymal,0,0
+15,Ependymal,0,0
+16,Ependymal,0,0
+17,Ependymal,0,0
+18,Ependymal,0,0
+19,Ependymal,0,0
+2,Ependymal,0,0
+20,Ependymal,0,0
+21,Ependymal,0,0
+22,Ependymal,0,0
+23,Ependymal,0,0
+24,Ependymal,0,0
+25,Ependymal,229,1
+26,Ependymal,0,0
+3,Ependymal,0,0
+4,Ependymal,0,0
+5,Ependymal,0,0
+6,Ependymal,0,0
+7,Ependymal,0,0
+8,Ependymal,0,0
+9,Ependymal,0,0
+0,Fibroblast,0,0
+1,Fibroblast,0,0
+10,Fibroblast,1,0.0026455026455026454
+11,Fibroblast,0,0
+12,Fibroblast,0,0
+13,Fibroblast,0,0
+14,Fibroblast,0,0
+15,Fibroblast,0,0
+16,Fibroblast,0,0
+17,Fibroblast,0,0
+18,Fibroblast,0,0
+19,Fibroblast,0,0
+2,Fibroblast,0,0
+20,Fibroblast,0,0
+21,Fibroblast,0,0
+22,Fibroblast,376,0.9947089947089947
+23,Fibroblast,0,0
+24,Fibroblast,1,0.0026455026455026454
+25,Fibroblast,0,0
+26,Fibroblast,0,0
+3,Fibroblast,0,0
+4,Fibroblast,0,0
+5,Fibroblast,0,0
+6,Fibroblast,0,0
+7,Fibroblast,0,0
+8,Fibroblast,0,0
+9,Fibroblast,0,0
+0,Macrophage,0,0
+1,Macrophage,2,5.785363031530228e-4
+10,Macrophage,0,0
+11,Macrophage,0,0
+12,Macrophage,28,0.00809950824414232
+13,Macrophage,234,0.06768874746890367
+14,Macrophage,0,0
+15,Macrophage,0,0
+16,Macrophage,0,0
+17,Macrophage,0,0
+18,Macrophage,0,0
+19,Macrophage,0,0
+2,Macrophage,0,0
+20,Macrophage,9,0.0026034133641886026
+21,Macrophage,0,0
+22,Macrophage,0,0
+23,Macrophage,385,0.1113682383569569
+24,Macrophage,0,0
+25,Macrophage,0,0
+26,Macrophage,3,8.678044547295343e-4
+3,Macrophage,0,0
+4,Macrophage,0,0
+5,Macrophage,0,0
+6,Macrophage,0,0
+7,Macrophage,0,0
+8,Macrophage,2796,0.8087937518079259
+9,Macrophage,0,0
+0,Microglia,0,0
+1,Microglia,6388,0.666318973610097
+10,Microglia,0,0
+11,Microglia,0,0
+12,Microglia,1818,0.18963179305309272
+13,Microglia,1354,0.14123291957859602
+14,Microglia,0,0
+15,Microglia,1,1.0430791697089809e-4
+16,Microglia,0,0
+17,Microglia,0,0
+18,Microglia,0,0
+19,Microglia,0,0
+2,Microglia,0,0
+20,Microglia,9,9.387712527380828e-4
+21,Microglia,0,0
+22,Microglia,0,0
+23,Microglia,0,0
+24,Microglia,0,0
+25,Microglia,0,0
+26,Microglia,0,0
+3,Microglia,0,0
+4,Microglia,0,0
+5,Microglia,0,0
+6,Microglia,0,0
+7,Microglia,1,1.0430791697089809e-4
+8,Microglia,16,0.0016689266715343694
+9,Microglia,0,0
+0,Mural,0,0
+1,Mural,0,0
+10,Mural,320,0.5
+11,Mural,0,0
+12,Mural,0,0
+13,Mural,0,0
+14,Mural,0,0
+15,Mural,0,0
+16,Mural,0,0
+17,Mural,0,0
+18,Mural,0,0
+19,Mural,0,0
+2,Mural,0,0
+20,Mural,0,0
+21,Mural,0,0
+22,Mural,0,0
+23,Mural,0,0
+24,Mural,320,0.5
+25,Mural,0,0
+26,Mural,0,0
+3,Mural,0,0
+4,Mural,0,0
+5,Mural,0,0
+6,Mural,0,0
+7,Mural,0,0
+8,Mural,0,0
+9,Mural,0,0
+0,Neopl-ACR,9,0.020316027088036117
+1,Neopl-ACR,0,0
+10,Neopl-ACR,0,0
+11,Neopl-ACR,5,0.011286681715575621
+12,Neopl-ACR,0,0
+13,Neopl-ACR,0,0
+14,Neopl-ACR,0,0
+15,Neopl-ACR,12,0.02708803611738149
+16,Neopl-ACR,405,0.9142212189616253
+17,Neopl-ACR,0,0
+18,Neopl-ACR,0,0
+19,Neopl-ACR,0,0
+2,Neopl-ACR,0,0
+20,Neopl-ACR,0,0
+21,Neopl-ACR,1,0.002257336343115124
+22,Neopl-ACR,0,0
+23,Neopl-ACR,0,0
+24,Neopl-ACR,0,0
+25,Neopl-ACR,0,0
+26,Neopl-ACR,0,0
+3,Neopl-ACR,1,0.002257336343115124
+4,Neopl-ACR,0,0
+5,Neopl-ACR,0,0
+6,Neopl-ACR,0,0
+7,Neopl-ACR,1,0.002257336343115124
+8,Neopl-ACR,0,0
+9,Neopl-ACR,9,0.020316027088036117
+0,Neopl-Bulk,10493,0.7604725322510508
+1,Neopl-Bulk,0,0
+10,Neopl-Bulk,1,7.247427163357009e-5
+11,Neopl-Bulk,178,0.012900420350775474
+12,Neopl-Bulk,0,0
+13,Neopl-Bulk,4,2.8989708653428034e-4
+14,Neopl-Bulk,0,0
+15,Neopl-Bulk,28,0.0020292796057399622
+16,Neopl-Bulk,34,0.002464125235541383
+17,Neopl-Bulk,0,0
+18,Neopl-Bulk,0,0
+19,Neopl-Bulk,0,0
+2,Neopl-Bulk,1043,0.0755906653138136
+20,Neopl-Bulk,0,0
+21,Neopl-Bulk,3,2.1742281490071024e-4
+22,Neopl-Bulk,0,0
+23,Neopl-Bulk,0,0
+24,Neopl-Bulk,1,7.247427163357009e-5
+25,Neopl-Bulk,0,0
+26,Neopl-Bulk,0,0
+3,Neopl-Bulk,1922,0.1392955500797217
+4,Neopl-Bulk,2,1.4494854326714017e-4
+5,Neopl-Bulk,0,0
+6,Neopl-Bulk,0,0
+7,Neopl-Bulk,1,7.247427163357009e-5
+8,Neopl-Bulk,0,0
+9,Neopl-Bulk,88,0.006377735903754168
+0,Neopl-CC-I,26,0.009658246656760773
+1,Neopl-CC-I,0,0
+10,Neopl-CC-I,0,0
+11,Neopl-CC-I,21,0.007800891530460624
+12,Neopl-CC-I,0,0
+13,Neopl-CC-I,0,0
+14,Neopl-CC-I,0,0
+15,Neopl-CC-I,0,0
+16,Neopl-CC-I,0,0
+17,Neopl-CC-I,0,0
+18,Neopl-CC-I,0,0
+19,Neopl-CC-I,0,0
+2,Neopl-CC-I,2515,0.9342496285289748
+20,Neopl-CC-I,0,0
+21,Neopl-CC-I,0,0
+22,Neopl-CC-I,0,0
+23,Neopl-CC-I,0,0
+24,Neopl-CC-I,0,0
+25,Neopl-CC-I,0,0
+26,Neopl-CC-I,0,0
+3,Neopl-CC-I,1,3.714710252600297e-4
+4,Neopl-CC-I,118,0.043833580980683504
+5,Neopl-CC-I,0,0
+6,Neopl-CC-I,0,0
+7,Neopl-CC-I,0,0
+8,Neopl-CC-I,0,0
+9,Neopl-CC-I,11,0.004086181277860327
+0,Neopl-CC-II,0,0
+1,Neopl-CC-II,0,0
+10,Neopl-CC-II,0,0
+11,Neopl-CC-II,0,0
+12,Neopl-CC-II,0,0
+13,Neopl-CC-II,4,0.001095290251916758
+14,Neopl-CC-II,0,0
+15,Neopl-CC-II,0,0
+16,Neopl-CC-II,0,0
+17,Neopl-CC-II,0,0
+18,Neopl-CC-II,0,0
+19,Neopl-CC-II,0,0
+2,Neopl-CC-II,31,0.008488499452354874
+20,Neopl-CC-II,0,0
+21,Neopl-CC-II,0,0
+22,Neopl-CC-II,0,0
+23,Neopl-CC-II,0,0
+24,Neopl-CC-II,0,0
+25,Neopl-CC-II,0,0
+26,Neopl-CC-II,0,0
+3,Neopl-CC-II,0,0
+4,Neopl-CC-II,3590,0.9830230010952903
+5,Neopl-CC-II,19,0.0052026286966046
+6,Neopl-CC-II,0,0
+7,Neopl-CC-II,0,0
+8,Neopl-CC-II,0,0
+9,Neopl-CC-II,8,0.002190580503833516
+0,Neopl-CC-III,64,0.011333451390118647
+1,Neopl-CC-III,0,0
+10,Neopl-CC-III,5,8.854258898530193e-4
+11,Neopl-CC-III,17,0.0030104480255002657
+12,Neopl-CC-III,0,0
+13,Neopl-CC-III,1,1.7708517797060386e-4
+14,Neopl-CC-III,0,0
+15,Neopl-CC-III,0,0
+16,Neopl-CC-III,2,3.541703559412077e-4
+17,Neopl-CC-III,0,0
+18,Neopl-CC-III,0,0
+19,Neopl-CC-III,0,0
+2,Neopl-CC-III,1803,0.31928457588099873
+20,Neopl-CC-III,1,1.7708517797060386e-4
+21,Neopl-CC-III,0,0
+22,Neopl-CC-III,0,0
+23,Neopl-CC-III,0,0
+24,Neopl-CC-III,0,0
+25,Neopl-CC-III,0,0
+26,Neopl-CC-III,0,0
+3,Neopl-CC-III,8,0.0014166814237648309
+4,Neopl-CC-III,93,0.01646892155126616
+5,Neopl-CC-III,3631,0.6429962812112626
+6,Neopl-CC-III,0,0
+7,Neopl-CC-III,0,0
+8,Neopl-CC-III,0,0
+9,Neopl-CC-III,22,0.003895873915353285
+0,Neopl-COP,3,0.0039164490861618795
+1,Neopl-COP,0,0
+10,Neopl-COP,0,0
+11,Neopl-COP,0,0
+12,Neopl-COP,0,0
+13,Neopl-COP,0,0
+14,Neopl-COP,0,0
+15,Neopl-COP,731,0.9543080939947781
+16,Neopl-COP,1,0.0013054830287206266
+17,Neopl-COP,0,0
+18,Neopl-COP,0,0
+19,Neopl-COP,0,0
+2,Neopl-COP,0,0
+20,Neopl-COP,0,0
+21,Neopl-COP,0,0
+22,Neopl-COP,0,0
+23,Neopl-COP,1,0.0013054830287206266
+24,Neopl-COP,0,0
+25,Neopl-COP,0,0
+26,Neopl-COP,0,0
+3,Neopl-COP,26,0.033942558746736295
+4,Neopl-COP,0,0
+5,Neopl-COP,1,0.0013054830287206266
+6,Neopl-COP,0,0
+7,Neopl-COP,0,0
+8,Neopl-COP,0,0
+9,Neopl-COP,3,0.0039164490861618795
+0,Neopl-ECM,63,0.023333333333333334
+1,Neopl-ECM,0,0
+10,Neopl-ECM,0,0
+11,Neopl-ECM,5,0.001851851851851852
+12,Neopl-ECM,0,0
+13,Neopl-ECM,0,0
+14,Neopl-ECM,0,0
+15,Neopl-ECM,3,0.0011111111111111111
+16,Neopl-ECM,26,0.00962962962962963
+17,Neopl-ECM,0,0
+18,Neopl-ECM,0,0
+19,Neopl-ECM,0,0
+2,Neopl-ECM,118,0.0437037037037037
+20,Neopl-ECM,0,0
+21,Neopl-ECM,0,0
+22,Neopl-ECM,0,0
+23,Neopl-ECM,0,0
+24,Neopl-ECM,0,0
+25,Neopl-ECM,0,0
+26,Neopl-ECM,0,0
+3,Neopl-ECM,223,0.08259259259259259
+4,Neopl-ECM,5,0.001851851851851852
+5,Neopl-ECM,30,0.011111111111111112
+6,Neopl-ECM,0,0
+7,Neopl-ECM,0,0
+8,Neopl-ECM,0,0
+9,Neopl-ECM,2227,0.8248148148148148
+0,Neopl-NC,1,0.011111111111111112
+1,Neopl-NC,0,0
+10,Neopl-NC,0,0
+11,Neopl-NC,0,0
+12,Neopl-NC,0,0
+13,Neopl-NC,1,0.011111111111111112
+14,Neopl-NC,0,0
+15,Neopl-NC,0,0
+16,Neopl-NC,0,0
+17,Neopl-NC,0,0
+18,Neopl-NC,0,0
+19,Neopl-NC,0,0
+2,Neopl-NC,1,0.011111111111111112
+20,Neopl-NC,0,0
+21,Neopl-NC,86,0.9555555555555556
+22,Neopl-NC,0,0
+23,Neopl-NC,0,0
+24,Neopl-NC,0,0
+25,Neopl-NC,0,0
+26,Neopl-NC,0,0
+3,Neopl-NC,0,0
+4,Neopl-NC,0,0
+5,Neopl-NC,0,0
+6,Neopl-NC,0,0
+7,Neopl-NC,1,0.011111111111111112
+8,Neopl-NC,0,0
+9,Neopl-NC,0,0
+0,Neopl-OPC,10,0.006253908692933083
+1,Neopl-OPC,0,0
+10,Neopl-OPC,0,0
+11,Neopl-OPC,5,0.0031269543464665416
+12,Neopl-OPC,0,0
+13,Neopl-OPC,0,0
+14,Neopl-OPC,0,0
+15,Neopl-OPC,5,0.0031269543464665416
+16,Neopl-OPC,0,0
+17,Neopl-OPC,0,0
+18,Neopl-OPC,0,0
+19,Neopl-OPC,0,0
+2,Neopl-OPC,90,0.05628517823639775
+20,Neopl-OPC,0,0
+21,Neopl-OPC,2,0.0012507817385866166
+22,Neopl-OPC,0,0
+23,Neopl-OPC,0,0
+24,Neopl-OPC,0,0
+25,Neopl-OPC,0,0
+26,Neopl-OPC,0,0
+3,Neopl-OPC,1485,0.9287054409005628
+4,Neopl-OPC,0,0
+5,Neopl-OPC,0,0
+6,Neopl-OPC,0,0
+7,Neopl-OPC,1,6.253908692933083e-4
+8,Neopl-OPC,0,0
+9,Neopl-OPC,1,6.253908692933083e-4
+0,Neopl-RNA-low,116,0.04957264957264957
+1,Neopl-RNA-low,0,0
+10,Neopl-RNA-low,2,8.547008547008547e-4
+11,Neopl-RNA-low,1754,0.7495726495726496
+12,Neopl-RNA-low,0,0
+13,Neopl-RNA-low,12,0.005128205128205128
+14,Neopl-RNA-low,0,0
+15,Neopl-RNA-low,0,0
+16,Neopl-RNA-low,2,8.547008547008547e-4
+17,Neopl-RNA-low,0,0
+18,Neopl-RNA-low,1,4.2735042735042735e-4
+19,Neopl-RNA-low,0,0
+2,Neopl-RNA-low,83,0.03547008547008547
+20,Neopl-RNA-low,2,8.547008547008547e-4
+21,Neopl-RNA-low,18,0.007692307692307693
+22,Neopl-RNA-low,1,4.2735042735042735e-4
+23,Neopl-RNA-low,0,0
+24,Neopl-RNA-low,0,0
+25,Neopl-RNA-low,0,0
+26,Neopl-RNA-low,0,0
+3,Neopl-RNA-low,115,0.049145299145299144
+4,Neopl-RNA-low,226,0.09658119658119659
+5,Neopl-RNA-low,0,0
+6,Neopl-RNA-low,0,0
+7,Neopl-RNA-low,6,0.002564102564102564
+8,Neopl-RNA-low,0,0
+9,Neopl-RNA-low,2,8.547008547008547e-4
+0,Neural,0,0
+1,Neural,0,0
+10,Neural,1,6.934812760055479e-4
+11,Neural,1,6.934812760055479e-4
+12,Neural,0,0
+13,Neural,2,0.0013869625520110957
+14,Neural,0,0
+15,Neural,0,0
+16,Neural,33,0.02288488210818308
+17,Neural,1,6.934812760055479e-4
+18,Neural,969,0.6719833564493759
+19,Neural,0,0
+2,Neural,0,0
+20,Neural,0,0
+21,Neural,427,0.2961165048543689
+22,Neural,0,0
+23,Neural,1,6.934812760055479e-4
+24,Neural,2,0.0013869625520110957
+25,Neural,0,0
+26,Neural,0,0
+3,Neural,0,0
+4,Neural,5,0.0034674063800277394
+5,Neural,0,0
+6,Neural,0,0
+7,Neural,0,0
+8,Neural,0,0
+9,Neural,0,0
+0,Neutrophil,0,0
+1,Neutrophil,0,0
+10,Neutrophil,0,0
+11,Neutrophil,0,0
+12,Neutrophil,1,0.00819672131147541
+13,Neutrophil,0,0
+14,Neutrophil,0,0
+15,Neutrophil,0,0
+16,Neutrophil,0,0
+17,Neutrophil,0,0
+18,Neutrophil,0,0
+19,Neutrophil,0,0
+2,Neutrophil,0,0
+20,Neutrophil,0,0
+21,Neutrophil,0,0
+22,Neutrophil,0,0
+23,Neutrophil,0,0
+24,Neutrophil,0,0
+25,Neutrophil,0,0
+26,Neutrophil,119,0.9754098360655737
+3,Neutrophil,0,0
+4,Neutrophil,0,0
+5,Neutrophil,0,0
+6,Neutrophil,0,0
+7,Neutrophil,0,0
+8,Neutrophil,2,0.01639344262295082
+9,Neutrophil,0,0
+0,NKTB,0,0
+1,NKTB,0,0
+10,NKTB,0,0
+11,NKTB,0,0
+12,NKTB,1,0.001075268817204301
+13,NKTB,0,0
+14,NKTB,0,0
+15,NKTB,0,0
+16,NKTB,0,0
+17,NKTB,0,0
+18,NKTB,0,0
+19,NKTB,868,0.9333333333333333
+2,NKTB,0,0
+20,NKTB,61,0.06559139784946237
+21,NKTB,0,0
+22,NKTB,0,0
+23,NKTB,0,0
+24,NKTB,0,0
+25,NKTB,0,0
+26,NKTB,0,0
+3,NKTB,0,0
+4,NKTB,0,0
+5,NKTB,0,0
+6,NKTB,0,0
+7,NKTB,0,0
+8,NKTB,0,0
+9,NKTB,0,0
+0,OPC/COP/OLG,4,8.148299042574863e-4
+1,OPC/COP/OLG,0,0
+10,OPC/COP/OLG,0,0
+11,OPC/COP/OLG,6,0.0012222448563862294
+12,OPC/COP/OLG,0,0
+13,OPC/COP/OLG,0,0
+14,OPC/COP/OLG,0,0
+15,OPC/COP/OLG,367,0.07476064371562437
+16,OPC/COP/OLG,0,0
+17,OPC/COP/OLG,0,0
+18,OPC/COP/OLG,0,0
+19,OPC/COP/OLG,0,0
+2,OPC/COP/OLG,62,0.012629863515991036
+20,OPC/COP/OLG,1,2.0370747606437156e-4
+21,OPC/COP/OLG,0,0
+22,OPC/COP/OLG,0,0
+23,OPC/COP/OLG,0,0
+24,OPC/COP/OLG,4,8.148299042574863e-4
+25,OPC/COP/OLG,1,2.0370747606437156e-4
+26,OPC/COP/OLG,0,0
+3,OPC/COP/OLG,1671,0.34039519250356487
+4,OPC/COP/OLG,1,2.0370747606437156e-4
+5,OPC/COP/OLG,0,0
+6,OPC/COP/OLG,0,0
+7,OPC/COP/OLG,2792,0.5687512731717254
+8,OPC/COP/OLG,0,0
+9,OPC/COP/OLG,0,0

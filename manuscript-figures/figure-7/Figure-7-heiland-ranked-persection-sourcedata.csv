@@ -1,0 +1,2269 @@
+target,program,section,r,source
+Neopl-ACR (ours),Neftel AC,UKF242_T_ST,0.07502173896285563,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel AC,UKF242_T_ST,0.03864400452565117,Neftel 2019
+Neopl-ECM (ours),Neftel AC,UKF242_T_ST,0.04217540206150746,Neftel 2019
+Neopl-COP (ours),Neftel AC,UKF242_T_ST,0.021210847360091017,Neftel 2019
+Neopl-NC (ours),Neftel AC,UKF242_T_ST,-0.0484649137580345,Neftel 2019
+Neopl-OPC (ours),Neftel AC,UKF242_T_ST,0.1047064245652929,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel AC,UKF242_T_ST,-0.0029391181956368905,Neftel 2019
+Neopl-ACR (ours),Neftel MES1,UKF242_T_ST,0.17444782409663764,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel MES1,UKF242_T_ST,0.08563389161573595,Neftel 2019
+Neopl-ECM (ours),Neftel MES1,UKF242_T_ST,-0.036645347795355145,Neftel 2019
+Neopl-COP (ours),Neftel MES1,UKF242_T_ST,-0.08720904645706641,Neftel 2019
+Neopl-NC (ours),Neftel MES1,UKF242_T_ST,-0.06220974443888738,Neftel 2019
+Neopl-OPC (ours),Neftel MES1,UKF242_T_ST,-0.1137346903961019,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel MES1,UKF242_T_ST,0.04082107283624196,Neftel 2019
+Neopl-ACR (ours),Neftel MES2,UKF242_T_ST,-0.00289363671161548,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel MES2,UKF242_T_ST,-0.014274559220440759,Neftel 2019
+Neopl-ECM (ours),Neftel MES2,UKF242_T_ST,0.008531493224377745,Neftel 2019
+Neopl-COP (ours),Neftel MES2,UKF242_T_ST,-0.04680839129221815,Neftel 2019
+Neopl-NC (ours),Neftel MES2,UKF242_T_ST,0.03137487623458181,Neftel 2019
+Neopl-OPC (ours),Neftel MES2,UKF242_T_ST,-0.05267338712171536,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel MES2,UKF242_T_ST,0.04485283089299692,Neftel 2019
+Neopl-ACR (ours),Neftel NPC1,UKF242_T_ST,-0.04618384849919424,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel NPC1,UKF242_T_ST,-0.014208359292177423,Neftel 2019
+Neopl-ECM (ours),Neftel NPC1,UKF242_T_ST,0.08350080624975059,Neftel 2019
+Neopl-COP (ours),Neftel NPC1,UKF242_T_ST,0.05368372984416222,Neftel 2019
+Neopl-NC (ours),Neftel NPC1,UKF242_T_ST,0.08231262663059936,Neftel 2019
+Neopl-OPC (ours),Neftel NPC1,UKF242_T_ST,0.10200121627388962,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel NPC1,UKF242_T_ST,0.036166765992433195,Neftel 2019
+Neopl-ACR (ours),Neftel NPC2,UKF242_T_ST,0.003725279586058978,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel NPC2,UKF242_T_ST,0.01587155903399647,Neftel 2019
+Neopl-ECM (ours),Neftel NPC2,UKF242_T_ST,0.03874796670070811,Neftel 2019
+Neopl-COP (ours),Neftel NPC2,UKF242_T_ST,0.021130309971296942,Neftel 2019
+Neopl-NC (ours),Neftel NPC2,UKF242_T_ST,0.4154398173798593,Neftel 2019
+Neopl-OPC (ours),Neftel NPC2,UKF242_T_ST,0.05096727479119395,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel NPC2,UKF242_T_ST,0.00862657300920418,Neftel 2019
+Neopl-ACR (ours),Neftel OPC,UKF242_T_ST,-0.024218033257099664,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel OPC,UKF242_T_ST,-0.0031725222425103192,Neftel 2019
+Neopl-ECM (ours),Neftel OPC,UKF242_T_ST,0.0729415189317062,Neftel 2019
+Neopl-COP (ours),Neftel OPC,UKF242_T_ST,0.2249335303968837,Neftel 2019
+Neopl-NC (ours),Neftel OPC,UKF242_T_ST,0.048596913619967645,Neftel 2019
+Neopl-OPC (ours),Neftel OPC,UKF242_T_ST,0.09707344213870836,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel OPC,UKF242_T_ST,-0.036205900854418896,Neftel 2019
+Neopl-ACR (ours),Richards Developmental,UKF242_T_ST,0.04791415556441935,Richards 2021
+"Neopl-ACR (ours, refined)",Richards Developmental,UKF242_T_ST,0.0445565764610639,Richards 2021
+Neopl-ECM (ours),Richards Developmental,UKF242_T_ST,-3.266360171694136e-4,Richards 2021
+Neopl-COP (ours),Richards Developmental,UKF242_T_ST,0.04220943287725494,Richards 2021
+Neopl-NC (ours),Richards Developmental,UKF242_T_ST,0.035709478757653325,Richards 2021
+Neopl-OPC (ours),Richards Developmental,UKF242_T_ST,0.15702046911602757,Richards 2021
+Neopl-CC/Bulk (ours),Richards Developmental,UKF242_T_ST,-0.034724079525221815,Richards 2021
+Neopl-ACR (ours),Richards Injury-Response,UKF242_T_ST,0.13403886060787368,Richards 2021
+"Neopl-ACR (ours, refined)",Richards Injury-Response,UKF242_T_ST,0.11178432684021852,Richards 2021
+Neopl-ECM (ours),Richards Injury-Response,UKF242_T_ST,-0.05167048956612667,Richards 2021
+Neopl-COP (ours),Richards Injury-Response,UKF242_T_ST,-0.07520478031596367,Richards 2021
+Neopl-NC (ours),Richards Injury-Response,UKF242_T_ST,-0.06229775641801024,Richards 2021
+Neopl-OPC (ours),Richards Injury-Response,UKF242_T_ST,-0.04836455400342177,Richards 2021
+Neopl-CC/Bulk (ours),Richards Injury-Response,UKF242_T_ST,-0.04095176839481687,Richards 2021
+Neopl-ACR (ours),Nomura OPC-like,UKF242_T_ST,-0.018653420404555626,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura OPC-like,UKF242_T_ST,0.007636005328112757,Nomura 2025
+Neopl-ECM (ours),Nomura OPC-like,UKF242_T_ST,0.07793636932075462,Nomura 2025
+Neopl-COP (ours),Nomura OPC-like,UKF242_T_ST,0.06153965390759354,Nomura 2025
+Neopl-NC (ours),Nomura OPC-like,UKF242_T_ST,0.028096584331157116,Nomura 2025
+Neopl-OPC (ours),Nomura OPC-like,UKF242_T_ST,0.20992584929545732,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura OPC-like,UKF242_T_ST,0.020637343794898105,Nomura 2025
+Neopl-ACR (ours),Nomura AC-like,UKF242_T_ST,0.21283196968607557,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura AC-like,UKF242_T_ST,0.11721338432333137,Nomura 2025
+Neopl-ECM (ours),Nomura AC-like,UKF242_T_ST,-0.01815806763490043,Nomura 2025
+Neopl-COP (ours),Nomura AC-like,UKF242_T_ST,-0.0019004540452930022,Nomura 2025
+Neopl-NC (ours),Nomura AC-like,UKF242_T_ST,-0.050155189059816516,Nomura 2025
+Neopl-OPC (ours),Nomura AC-like,UKF242_T_ST,0.014219174166575841,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura AC-like,UKF242_T_ST,0.03031278729797506,Nomura 2025
+Neopl-ACR (ours),Nomura Hypoxia,UKF242_T_ST,0.021044026981150127,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura Hypoxia,UKF242_T_ST,0.02047930457298812,Nomura 2025
+Neopl-ECM (ours),Nomura Hypoxia,UKF242_T_ST,-0.016114371389917816,Nomura 2025
+Neopl-COP (ours),Nomura Hypoxia,UKF242_T_ST,-0.02531640339055956,Nomura 2025
+Neopl-NC (ours),Nomura Hypoxia,UKF242_T_ST,0.009722165402431234,Nomura 2025
+Neopl-OPC (ours),Nomura Hypoxia,UKF242_T_ST,-0.027115449032862293,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura Hypoxia,UKF242_T_ST,0.030518339663688613,Nomura 2025
+Neopl-ACR (ours),Nomura MES-like,UKF242_T_ST,0.17516178687444467,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura MES-like,UKF242_T_ST,0.09916307479983497,Nomura 2025
+Neopl-ECM (ours),Nomura MES-like,UKF242_T_ST,-0.010548531393466468,Nomura 2025
+Neopl-COP (ours),Nomura MES-like,UKF242_T_ST,-0.028030159303055652,Nomura 2025
+Neopl-NC (ours),Nomura MES-like,UKF242_T_ST,0.012922862469881849,Nomura 2025
+Neopl-OPC (ours),Nomura MES-like,UKF242_T_ST,-0.054299177286871114,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura MES-like,UKF242_T_ST,0.15117498639726978,Nomura 2025
+Neopl-ACR (ours),Nomura NPC-like,UKF242_T_ST,-0.018534734148679247,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura NPC-like,UKF242_T_ST,-0.0048704871522909894,Nomura 2025
+Neopl-ECM (ours),Nomura NPC-like,UKF242_T_ST,0.013713757541177778,Nomura 2025
+Neopl-COP (ours),Nomura NPC-like,UKF242_T_ST,0.010783588298657706,Nomura 2025
+Neopl-NC (ours),Nomura NPC-like,UKF242_T_ST,0.09736657192151724,Nomura 2025
+Neopl-OPC (ours),Nomura NPC-like,UKF242_T_ST,0.028995559217327736,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura NPC-like,UKF242_T_ST,-2.3272658689441774e-4,Nomura 2025
+Neopl-ACR (ours),Nomura GPC-like,UKF242_T_ST,0.03067910209981947,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura GPC-like,UKF242_T_ST,0.04042741210771859,Nomura 2025
+Neopl-ECM (ours),Nomura GPC-like,UKF242_T_ST,0.04118695719122954,Nomura 2025
+Neopl-COP (ours),Nomura GPC-like,UKF242_T_ST,0.0755533523535104,Nomura 2025
+Neopl-NC (ours),Nomura GPC-like,UKF242_T_ST,0.04912324683507757,Nomura 2025
+Neopl-OPC (ours),Nomura GPC-like,UKF242_T_ST,0.0782248473145869,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura GPC-like,UKF242_T_ST,0.031271783595097025,Nomura 2025
+Neopl-ACR (ours),Nomura NEU-like,UKF242_T_ST,0.03893230309804026,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura NEU-like,UKF242_T_ST,0.009270418010468334,Nomura 2025
+Neopl-ECM (ours),Nomura NEU-like,UKF242_T_ST,-0.007249835856359571,Nomura 2025
+Neopl-COP (ours),Nomura NEU-like,UKF242_T_ST,-0.0020334084210735645,Nomura 2025
+Neopl-NC (ours),Nomura NEU-like,UKF242_T_ST,0.29547039283901844,Nomura 2025
+Neopl-OPC (ours),Nomura NEU-like,UKF242_T_ST,0.010466760482250472,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura NEU-like,UKF242_T_ST,0.061522833353053176,Nomura 2025
+Neopl-ACR (ours),Nomura Stress,UKF242_T_ST,0.03603915022762163,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura Stress,UKF242_T_ST,0.04025899236767919,Nomura 2025
+Neopl-ECM (ours),Nomura Stress,UKF242_T_ST,0.034891425822980125,Nomura 2025
+Neopl-COP (ours),Nomura Stress,UKF242_T_ST,-0.04005290564704825,Nomura 2025
+Neopl-NC (ours),Nomura Stress,UKF242_T_ST,0.02087668521007961,Nomura 2025
+Neopl-OPC (ours),Nomura Stress,UKF242_T_ST,-0.015468732379980314,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura Stress,UKF242_T_ST,-0.0030789654823656265,Nomura 2025
+Neopl-ACR (ours),Nomura Cilia-like,UKF242_T_ST,0.007219699432789924,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura Cilia-like,UKF242_T_ST,-0.004748735711751573,Nomura 2025
+Neopl-ECM (ours),Nomura Cilia-like,UKF242_T_ST,-0.009429632319861136,Nomura 2025
+Neopl-COP (ours),Nomura Cilia-like,UKF242_T_ST,-0.014555386186748545,Nomura 2025
+Neopl-NC (ours),Nomura Cilia-like,UKF242_T_ST,-0.04102295261996082,Nomura 2025
+Neopl-OPC (ours),Nomura Cilia-like,UKF242_T_ST,0.0019971604543266713,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura Cilia-like,UKF242_T_ST,-0.008200454283602561,Nomura 2025
+Neopl-ACR (ours),Nomura Cell cycle,UKF242_T_ST,-0.01096996067670126,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura Cell cycle,UKF242_T_ST,5.4225501636607046e-5,Nomura 2025
+Neopl-ECM (ours),Nomura Cell cycle,UKF242_T_ST,-0.01647014086104566,Nomura 2025
+Neopl-COP (ours),Nomura Cell cycle,UKF242_T_ST,-0.002572711213968459,Nomura 2025
+Neopl-NC (ours),Nomura Cell cycle,UKF242_T_ST,-0.0362256734266719,Nomura 2025
+Neopl-OPC (ours),Nomura Cell cycle,UKF242_T_ST,-0.016326191366389346,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura Cell cycle,UKF242_T_ST,0.08594437692527819,Nomura 2025
+Neopl-ACR (ours),Neftel AC,UKF243_T_ST,0.7055993584520381,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel AC,UKF243_T_ST,0.5864169765070225,Neftel 2019
+Neopl-ECM (ours),Neftel AC,UKF243_T_ST,0.6347420031427498,Neftel 2019
+Neopl-COP (ours),Neftel AC,UKF243_T_ST,0.5724432125712734,Neftel 2019
+Neopl-NC (ours),Neftel AC,UKF243_T_ST,-0.1432825403770177,Neftel 2019
+Neopl-OPC (ours),Neftel AC,UKF243_T_ST,0.48023448362962007,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel AC,UKF243_T_ST,0.13533624038358674,Neftel 2019
+Neopl-ACR (ours),Neftel MES1,UKF243_T_ST,0.33666372115069415,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel MES1,UKF243_T_ST,0.3492234670185717,Neftel 2019
+Neopl-ECM (ours),Neftel MES1,UKF243_T_ST,-0.2505001748856078,Neftel 2019
+Neopl-COP (ours),Neftel MES1,UKF243_T_ST,-0.19137548973617183,Neftel 2019
+Neopl-NC (ours),Neftel MES1,UKF243_T_ST,-0.30079133541445385,Neftel 2019
+Neopl-OPC (ours),Neftel MES1,UKF243_T_ST,-0.2648511855505851,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel MES1,UKF243_T_ST,-0.005349267872006007,Neftel 2019
+Neopl-ACR (ours),Neftel MES2,UKF243_T_ST,-0.43360714818288254,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel MES2,UKF243_T_ST,-0.29796176864161766,Neftel 2019
+Neopl-ECM (ours),Neftel MES2,UKF243_T_ST,-0.6455728836810521,Neftel 2019
+Neopl-COP (ours),Neftel MES2,UKF243_T_ST,-0.5180737644495941,Neftel 2019
+Neopl-NC (ours),Neftel MES2,UKF243_T_ST,-0.16526944542828656,Neftel 2019
+Neopl-OPC (ours),Neftel MES2,UKF243_T_ST,-0.500240878027067,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel MES2,UKF243_T_ST,-0.271119025563469,Neftel 2019
+Neopl-ACR (ours),Neftel NPC1,UKF243_T_ST,0.32767775861522147,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel NPC1,UKF243_T_ST,0.2254298484681827,Neftel 2019
+Neopl-ECM (ours),Neftel NPC1,UKF243_T_ST,0.5798821435196406,Neftel 2019
+Neopl-COP (ours),Neftel NPC1,UKF243_T_ST,0.4782182118774507,Neftel 2019
+Neopl-NC (ours),Neftel NPC1,UKF243_T_ST,0.1864569616353722,Neftel 2019
+Neopl-OPC (ours),Neftel NPC1,UKF243_T_ST,0.5057524000356601,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel NPC1,UKF243_T_ST,0.24220383123318923,Neftel 2019
+Neopl-ACR (ours),Neftel NPC2,UKF243_T_ST,0.08482801834270583,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel NPC2,UKF243_T_ST,0.03822381417432958,Neftel 2019
+Neopl-ECM (ours),Neftel NPC2,UKF243_T_ST,0.28312477326922064,Neftel 2019
+Neopl-COP (ours),Neftel NPC2,UKF243_T_ST,0.23666807000935267,Neftel 2019
+Neopl-NC (ours),Neftel NPC2,UKF243_T_ST,0.5000013770780323,Neftel 2019
+Neopl-OPC (ours),Neftel NPC2,UKF243_T_ST,0.293321314535309,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel NPC2,UKF243_T_ST,0.19009404102207805,Neftel 2019
+Neopl-ACR (ours),Neftel OPC,UKF243_T_ST,0.5642594475247475,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel OPC,UKF243_T_ST,0.44919950222823124,Neftel 2019
+Neopl-ECM (ours),Neftel OPC,UKF243_T_ST,0.6491692583583453,Neftel 2019
+Neopl-COP (ours),Neftel OPC,UKF243_T_ST,0.597714339751979,Neftel 2019
+Neopl-NC (ours),Neftel OPC,UKF243_T_ST,-4.189091188073049e-4,Neftel 2019
+Neopl-OPC (ours),Neftel OPC,UKF243_T_ST,0.48104050688571387,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel OPC,UKF243_T_ST,0.1756518988334148,Neftel 2019
+Neopl-ACR (ours),Richards Developmental,UKF243_T_ST,0.3911219544796521,Richards 2021
+"Neopl-ACR (ours, refined)",Richards Developmental,UKF243_T_ST,0.2800244075688119,Richards 2021
+Neopl-ECM (ours),Richards Developmental,UKF243_T_ST,0.5727332625213611,Richards 2021
+Neopl-COP (ours),Richards Developmental,UKF243_T_ST,0.517816987280594,Richards 2021
+Neopl-NC (ours),Richards Developmental,UKF243_T_ST,0.04408072683724039,Richards 2021
+Neopl-OPC (ours),Richards Developmental,UKF243_T_ST,0.48510424929822854,Richards 2021
+Neopl-CC/Bulk (ours),Richards Developmental,UKF243_T_ST,0.041745395681808246,Richards 2021
+Neopl-ACR (ours),Richards Injury-Response,UKF243_T_ST,0.3740980270982803,Richards 2021
+"Neopl-ACR (ours, refined)",Richards Injury-Response,UKF243_T_ST,0.34122884710723334,Richards 2021
+Neopl-ECM (ours),Richards Injury-Response,UKF243_T_ST,-0.03679904532100522,Richards 2021
+Neopl-COP (ours),Richards Injury-Response,UKF243_T_ST,-0.07382905667935619,Richards 2021
+Neopl-NC (ours),Richards Injury-Response,UKF243_T_ST,-0.44270024540785435,Richards 2021
+Neopl-OPC (ours),Richards Injury-Response,UKF243_T_ST,-0.16518355637792473,Richards 2021
+Neopl-CC/Bulk (ours),Richards Injury-Response,UKF243_T_ST,-0.08682686692053955,Richards 2021
+Neopl-ACR (ours),Nomura OPC-like,UKF243_T_ST,0.19521526543241818,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura OPC-like,UKF243_T_ST,0.1337874271811374,Nomura 2025
+Neopl-ECM (ours),Nomura OPC-like,UKF243_T_ST,0.4441652582934079,Nomura 2025
+Neopl-COP (ours),Nomura OPC-like,UKF243_T_ST,0.3724180777599574,Nomura 2025
+Neopl-NC (ours),Nomura OPC-like,UKF243_T_ST,0.17903380764215832,Nomura 2025
+Neopl-OPC (ours),Nomura OPC-like,UKF243_T_ST,0.46411297661776996,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura OPC-like,UKF243_T_ST,0.18444184240174777,Nomura 2025
+Neopl-ACR (ours),Nomura AC-like,UKF243_T_ST,0.7012230853731185,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura AC-like,UKF243_T_ST,0.5670314511148989,Nomura 2025
+Neopl-ECM (ours),Nomura AC-like,UKF243_T_ST,0.41457731346038235,Nomura 2025
+Neopl-COP (ours),Nomura AC-like,UKF243_T_ST,0.43806628866612213,Nomura 2025
+Neopl-NC (ours),Nomura AC-like,UKF243_T_ST,-0.06397527574947358,Nomura 2025
+Neopl-OPC (ours),Nomura AC-like,UKF243_T_ST,0.3504886335186659,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura AC-like,UKF243_T_ST,0.11348732878841665,Nomura 2025
+Neopl-ACR (ours),Nomura Hypoxia,UKF243_T_ST,-0.36715622627306116,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura Hypoxia,UKF243_T_ST,-0.23050472446081982,Nomura 2025
+Neopl-ECM (ours),Nomura Hypoxia,UKF243_T_ST,-0.6094781180055088,Nomura 2025
+Neopl-COP (ours),Nomura Hypoxia,UKF243_T_ST,-0.4600428094922776,Nomura 2025
+Neopl-NC (ours),Nomura Hypoxia,UKF243_T_ST,-0.16531041267415864,Nomura 2025
+Neopl-OPC (ours),Nomura Hypoxia,UKF243_T_ST,-0.441155286042488,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura Hypoxia,UKF243_T_ST,-0.2600564937511502,Nomura 2025
+Neopl-ACR (ours),Nomura MES-like,UKF243_T_ST,0.3686324720864963,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura MES-like,UKF243_T_ST,0.379931542644025,Nomura 2025
+Neopl-ECM (ours),Nomura MES-like,UKF243_T_ST,-0.17120035704694292,Nomura 2025
+Neopl-COP (ours),Nomura MES-like,UKF243_T_ST,-0.15319283599492028,Nomura 2025
+Neopl-NC (ours),Nomura MES-like,UKF243_T_ST,-0.29188959754726096,Nomura 2025
+Neopl-OPC (ours),Nomura MES-like,UKF243_T_ST,-0.2078794232060118,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura MES-like,UKF243_T_ST,0.1255360614730804,Nomura 2025
+Neopl-ACR (ours),Nomura NPC-like,UKF243_T_ST,2.717945847109783e-4,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura NPC-like,UKF243_T_ST,-0.06386031615254675,Nomura 2025
+Neopl-ECM (ours),Nomura NPC-like,UKF243_T_ST,0.18806965870960382,Nomura 2025
+Neopl-COP (ours),Nomura NPC-like,UKF243_T_ST,0.1765823792318087,Nomura 2025
+Neopl-NC (ours),Nomura NPC-like,UKF243_T_ST,0.34867902749520896,Nomura 2025
+Neopl-OPC (ours),Nomura NPC-like,UKF243_T_ST,0.2610911681004636,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura NPC-like,UKF243_T_ST,0.11206838692355234,Nomura 2025
+Neopl-ACR (ours),Nomura GPC-like,UKF243_T_ST,0.487516965964615,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura GPC-like,UKF243_T_ST,0.39101163137566824,Nomura 2025
+Neopl-ECM (ours),Nomura GPC-like,UKF243_T_ST,0.592121586651212,Nomura 2025
+Neopl-COP (ours),Nomura GPC-like,UKF243_T_ST,0.46782442812525155,Nomura 2025
+Neopl-NC (ours),Nomura GPC-like,UKF243_T_ST,0.007475577075282024,Nomura 2025
+Neopl-OPC (ours),Nomura GPC-like,UKF243_T_ST,0.453183205695262,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura GPC-like,UKF243_T_ST,0.23263398100736624,Nomura 2025
+Neopl-ACR (ours),Nomura NEU-like,UKF243_T_ST,0.07070139048951737,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura NEU-like,UKF243_T_ST,0.008096672291265388,Nomura 2025
+Neopl-ECM (ours),Nomura NEU-like,UKF243_T_ST,0.26730968263126553,Nomura 2025
+Neopl-COP (ours),Nomura NEU-like,UKF243_T_ST,0.2358803582585074,Nomura 2025
+Neopl-NC (ours),Nomura NEU-like,UKF243_T_ST,0.4649662002966801,Nomura 2025
+Neopl-OPC (ours),Nomura NEU-like,UKF243_T_ST,0.29750347079803996,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura NEU-like,UKF243_T_ST,0.10692575010563214,Nomura 2025
+Neopl-ACR (ours),Nomura Stress,UKF243_T_ST,-0.41374998842527944,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura Stress,UKF243_T_ST,-0.3117884593225878,Nomura 2025
+Neopl-ECM (ours),Nomura Stress,UKF243_T_ST,-0.44577411804228356,Nomura 2025
+Neopl-COP (ours),Nomura Stress,UKF243_T_ST,-0.4062657113210385,Nomura 2025
+Neopl-NC (ours),Nomura Stress,UKF243_T_ST,-0.12328068009980642,Nomura 2025
+Neopl-OPC (ours),Nomura Stress,UKF243_T_ST,-0.38238330294008743,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura Stress,UKF243_T_ST,-0.23747787279975793,Nomura 2025
+Neopl-ACR (ours),Nomura Cilia-like,UKF243_T_ST,-0.018087527807105347,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura Cilia-like,UKF243_T_ST,-0.011415264410761348,Nomura 2025
+Neopl-ECM (ours),Nomura Cilia-like,UKF243_T_ST,-0.024274595756380236,Nomura 2025
+Neopl-COP (ours),Nomura Cilia-like,UKF243_T_ST,0.020689700030221126,Nomura 2025
+Neopl-NC (ours),Nomura Cilia-like,UKF243_T_ST,0.013141169188396988,Nomura 2025
+Neopl-OPC (ours),Nomura Cilia-like,UKF243_T_ST,0.0043069180481721476,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura Cilia-like,UKF243_T_ST,-0.0923597311999985,Nomura 2025
+Neopl-ACR (ours),Nomura Cell cycle,UKF243_T_ST,0.16658638114605948,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura Cell cycle,UKF243_T_ST,0.13533792953325935,Nomura 2025
+Neopl-ECM (ours),Nomura Cell cycle,UKF243_T_ST,0.20039195768728618,Nomura 2025
+Neopl-COP (ours),Nomura Cell cycle,UKF243_T_ST,0.09442405781873141,Nomura 2025
+Neopl-NC (ours),Nomura Cell cycle,UKF243_T_ST,-0.07205910852181989,Nomura 2025
+Neopl-OPC (ours),Nomura Cell cycle,UKF243_T_ST,0.10606319895213677,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura Cell cycle,UKF243_T_ST,0.3412923495581218,Nomura 2025
+Neopl-ACR (ours),Neftel AC,UKF248_T_ST,0.1528779143546332,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel AC,UKF248_T_ST,0.08970691677862584,Neftel 2019
+Neopl-ECM (ours),Neftel AC,UKF248_T_ST,0.3515583341345422,Neftel 2019
+Neopl-COP (ours),Neftel AC,UKF248_T_ST,0.4330681863098097,Neftel 2019
+Neopl-NC (ours),Neftel AC,UKF248_T_ST,0.12370586858754383,Neftel 2019
+Neopl-OPC (ours),Neftel AC,UKF248_T_ST,0.45440193146627933,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel AC,UKF248_T_ST,0.39901594618220176,Neftel 2019
+Neopl-ACR (ours),Neftel MES1,UKF248_T_ST,0.4586152517807646,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel MES1,UKF248_T_ST,0.3445256536708262,Neftel 2019
+Neopl-ECM (ours),Neftel MES1,UKF248_T_ST,-0.17327900459367543,Neftel 2019
+Neopl-COP (ours),Neftel MES1,UKF248_T_ST,-0.3381494509851757,Neftel 2019
+Neopl-NC (ours),Neftel MES1,UKF248_T_ST,-0.4521560138186551,Neftel 2019
+Neopl-OPC (ours),Neftel MES1,UKF248_T_ST,-0.40905247417765367,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel MES1,UKF248_T_ST,-0.41777174320191096,Neftel 2019
+Neopl-ACR (ours),Neftel MES2,UKF248_T_ST,0.008229427646073081,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel MES2,UKF248_T_ST,-0.02348932597456307,Neftel 2019
+Neopl-ECM (ours),Neftel MES2,UKF248_T_ST,-0.4179315622095056,Neftel 2019
+Neopl-COP (ours),Neftel MES2,UKF248_T_ST,-0.44197130156516323,Neftel 2019
+Neopl-NC (ours),Neftel MES2,UKF248_T_ST,-0.04792214219772906,Neftel 2019
+Neopl-OPC (ours),Neftel MES2,UKF248_T_ST,-0.4011257652971159,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel MES2,UKF248_T_ST,-0.5083898752543358,Neftel 2019
+Neopl-ACR (ours),Neftel NPC1,UKF248_T_ST,-0.037083240655507,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel NPC1,UKF248_T_ST,-0.043948090058985916,Neftel 2019
+Neopl-ECM (ours),Neftel NPC1,UKF248_T_ST,0.38231532873318624,Neftel 2019
+Neopl-COP (ours),Neftel NPC1,UKF248_T_ST,0.49220818584466647,Neftel 2019
+Neopl-NC (ours),Neftel NPC1,UKF248_T_ST,0.2402308430973613,Neftel 2019
+Neopl-OPC (ours),Neftel NPC1,UKF248_T_ST,0.5401418666405113,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel NPC1,UKF248_T_ST,0.5121014867205642,Neftel 2019
+Neopl-ACR (ours),Neftel NPC2,UKF248_T_ST,-0.01150102034651877,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel NPC2,UKF248_T_ST,-0.046044667929508044,Neftel 2019
+Neopl-ECM (ours),Neftel NPC2,UKF248_T_ST,0.14332433716787757,Neftel 2019
+Neopl-COP (ours),Neftel NPC2,UKF248_T_ST,0.216898934046216,Neftel 2019
+Neopl-NC (ours),Neftel NPC2,UKF248_T_ST,0.5393060528145517,Neftel 2019
+Neopl-OPC (ours),Neftel NPC2,UKF248_T_ST,0.24441527160625529,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel NPC2,UKF248_T_ST,0.23077310592094202,Neftel 2019
+Neopl-ACR (ours),Neftel OPC,UKF248_T_ST,-0.030927914417493242,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel OPC,UKF248_T_ST,-0.03973232554088817,Neftel 2019
+Neopl-ECM (ours),Neftel OPC,UKF248_T_ST,0.3780706651768668,Neftel 2019
+Neopl-COP (ours),Neftel OPC,UKF248_T_ST,0.5583510444319225,Neftel 2019
+Neopl-NC (ours),Neftel OPC,UKF248_T_ST,0.1890310693782856,Neftel 2019
+Neopl-OPC (ours),Neftel OPC,UKF248_T_ST,0.531781713880636,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel OPC,UKF248_T_ST,0.47574129680198685,Neftel 2019
+Neopl-ACR (ours),Richards Developmental,UKF248_T_ST,0.0092022006877555,Richards 2021
+"Neopl-ACR (ours, refined)",Richards Developmental,UKF248_T_ST,-0.006857817584974564,Richards 2021
+Neopl-ECM (ours),Richards Developmental,UKF248_T_ST,0.35985089924005886,Richards 2021
+Neopl-COP (ours),Richards Developmental,UKF248_T_ST,0.46313557768334385,Richards 2021
+Neopl-NC (ours),Richards Developmental,UKF248_T_ST,0.3743542559240173,Richards 2021
+Neopl-OPC (ours),Richards Developmental,UKF248_T_ST,0.5206401344159677,Richards 2021
+Neopl-CC/Bulk (ours),Richards Developmental,UKF248_T_ST,0.4450976324156827,Richards 2021
+Neopl-ACR (ours),Richards Injury-Response,UKF248_T_ST,0.3718172338388678,Richards 2021
+"Neopl-ACR (ours, refined)",Richards Injury-Response,UKF248_T_ST,0.3312205021824154,Richards 2021
+Neopl-ECM (ours),Richards Injury-Response,UKF248_T_ST,0.010798815752079251,Richards 2021
+Neopl-COP (ours),Richards Injury-Response,UKF248_T_ST,-0.21018035182828315,Richards 2021
+Neopl-NC (ours),Richards Injury-Response,UKF248_T_ST,-0.3780413794056454,Richards 2021
+Neopl-OPC (ours),Richards Injury-Response,UKF248_T_ST,-0.28859582478671314,Richards 2021
+Neopl-CC/Bulk (ours),Richards Injury-Response,UKF248_T_ST,-0.25818205083271734,Richards 2021
+Neopl-ACR (ours),Nomura OPC-like,UKF248_T_ST,-0.10385327976248827,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura OPC-like,UKF248_T_ST,-0.06930560488073553,Nomura 2025
+Neopl-ECM (ours),Nomura OPC-like,UKF248_T_ST,0.26628512740456006,Nomura 2025
+Neopl-COP (ours),Nomura OPC-like,UKF248_T_ST,0.39784902721834303,Nomura 2025
+Neopl-NC (ours),Nomura OPC-like,UKF248_T_ST,0.25759361976831385,Nomura 2025
+Neopl-OPC (ours),Nomura OPC-like,UKF248_T_ST,0.514132168521334,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura OPC-like,UKF248_T_ST,0.38368252688976573,Nomura 2025
+Neopl-ACR (ours),Nomura AC-like,UKF248_T_ST,0.44321654438497526,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura AC-like,UKF248_T_ST,0.2423114419601761,Nomura 2025
+Neopl-ECM (ours),Nomura AC-like,UKF248_T_ST,0.11965089054771348,Nomura 2025
+Neopl-COP (ours),Nomura AC-like,UKF248_T_ST,0.15254280021227093,Nomura 2025
+Neopl-NC (ours),Nomura AC-like,UKF248_T_ST,-0.005094128759357198,Nomura 2025
+Neopl-OPC (ours),Nomura AC-like,UKF248_T_ST,0.1319047421993896,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura AC-like,UKF248_T_ST,0.07949695839069244,Nomura 2025
+Neopl-ACR (ours),Nomura Hypoxia,UKF248_T_ST,-0.028605480646056586,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura Hypoxia,UKF248_T_ST,-0.03165444958046054,Nomura 2025
+Neopl-ECM (ours),Nomura Hypoxia,UKF248_T_ST,-0.381259478721058,Nomura 2025
+Neopl-COP (ours),Nomura Hypoxia,UKF248_T_ST,-0.40062818117540794,Nomura 2025
+Neopl-NC (ours),Nomura Hypoxia,UKF248_T_ST,-0.011551508786362095,Nomura 2025
+Neopl-OPC (ours),Nomura Hypoxia,UKF248_T_ST,-0.3288768465971588,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura Hypoxia,UKF248_T_ST,-0.4689197334148602,Nomura 2025
+Neopl-ACR (ours),Nomura MES-like,UKF248_T_ST,0.45694194530770443,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura MES-like,UKF248_T_ST,0.35613481928461505,Nomura 2025
+Neopl-ECM (ours),Nomura MES-like,UKF248_T_ST,-0.14497331094516572,Nomura 2025
+Neopl-COP (ours),Nomura MES-like,UKF248_T_ST,-0.3139324415612136,Nomura 2025
+Neopl-NC (ours),Nomura MES-like,UKF248_T_ST,-0.3473226424434588,Nomura 2025
+Neopl-OPC (ours),Nomura MES-like,UKF248_T_ST,-0.3783624524597878,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura MES-like,UKF248_T_ST,-0.3420262438162367,Nomura 2025
+Neopl-ACR (ours),Nomura NPC-like,UKF248_T_ST,-0.02735251720606068,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura NPC-like,UKF248_T_ST,-0.03676933130901087,Nomura 2025
+Neopl-ECM (ours),Nomura NPC-like,UKF248_T_ST,0.08336964861854453,Nomura 2025
+Neopl-COP (ours),Nomura NPC-like,UKF248_T_ST,0.16394787971707714,Nomura 2025
+Neopl-NC (ours),Nomura NPC-like,UKF248_T_ST,0.3085911470192111,Nomura 2025
+Neopl-OPC (ours),Nomura NPC-like,UKF248_T_ST,0.25320069026777625,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura NPC-like,UKF248_T_ST,0.19672739515675294,Nomura 2025
+Neopl-ACR (ours),Nomura GPC-like,UKF248_T_ST,-0.034731047162835996,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura GPC-like,UKF248_T_ST,0.006030262571987301,Nomura 2025
+Neopl-ECM (ours),Nomura GPC-like,UKF248_T_ST,0.2503045229877233,Nomura 2025
+Neopl-COP (ours),Nomura GPC-like,UKF248_T_ST,0.2942025555865455,Nomura 2025
+Neopl-NC (ours),Nomura GPC-like,UKF248_T_ST,0.17204135518484265,Nomura 2025
+Neopl-OPC (ours),Nomura GPC-like,UKF248_T_ST,0.3486489013595131,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura GPC-like,UKF248_T_ST,0.3309626946478189,Nomura 2025
+Neopl-ACR (ours),Nomura NEU-like,UKF248_T_ST,-0.07238074870440883,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura NEU-like,UKF248_T_ST,-0.09225727625960624,Nomura 2025
+Neopl-ECM (ours),Nomura NEU-like,UKF248_T_ST,0.12862896988949407,Nomura 2025
+Neopl-COP (ours),Nomura NEU-like,UKF248_T_ST,0.14534270052279943,Nomura 2025
+Neopl-NC (ours),Nomura NEU-like,UKF248_T_ST,0.685895629029829,Nomura 2025
+Neopl-OPC (ours),Nomura NEU-like,UKF248_T_ST,0.20383290693183784,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura NEU-like,UKF248_T_ST,0.16658063374855647,Nomura 2025
+Neopl-ACR (ours),Nomura Stress,UKF248_T_ST,0.019541035188812252,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura Stress,UKF248_T_ST,0.017335182058888593,Nomura 2025
+Neopl-ECM (ours),Nomura Stress,UKF248_T_ST,-0.21187685547414895,Nomura 2025
+Neopl-COP (ours),Nomura Stress,UKF248_T_ST,-0.2614785612210964,Nomura 2025
+Neopl-NC (ours),Nomura Stress,UKF248_T_ST,-0.06269269734863195,Nomura 2025
+Neopl-OPC (ours),Nomura Stress,UKF248_T_ST,-0.261165529150118,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura Stress,UKF248_T_ST,-0.32835450730897614,Nomura 2025
+Neopl-ACR (ours),Nomura Cilia-like,UKF248_T_ST,-0.001673991447480536,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura Cilia-like,UKF248_T_ST,-0.027279990757804563,Nomura 2025
+Neopl-ECM (ours),Nomura Cilia-like,UKF248_T_ST,-0.033336286763761956,Nomura 2025
+Neopl-COP (ours),Nomura Cilia-like,UKF248_T_ST,-0.011487025857165165,Nomura 2025
+Neopl-NC (ours),Nomura Cilia-like,UKF248_T_ST,0.03301252742527016,Nomura 2025
+Neopl-OPC (ours),Nomura Cilia-like,UKF248_T_ST,0.03432103406422442,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura Cilia-like,UKF248_T_ST,0.014315690150188198,Nomura 2025
+Neopl-ACR (ours),Nomura Cell cycle,UKF248_T_ST,-0.03444010269407632,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura Cell cycle,UKF248_T_ST,-0.001999116900087651,Nomura 2025
+Neopl-ECM (ours),Nomura Cell cycle,UKF248_T_ST,0.2250961735090495,Nomura 2025
+Neopl-COP (ours),Nomura Cell cycle,UKF248_T_ST,0.2611786984936552,Nomura 2025
+Neopl-NC (ours),Nomura Cell cycle,UKF248_T_ST,0.07140900524893046,Nomura 2025
+Neopl-OPC (ours),Nomura Cell cycle,UKF248_T_ST,0.2579704849075969,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura Cell cycle,UKF248_T_ST,0.6068969627077219,Nomura 2025
+Neopl-ACR (ours),Neftel AC,UKF251_T_ST,0.3177765578125989,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel AC,UKF251_T_ST,0.20920404398412276,Neftel 2019
+Neopl-ECM (ours),Neftel AC,UKF251_T_ST,0.06867367870188873,Neftel 2019
+Neopl-COP (ours),Neftel AC,UKF251_T_ST,0.11122363861403443,Neftel 2019
+Neopl-NC (ours),Neftel AC,UKF251_T_ST,0.05916429899278484,Neftel 2019
+Neopl-OPC (ours),Neftel AC,UKF251_T_ST,0.04397800408191185,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel AC,UKF251_T_ST,-0.12400736489188803,Neftel 2019
+Neopl-ACR (ours),Neftel MES1,UKF251_T_ST,0.23993297318753418,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel MES1,UKF251_T_ST,0.12402040134852196,Neftel 2019
+Neopl-ECM (ours),Neftel MES1,UKF251_T_ST,-0.0075919852274908516,Neftel 2019
+Neopl-COP (ours),Neftel MES1,UKF251_T_ST,-0.0652560661353851,Neftel 2019
+Neopl-NC (ours),Neftel MES1,UKF251_T_ST,-0.013774078371238393,Neftel 2019
+Neopl-OPC (ours),Neftel MES1,UKF251_T_ST,-0.1605545294966118,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel MES1,UKF251_T_ST,-0.2249026865456676,Neftel 2019
+Neopl-ACR (ours),Neftel MES2,UKF251_T_ST,0.0378702002483934,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel MES2,UKF251_T_ST,0.0054092875523532044,Neftel 2019
+Neopl-ECM (ours),Neftel MES2,UKF251_T_ST,-0.031855455535198446,Neftel 2019
+Neopl-COP (ours),Neftel MES2,UKF251_T_ST,-0.04454364853496352,Neftel 2019
+Neopl-NC (ours),Neftel MES2,UKF251_T_ST,0.025163393011069363,Neftel 2019
+Neopl-OPC (ours),Neftel MES2,UKF251_T_ST,-0.08112162759073371,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel MES2,UKF251_T_ST,-0.08565271682340157,Neftel 2019
+Neopl-ACR (ours),Neftel NPC1,UKF251_T_ST,-0.12467101286701872,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel NPC1,UKF251_T_ST,-0.047783867316424436,Neftel 2019
+Neopl-ECM (ours),Neftel NPC1,UKF251_T_ST,0.05353006611086692,Neftel 2019
+Neopl-COP (ours),Neftel NPC1,UKF251_T_ST,2.4338768719455917e-4,Neftel 2019
+Neopl-NC (ours),Neftel NPC1,UKF251_T_ST,-0.0867224606474155,Neftel 2019
+Neopl-OPC (ours),Neftel NPC1,UKF251_T_ST,0.18409819177463135,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel NPC1,UKF251_T_ST,0.22970725631440728,Neftel 2019
+Neopl-ACR (ours),Neftel NPC2,UKF251_T_ST,-0.1454536474953264,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel NPC2,UKF251_T_ST,-0.07974724404129975,Neftel 2019
+Neopl-ECM (ours),Neftel NPC2,UKF251_T_ST,-0.03742642942795404,Neftel 2019
+Neopl-COP (ours),Neftel NPC2,UKF251_T_ST,-0.11402579481513023,Neftel 2019
+Neopl-NC (ours),Neftel NPC2,UKF251_T_ST,0.15498734348525392,Neftel 2019
+Neopl-OPC (ours),Neftel NPC2,UKF251_T_ST,0.002585786929853106,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel NPC2,UKF251_T_ST,0.19553940469476244,Neftel 2019
+Neopl-ACR (ours),Neftel OPC,UKF251_T_ST,0.09693646131049859,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel OPC,UKF251_T_ST,0.07687639490132865,Neftel 2019
+Neopl-ECM (ours),Neftel OPC,UKF251_T_ST,0.08182905341642117,Neftel 2019
+Neopl-COP (ours),Neftel OPC,UKF251_T_ST,0.3333705952929662,Neftel 2019
+Neopl-NC (ours),Neftel OPC,UKF251_T_ST,0.05562965837261889,Neftel 2019
+Neopl-OPC (ours),Neftel OPC,UKF251_T_ST,0.13329028806525742,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel OPC,UKF251_T_ST,-0.06755577262146052,Neftel 2019
+Neopl-ACR (ours),Richards Developmental,UKF251_T_ST,-0.03544773626896968,Richards 2021
+"Neopl-ACR (ours, refined)",Richards Developmental,UKF251_T_ST,0.003969346649695507,Richards 2021
+Neopl-ECM (ours),Richards Developmental,UKF251_T_ST,0.033291707053116126,Richards 2021
+Neopl-COP (ours),Richards Developmental,UKF251_T_ST,7.259453172893094e-4,Richards 2021
+Neopl-NC (ours),Richards Developmental,UKF251_T_ST,-0.05431313280356943,Richards 2021
+Neopl-OPC (ours),Richards Developmental,UKF251_T_ST,0.1503341911280595,Richards 2021
+Neopl-CC/Bulk (ours),Richards Developmental,UKF251_T_ST,0.17017860073601543,Richards 2021
+Neopl-ACR (ours),Richards Injury-Response,UKF251_T_ST,0.05027935026011169,Richards 2021
+"Neopl-ACR (ours, refined)",Richards Injury-Response,UKF251_T_ST,0.05259936858342534,Richards 2021
+Neopl-ECM (ours),Richards Injury-Response,UKF251_T_ST,-0.05164247257578475,Richards 2021
+Neopl-COP (ours),Richards Injury-Response,UKF251_T_ST,-0.10749335460458889,Richards 2021
+Neopl-NC (ours),Richards Injury-Response,UKF251_T_ST,-0.17378210911031666,Richards 2021
+Neopl-OPC (ours),Richards Injury-Response,UKF251_T_ST,-0.10971263563435153,Richards 2021
+Neopl-CC/Bulk (ours),Richards Injury-Response,UKF251_T_ST,-0.0848304089970565,Richards 2021
+Neopl-ACR (ours),Nomura OPC-like,UKF251_T_ST,0.020860506835996228,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura OPC-like,UKF251_T_ST,0.049478355871123,Nomura 2025
+Neopl-ECM (ours),Nomura OPC-like,UKF251_T_ST,0.051424759738379004,Nomura 2025
+Neopl-COP (ours),Nomura OPC-like,UKF251_T_ST,0.07299031298825481,Nomura 2025
+Neopl-NC (ours),Nomura OPC-like,UKF251_T_ST,0.04398096615689495,Nomura 2025
+Neopl-OPC (ours),Nomura OPC-like,UKF251_T_ST,0.20766601802241774,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura OPC-like,UKF251_T_ST,0.07200551372548274,Nomura 2025
+Neopl-ACR (ours),Nomura AC-like,UKF251_T_ST,0.35362210006688843,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura AC-like,UKF251_T_ST,0.1744344312744076,Nomura 2025
+Neopl-ECM (ours),Nomura AC-like,UKF251_T_ST,0.017671302147951592,Nomura 2025
+Neopl-COP (ours),Nomura AC-like,UKF251_T_ST,0.03201737686514337,Nomura 2025
+Neopl-NC (ours),Nomura AC-like,UKF251_T_ST,0.10080388984826871,Nomura 2025
+Neopl-OPC (ours),Nomura AC-like,UKF251_T_ST,-0.019264623220054605,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura AC-like,UKF251_T_ST,-0.12042143784483181,Nomura 2025
+Neopl-ACR (ours),Nomura Hypoxia,UKF251_T_ST,0.007994695987599628,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura Hypoxia,UKF251_T_ST,0.005474228486096871,Nomura 2025
+Neopl-ECM (ours),Nomura Hypoxia,UKF251_T_ST,-0.025957880749990565,Nomura 2025
+Neopl-COP (ours),Nomura Hypoxia,UKF251_T_ST,-0.017623215883991742,Nomura 2025
+Neopl-NC (ours),Nomura Hypoxia,UKF251_T_ST,-0.0062411603173713965,Nomura 2025
+Neopl-OPC (ours),Nomura Hypoxia,UKF251_T_ST,-0.00888717028891047,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura Hypoxia,UKF251_T_ST,-0.03327873060769082,Nomura 2025
+Neopl-ACR (ours),Nomura MES-like,UKF251_T_ST,0.15300256864688064,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura MES-like,UKF251_T_ST,0.06314625924839687,Nomura 2025
+Neopl-ECM (ours),Nomura MES-like,UKF251_T_ST,-0.006218912466358712,Nomura 2025
+Neopl-COP (ours),Nomura MES-like,UKF251_T_ST,-0.038235112753050034,Nomura 2025
+Neopl-NC (ours),Nomura MES-like,UKF251_T_ST,4.911945149950989e-4,Nomura 2025
+Neopl-OPC (ours),Nomura MES-like,UKF251_T_ST,-0.06422517826437563,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura MES-like,UKF251_T_ST,-0.03606705944356049,Nomura 2025
+Neopl-ACR (ours),Nomura NPC-like,UKF251_T_ST,-0.10341133642144544,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura NPC-like,UKF251_T_ST,-0.03770560189670643,Nomura 2025
+Neopl-ECM (ours),Nomura NPC-like,UKF251_T_ST,-0.03180181595140406,Nomura 2025
+Neopl-COP (ours),Nomura NPC-like,UKF251_T_ST,-0.10737263749233443,Nomura 2025
+Neopl-NC (ours),Nomura NPC-like,UKF251_T_ST,-0.005376683201779482,Nomura 2025
+Neopl-OPC (ours),Nomura NPC-like,UKF251_T_ST,0.03859239763739948,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura NPC-like,UKF251_T_ST,0.1639727053204922,Nomura 2025
+Neopl-ACR (ours),Nomura GPC-like,UKF251_T_ST,0.08122279572562502,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura GPC-like,UKF251_T_ST,0.068564590718196,Nomura 2025
+Neopl-ECM (ours),Nomura GPC-like,UKF251_T_ST,0.014733967111762163,Nomura 2025
+Neopl-COP (ours),Nomura GPC-like,UKF251_T_ST,-0.009958343945199882,Nomura 2025
+Neopl-NC (ours),Nomura GPC-like,UKF251_T_ST,0.03556009975575153,Nomura 2025
+Neopl-OPC (ours),Nomura GPC-like,UKF251_T_ST,0.06488303515787235,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura GPC-like,UKF251_T_ST,0.04094425223304581,Nomura 2025
+Neopl-ACR (ours),Nomura NEU-like,UKF251_T_ST,0.09997859483355431,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura NEU-like,UKF251_T_ST,0.0338290223019141,Nomura 2025
+Neopl-ECM (ours),Nomura NEU-like,UKF251_T_ST,0.01803959517531245,Nomura 2025
+Neopl-COP (ours),Nomura NEU-like,UKF251_T_ST,-0.014826979919087685,Nomura 2025
+Neopl-NC (ours),Nomura NEU-like,UKF251_T_ST,0.46989428613835943,Nomura 2025
+Neopl-OPC (ours),Nomura NEU-like,UKF251_T_ST,0.003609209602196175,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura NEU-like,UKF251_T_ST,0.009105664576620045,Nomura 2025
+Neopl-ACR (ours),Nomura Stress,UKF251_T_ST,0.0013263848561780218,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura Stress,UKF251_T_ST,0.014456739462776806,Nomura 2025
+Neopl-ECM (ours),Nomura Stress,UKF251_T_ST,0.0456187640144467,Nomura 2025
+Neopl-COP (ours),Nomura Stress,UKF251_T_ST,-0.026072010979800758,Nomura 2025
+Neopl-NC (ours),Nomura Stress,UKF251_T_ST,-0.01640329368420229,Nomura 2025
+Neopl-OPC (ours),Nomura Stress,UKF251_T_ST,0.023357580729008252,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura Stress,UKF251_T_ST,0.037470765643669475,Nomura 2025
+Neopl-ACR (ours),Nomura Cilia-like,UKF251_T_ST,0.046843434938726274,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura Cilia-like,UKF251_T_ST,0.013874083466208128,Nomura 2025
+Neopl-ECM (ours),Nomura Cilia-like,UKF251_T_ST,0.010658395570084704,Nomura 2025
+Neopl-COP (ours),Nomura Cilia-like,UKF251_T_ST,0.013523657308469402,Nomura 2025
+Neopl-NC (ours),Nomura Cilia-like,UKF251_T_ST,-0.01875642857791233,Nomura 2025
+Neopl-OPC (ours),Nomura Cilia-like,UKF251_T_ST,-0.017187130579311177,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura Cilia-like,UKF251_T_ST,-0.029334447287697685,Nomura 2025
+Neopl-ACR (ours),Nomura Cell cycle,UKF251_T_ST,-0.07510185824340644,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura Cell cycle,UKF251_T_ST,-0.02829270455600163,Nomura 2025
+Neopl-ECM (ours),Nomura Cell cycle,UKF251_T_ST,-0.02173561213232744,Nomura 2025
+Neopl-COP (ours),Nomura Cell cycle,UKF251_T_ST,-0.07951642364702376,Nomura 2025
+Neopl-NC (ours),Nomura Cell cycle,UKF251_T_ST,-0.06969348341587599,Nomura 2025
+Neopl-OPC (ours),Nomura Cell cycle,UKF251_T_ST,0.027392021112725953,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura Cell cycle,UKF251_T_ST,0.4157376314198075,Nomura 2025
+Neopl-ACR (ours),Neftel AC,UKF255_T_ST,0.36322713081293345,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel AC,UKF255_T_ST,0.161684704793738,Neftel 2019
+Neopl-ECM (ours),Neftel AC,UKF255_T_ST,0.4317363615385728,Neftel 2019
+Neopl-COP (ours),Neftel AC,UKF255_T_ST,0.4688419383836606,Neftel 2019
+Neopl-NC (ours),Neftel AC,UKF255_T_ST,-0.24030723023512202,Neftel 2019
+Neopl-OPC (ours),Neftel AC,UKF255_T_ST,0.47342975906640616,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel AC,UKF255_T_ST,0.20219278097748367,Neftel 2019
+Neopl-ACR (ours),Neftel MES1,UKF255_T_ST,0.3554813610669652,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel MES1,UKF255_T_ST,0.34988023516629124,Neftel 2019
+Neopl-ECM (ours),Neftel MES1,UKF255_T_ST,-0.3172230403773913,Neftel 2019
+Neopl-COP (ours),Neftel MES1,UKF255_T_ST,-0.6187005993418637,Neftel 2019
+Neopl-NC (ours),Neftel MES1,UKF255_T_ST,0.12838719003081442,Neftel 2019
+Neopl-OPC (ours),Neftel MES1,UKF255_T_ST,-0.3871321413271317,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel MES1,UKF255_T_ST,-0.3114727240449031,Neftel 2019
+Neopl-ACR (ours),Neftel MES2,UKF255_T_ST,-0.03558962613862407,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel MES2,UKF255_T_ST,0.12784154807134393,Neftel 2019
+Neopl-ECM (ours),Neftel MES2,UKF255_T_ST,-0.49836203029993753,Neftel 2019
+Neopl-COP (ours),Neftel MES2,UKF255_T_ST,-0.7055046593678294,Neftel 2019
+Neopl-NC (ours),Neftel MES2,UKF255_T_ST,0.3171542187140748,Neftel 2019
+Neopl-OPC (ours),Neftel MES2,UKF255_T_ST,-0.5646027543156027,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel MES2,UKF255_T_ST,-0.3817545930429985,Neftel 2019
+Neopl-ACR (ours),Neftel NPC1,UKF255_T_ST,-0.025251183033459315,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel NPC1,UKF255_T_ST,-0.14399154657324448,Neftel 2019
+Neopl-ECM (ours),Neftel NPC1,UKF255_T_ST,0.4608398256519817,Neftel 2019
+Neopl-COP (ours),Neftel NPC1,UKF255_T_ST,0.6956277925471056,Neftel 2019
+Neopl-NC (ours),Neftel NPC1,UKF255_T_ST,-0.21064983590674594,Neftel 2019
+Neopl-OPC (ours),Neftel NPC1,UKF255_T_ST,0.5548517738522764,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel NPC1,UKF255_T_ST,0.3781459870412264,Neftel 2019
+Neopl-ACR (ours),Neftel NPC2,UKF255_T_ST,7.269956613988387e-4,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel NPC2,UKF255_T_ST,-0.03751975501207094,Neftel 2019
+Neopl-ECM (ours),Neftel NPC2,UKF255_T_ST,0.16118191725748027,Neftel 2019
+Neopl-COP (ours),Neftel NPC2,UKF255_T_ST,0.2473096734137923,Neftel 2019
+Neopl-NC (ours),Neftel NPC2,UKF255_T_ST,0.17902442811912267,Neftel 2019
+Neopl-OPC (ours),Neftel NPC2,UKF255_T_ST,0.20673301200745525,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel NPC2,UKF255_T_ST,0.1734767497360098,Neftel 2019
+Neopl-ACR (ours),Neftel OPC,UKF255_T_ST,0.01667801921228988,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel OPC,UKF255_T_ST,-0.12614717167890852,Neftel 2019
+Neopl-ECM (ours),Neftel OPC,UKF255_T_ST,0.5066612582958595,Neftel 2019
+Neopl-COP (ours),Neftel OPC,UKF255_T_ST,0.8046326414130118,Neftel 2019
+Neopl-NC (ours),Neftel OPC,UKF255_T_ST,-0.26054362462520914,Neftel 2019
+Neopl-OPC (ours),Neftel OPC,UKF255_T_ST,0.5876852645277478,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel OPC,UKF255_T_ST,0.362740104158811,Neftel 2019
+Neopl-ACR (ours),Richards Developmental,UKF255_T_ST,0.08179971784703476,Richards 2021
+"Neopl-ACR (ours, refined)",Richards Developmental,UKF255_T_ST,-0.05400782251125713,Richards 2021
+Neopl-ECM (ours),Richards Developmental,UKF255_T_ST,0.46186999697496994,Richards 2021
+Neopl-COP (ours),Richards Developmental,UKF255_T_ST,0.6110201852947839,Richards 2021
+Neopl-NC (ours),Richards Developmental,UKF255_T_ST,-0.20024239243306535,Richards 2021
+Neopl-OPC (ours),Richards Developmental,UKF255_T_ST,0.48829391134212186,Richards 2021
+Neopl-CC/Bulk (ours),Richards Developmental,UKF255_T_ST,0.12871290087624546,Richards 2021
+Neopl-ACR (ours),Richards Injury-Response,UKF255_T_ST,0.1670148833699579,Richards 2021
+"Neopl-ACR (ours, refined)",Richards Injury-Response,UKF255_T_ST,0.1702277755757937,Richards 2021
+Neopl-ECM (ours),Richards Injury-Response,UKF255_T_ST,-0.025545518744526728,Richards 2021
+Neopl-COP (ours),Richards Injury-Response,UKF255_T_ST,-0.19912548402142832,Richards 2021
+Neopl-NC (ours),Richards Injury-Response,UKF255_T_ST,-0.003963771129784295,Richards 2021
+Neopl-OPC (ours),Richards Injury-Response,UKF255_T_ST,-0.15565098492619076,Richards 2021
+Neopl-CC/Bulk (ours),Richards Injury-Response,UKF255_T_ST,-0.3519330465336663,Richards 2021
+Neopl-ACR (ours),Nomura OPC-like,UKF255_T_ST,0.012160677110810689,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura OPC-like,UKF255_T_ST,-0.07644553595502877,Nomura 2025
+Neopl-ECM (ours),Nomura OPC-like,UKF255_T_ST,0.3905627981901301,Nomura 2025
+Neopl-COP (ours),Nomura OPC-like,UKF255_T_ST,0.5699832645238586,Nomura 2025
+Neopl-NC (ours),Nomura OPC-like,UKF255_T_ST,-0.14405281954565807,Nomura 2025
+Neopl-OPC (ours),Nomura OPC-like,UKF255_T_ST,0.549375253130187,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura OPC-like,UKF255_T_ST,0.3245394291843248,Nomura 2025
+Neopl-ACR (ours),Nomura AC-like,UKF255_T_ST,0.5425993412442477,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura AC-like,UKF255_T_ST,0.35568136975881953,Nomura 2025
+Neopl-ECM (ours),Nomura AC-like,UKF255_T_ST,0.11017762968719244,Nomura 2025
+Neopl-COP (ours),Nomura AC-like,UKF255_T_ST,0.07095886386118601,Nomura 2025
+Neopl-NC (ours),Nomura AC-like,UKF255_T_ST,-0.06576338501621494,Nomura 2025
+Neopl-OPC (ours),Nomura AC-like,UKF255_T_ST,0.1833521594220321,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura AC-like,UKF255_T_ST,0.10213282474163549,Nomura 2025
+Neopl-ACR (ours),Nomura Hypoxia,UKF255_T_ST,-0.043740616797127777,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura Hypoxia,UKF255_T_ST,0.1203177549266187,Nomura 2025
+Neopl-ECM (ours),Nomura Hypoxia,UKF255_T_ST,-0.48052887076061795,Nomura 2025
+Neopl-COP (ours),Nomura Hypoxia,UKF255_T_ST,-0.6564412110692623,Nomura 2025
+Neopl-NC (ours),Nomura Hypoxia,UKF255_T_ST,0.31774163278475653,Nomura 2025
+Neopl-OPC (ours),Nomura Hypoxia,UKF255_T_ST,-0.5304447291129679,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura Hypoxia,UKF255_T_ST,-0.3420109031469525,Nomura 2025
+Neopl-ACR (ours),Nomura MES-like,UKF255_T_ST,0.35525401231250225,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura MES-like,UKF255_T_ST,0.3649493714698952,Nomura 2025
+Neopl-ECM (ours),Nomura MES-like,UKF255_T_ST,-0.23343790043539345,Nomura 2025
+Neopl-COP (ours),Nomura MES-like,UKF255_T_ST,-0.4695900496681133,Nomura 2025
+Neopl-NC (ours),Nomura MES-like,UKF255_T_ST,0.1736312921594318,Nomura 2025
+Neopl-OPC (ours),Nomura MES-like,UKF255_T_ST,-0.32192486398000386,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura MES-like,UKF255_T_ST,-0.17735940153545962,Nomura 2025
+Neopl-ACR (ours),Nomura NPC-like,UKF255_T_ST,-0.06444929053843453,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura NPC-like,UKF255_T_ST,-0.08780488337305545,Nomura 2025
+Neopl-ECM (ours),Nomura NPC-like,UKF255_T_ST,0.18524195407379385,Nomura 2025
+Neopl-COP (ours),Nomura NPC-like,UKF255_T_ST,0.3136549665476788,Nomura 2025
+Neopl-NC (ours),Nomura NPC-like,UKF255_T_ST,-0.03163481776190895,Nomura 2025
+Neopl-OPC (ours),Nomura NPC-like,UKF255_T_ST,0.22228708823831675,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura NPC-like,UKF255_T_ST,0.18916377255429384,Nomura 2025
+Neopl-ACR (ours),Nomura GPC-like,UKF255_T_ST,0.11274347343914429,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura GPC-like,UKF255_T_ST,0.06894473896191548,Nomura 2025
+Neopl-ECM (ours),Nomura GPC-like,UKF255_T_ST,0.15870552141458402,Nomura 2025
+Neopl-COP (ours),Nomura GPC-like,UKF255_T_ST,0.1650512623928642,Nomura 2025
+Neopl-NC (ours),Nomura GPC-like,UKF255_T_ST,-0.012943742215796262,Nomura 2025
+Neopl-OPC (ours),Nomura GPC-like,UKF255_T_ST,0.21044555386953764,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura GPC-like,UKF255_T_ST,0.16430076104092634,Nomura 2025
+Neopl-ACR (ours),Nomura NEU-like,UKF255_T_ST,0.01856841779598134,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura NEU-like,UKF255_T_ST,0.002561050786864744,Nomura 2025
+Neopl-ECM (ours),Nomura NEU-like,UKF255_T_ST,0.10055553874504766,Nomura 2025
+Neopl-COP (ours),Nomura NEU-like,UKF255_T_ST,0.11010356050607692,Nomura 2025
+Neopl-NC (ours),Nomura NEU-like,UKF255_T_ST,0.18931712727546862,Nomura 2025
+Neopl-OPC (ours),Nomura NEU-like,UKF255_T_ST,0.13636179774123922,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura NEU-like,UKF255_T_ST,-0.036237089738432385,Nomura 2025
+Neopl-ACR (ours),Nomura Stress,UKF255_T_ST,-0.13342469256322748,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura Stress,UKF255_T_ST,0.003532460174597838,Nomura 2025
+Neopl-ECM (ours),Nomura Stress,UKF255_T_ST,-0.33636324241239857,Nomura 2025
+Neopl-COP (ours),Nomura Stress,UKF255_T_ST,-0.45540828548675744,Nomura 2025
+Neopl-NC (ours),Nomura Stress,UKF255_T_ST,0.212186907734885,Nomura 2025
+Neopl-OPC (ours),Nomura Stress,UKF255_T_ST,-0.4126608315405123,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura Stress,UKF255_T_ST,-0.28347666305940594,Nomura 2025
+Neopl-ACR (ours),Nomura Cilia-like,UKF255_T_ST,0.01530436793717969,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura Cilia-like,UKF255_T_ST,0.042196634313937706,Nomura 2025
+Neopl-ECM (ours),Nomura Cilia-like,UKF255_T_ST,-0.13096990359507704,Nomura 2025
+Neopl-COP (ours),Nomura Cilia-like,UKF255_T_ST,-0.14824728865224604,Nomura 2025
+Neopl-NC (ours),Nomura Cilia-like,UKF255_T_ST,0.08810611957361678,Nomura 2025
+Neopl-OPC (ours),Nomura Cilia-like,UKF255_T_ST,-0.12393546077371027,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura Cilia-like,UKF255_T_ST,-0.027387048013724744,Nomura 2025
+Neopl-ACR (ours),Nomura Cell cycle,UKF255_T_ST,-0.10102214308379064,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura Cell cycle,UKF255_T_ST,-0.15281815655803527,Nomura 2025
+Neopl-ECM (ours),Nomura Cell cycle,UKF255_T_ST,0.21944540710478733,Nomura 2025
+Neopl-COP (ours),Nomura Cell cycle,UKF255_T_ST,0.37321082447973497,Nomura 2025
+Neopl-NC (ours),Nomura Cell cycle,UKF255_T_ST,-0.13445555307758394,Nomura 2025
+Neopl-OPC (ours),Nomura Cell cycle,UKF255_T_ST,0.25375856538229996,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura Cell cycle,UKF255_T_ST,0.4683522596683981,Nomura 2025
+Neopl-ACR (ours),Neftel AC,UKF256_TC_ST,0.4445734070341988,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel AC,UKF256_TC_ST,-0.16311477116757483,Neftel 2019
+Neopl-ECM (ours),Neftel AC,UKF256_TC_ST,-0.05348150414875892,Neftel 2019
+Neopl-COP (ours),Neftel AC,UKF256_TC_ST,-0.0894372564857958,Neftel 2019
+Neopl-NC (ours),Neftel AC,UKF256_TC_ST,-0.21919769196632116,Neftel 2019
+Neopl-OPC (ours),Neftel AC,UKF256_TC_ST,-0.21731973127827456,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel AC,UKF256_TC_ST,-0.19995202282596786,Neftel 2019
+Neopl-ACR (ours),Neftel MES1,UKF256_TC_ST,0.03501095126553211,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel MES1,UKF256_TC_ST,-0.03949089050953122,Neftel 2019
+Neopl-ECM (ours),Neftel MES1,UKF256_TC_ST,-0.05783819131014231,Neftel 2019
+Neopl-COP (ours),Neftel MES1,UKF256_TC_ST,-0.1589986627507117,Neftel 2019
+Neopl-NC (ours),Neftel MES1,UKF256_TC_ST,-0.11225813392185795,Neftel 2019
+Neopl-OPC (ours),Neftel MES1,UKF256_TC_ST,-0.12209011855305778,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel MES1,UKF256_TC_ST,-0.072389667707302,Neftel 2019
+Neopl-ACR (ours),Neftel MES2,UKF256_TC_ST,-0.016613154107989622,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel MES2,UKF256_TC_ST,0.0941638516598071,Neftel 2019
+Neopl-ECM (ours),Neftel MES2,UKF256_TC_ST,0.12636760793306395,Neftel 2019
+Neopl-COP (ours),Neftel MES2,UKF256_TC_ST,0.04895907010973205,Neftel 2019
+Neopl-NC (ours),Neftel MES2,UKF256_TC_ST,0.11310576535702761,Neftel 2019
+Neopl-OPC (ours),Neftel MES2,UKF256_TC_ST,0.12479506689787695,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel MES2,UKF256_TC_ST,0.15108128434795676,Neftel 2019
+Neopl-ACR (ours),Neftel NPC1,UKF256_TC_ST,-0.08258371285824513,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel NPC1,UKF256_TC_ST,0.2597494665951268,Neftel 2019
+Neopl-ECM (ours),Neftel NPC1,UKF256_TC_ST,0.24223851100343813,Neftel 2019
+Neopl-COP (ours),Neftel NPC1,UKF256_TC_ST,0.2338827953048359,Neftel 2019
+Neopl-NC (ours),Neftel NPC1,UKF256_TC_ST,0.2711028209082875,Neftel 2019
+Neopl-OPC (ours),Neftel NPC1,UKF256_TC_ST,0.2490955478491562,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel NPC1,UKF256_TC_ST,0.28178743350818725,Neftel 2019
+Neopl-ACR (ours),Neftel NPC2,UKF256_TC_ST,-0.06492399729385147,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel NPC2,UKF256_TC_ST,0.25815739114624486,Neftel 2019
+Neopl-ECM (ours),Neftel NPC2,UKF256_TC_ST,0.19706771638448156,Neftel 2019
+Neopl-COP (ours),Neftel NPC2,UKF256_TC_ST,0.22045527111655078,Neftel 2019
+Neopl-NC (ours),Neftel NPC2,UKF256_TC_ST,0.3839291564813329,Neftel 2019
+Neopl-OPC (ours),Neftel NPC2,UKF256_TC_ST,0.20392938188170776,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel NPC2,UKF256_TC_ST,0.23476343952883022,Neftel 2019
+Neopl-ACR (ours),Neftel OPC,UKF256_TC_ST,0.003918904758699001,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel OPC,UKF256_TC_ST,0.15785099170497127,Neftel 2019
+Neopl-ECM (ours),Neftel OPC,UKF256_TC_ST,0.13155676913432532,Neftel 2019
+Neopl-COP (ours),Neftel OPC,UKF256_TC_ST,0.23332374310405687,Neftel 2019
+Neopl-NC (ours),Neftel OPC,UKF256_TC_ST,0.14941973393350924,Neftel 2019
+Neopl-OPC (ours),Neftel OPC,UKF256_TC_ST,0.12432289304297435,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel OPC,UKF256_TC_ST,0.09851142720787172,Neftel 2019
+Neopl-ACR (ours),Richards Developmental,UKF256_TC_ST,0.017368567603332635,Richards 2021
+"Neopl-ACR (ours, refined)",Richards Developmental,UKF256_TC_ST,-0.15717758778843935,Richards 2021
+Neopl-ECM (ours),Richards Developmental,UKF256_TC_ST,-0.12294122743465732,Richards 2021
+Neopl-COP (ours),Richards Developmental,UKF256_TC_ST,-0.14776020146210936,Richards 2021
+Neopl-NC (ours),Richards Developmental,UKF256_TC_ST,-0.12219947276503652,Richards 2021
+Neopl-OPC (ours),Richards Developmental,UKF256_TC_ST,-0.2084533339805917,Richards 2021
+Neopl-CC/Bulk (ours),Richards Developmental,UKF256_TC_ST,-0.13461171673069422,Richards 2021
+Neopl-ACR (ours),Richards Injury-Response,UKF256_TC_ST,0.060969573340232355,Richards 2021
+"Neopl-ACR (ours, refined)",Richards Injury-Response,UKF256_TC_ST,-0.21725853545766396,Richards 2021
+Neopl-ECM (ours),Richards Injury-Response,UKF256_TC_ST,-0.170677988995326,Richards 2021
+Neopl-COP (ours),Richards Injury-Response,UKF256_TC_ST,-0.25731129477281806,Richards 2021
+Neopl-NC (ours),Richards Injury-Response,UKF256_TC_ST,-0.2706370853415051,Richards 2021
+Neopl-OPC (ours),Richards Injury-Response,UKF256_TC_ST,-0.31110874324852134,Richards 2021
+Neopl-CC/Bulk (ours),Richards Injury-Response,UKF256_TC_ST,-0.21002083186293474,Richards 2021
+Neopl-ACR (ours),Nomura OPC-like,UKF256_TC_ST,-0.01856469011733102,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura OPC-like,UKF256_TC_ST,0.3668098255526247,Nomura 2025
+Neopl-ECM (ours),Nomura OPC-like,UKF256_TC_ST,0.31518287984829857,Nomura 2025
+Neopl-COP (ours),Nomura OPC-like,UKF256_TC_ST,0.29172025751112196,Nomura 2025
+Neopl-NC (ours),Nomura OPC-like,UKF256_TC_ST,0.3404451553629816,Nomura 2025
+Neopl-OPC (ours),Nomura OPC-like,UKF256_TC_ST,0.41520470650207425,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura OPC-like,UKF256_TC_ST,0.29866747851132436,Nomura 2025
+Neopl-ACR (ours),Nomura AC-like,UKF256_TC_ST,0.719482674198037,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura AC-like,UKF256_TC_ST,0.005105297685393453,Nomura 2025
+Neopl-ECM (ours),Nomura AC-like,UKF256_TC_ST,0.019704570626983442,Nomura 2025
+Neopl-COP (ours),Nomura AC-like,UKF256_TC_ST,0.017062472623716296,Nomura 2025
+Neopl-NC (ours),Nomura AC-like,UKF256_TC_ST,-0.05685506369380881,Nomura 2025
+Neopl-OPC (ours),Nomura AC-like,UKF256_TC_ST,-0.024016019056614244,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura AC-like,UKF256_TC_ST,-0.03688782453756618,Nomura 2025
+Neopl-ACR (ours),Nomura Hypoxia,UKF256_TC_ST,-0.010344091511303971,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura Hypoxia,UKF256_TC_ST,0.33220101260744966,Nomura 2025
+Neopl-ECM (ours),Nomura Hypoxia,UKF256_TC_ST,0.26657373563850467,Nomura 2025
+Neopl-COP (ours),Nomura Hypoxia,UKF256_TC_ST,0.25865534543192115,Nomura 2025
+Neopl-NC (ours),Nomura Hypoxia,UKF256_TC_ST,0.3039203160582207,Nomura 2025
+Neopl-OPC (ours),Nomura Hypoxia,UKF256_TC_ST,0.32194880051339547,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura Hypoxia,UKF256_TC_ST,0.3107387826007748,Nomura 2025
+Neopl-ACR (ours),Nomura MES-like,UKF256_TC_ST,-0.010018989763957459,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura MES-like,UKF256_TC_ST,0.26523008012860744,Nomura 2025
+Neopl-ECM (ours),Nomura MES-like,UKF256_TC_ST,0.2022540159357527,Nomura 2025
+Neopl-COP (ours),Nomura MES-like,UKF256_TC_ST,0.16217960797215214,Nomura 2025
+Neopl-NC (ours),Nomura MES-like,UKF256_TC_ST,0.21173067718559233,Nomura 2025
+Neopl-OPC (ours),Nomura MES-like,UKF256_TC_ST,0.20843919610616293,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura MES-like,UKF256_TC_ST,0.26147338567886375,Nomura 2025
+Neopl-ACR (ours),Nomura NPC-like,UKF256_TC_ST,-0.037288990100708456,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura NPC-like,UKF256_TC_ST,0.3818764062300483,Nomura 2025
+Neopl-ECM (ours),Nomura NPC-like,UKF256_TC_ST,0.33544036805322736,Nomura 2025
+Neopl-COP (ours),Nomura NPC-like,UKF256_TC_ST,0.33112688731094825,Nomura 2025
+Neopl-NC (ours),Nomura NPC-like,UKF256_TC_ST,0.4195790485611076,Nomura 2025
+Neopl-OPC (ours),Nomura NPC-like,UKF256_TC_ST,0.40367435189068523,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura NPC-like,UKF256_TC_ST,0.3365864001082349,Nomura 2025
+Neopl-ACR (ours),Nomura GPC-like,UKF256_TC_ST,-0.16449928032705274,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura GPC-like,UKF256_TC_ST,0.37712833261564177,Nomura 2025
+Neopl-ECM (ours),Nomura GPC-like,UKF256_TC_ST,0.29001669754327275,Nomura 2025
+Neopl-COP (ours),Nomura GPC-like,UKF256_TC_ST,0.3040311655222534,Nomura 2025
+Neopl-NC (ours),Nomura GPC-like,UKF256_TC_ST,0.37405415936390574,Nomura 2025
+Neopl-OPC (ours),Nomura GPC-like,UKF256_TC_ST,0.40326929853495125,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura GPC-like,UKF256_TC_ST,0.2954082804434165,Nomura 2025
+Neopl-ACR (ours),Nomura NEU-like,UKF256_TC_ST,0.002324874291255064,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura NEU-like,UKF256_TC_ST,-0.1023779321785267,Nomura 2025
+Neopl-ECM (ours),Nomura NEU-like,UKF256_TC_ST,-0.09158792508786691,Nomura 2025
+Neopl-COP (ours),Nomura NEU-like,UKF256_TC_ST,-0.08980974451422576,Nomura 2025
+Neopl-NC (ours),Nomura NEU-like,UKF256_TC_ST,0.00629886327666499,Nomura 2025
+Neopl-OPC (ours),Nomura NEU-like,UKF256_TC_ST,-0.17482019254452302,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura NEU-like,UKF256_TC_ST,-0.056465820785798405,Nomura 2025
+Neopl-ACR (ours),Nomura Stress,UKF256_TC_ST,-0.04068906936530528,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura Stress,UKF256_TC_ST,0.07404259415426807,Nomura 2025
+Neopl-ECM (ours),Nomura Stress,UKF256_TC_ST,0.08545657864083306,Nomura 2025
+Neopl-COP (ours),Nomura Stress,UKF256_TC_ST,0.03989017655999117,Nomura 2025
+Neopl-NC (ours),Nomura Stress,UKF256_TC_ST,0.08727796589569578,Nomura 2025
+Neopl-OPC (ours),Nomura Stress,UKF256_TC_ST,0.05641438634876858,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura Stress,UKF256_TC_ST,0.12221851623814653,Nomura 2025
+Neopl-ACR (ours),Nomura Cilia-like,UKF256_TC_ST,-0.0299401028962785,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura Cilia-like,UKF256_TC_ST,0.20223417662503856,Nomura 2025
+Neopl-ECM (ours),Nomura Cilia-like,UKF256_TC_ST,0.18171180919868476,Nomura 2025
+Neopl-COP (ours),Nomura Cilia-like,UKF256_TC_ST,0.162240547306551,Nomura 2025
+Neopl-NC (ours),Nomura Cilia-like,UKF256_TC_ST,0.20599388706892904,Nomura 2025
+Neopl-OPC (ours),Nomura Cilia-like,UKF256_TC_ST,0.28300265229839966,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura Cilia-like,UKF256_TC_ST,0.19120578486226306,Nomura 2025
+Neopl-ACR (ours),Nomura Cell cycle,UKF256_TC_ST,-0.06860415389877557,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura Cell cycle,UKF256_TC_ST,0.24266743268197288,Nomura 2025
+Neopl-ECM (ours),Nomura Cell cycle,UKF256_TC_ST,0.19621384133175393,Nomura 2025
+Neopl-COP (ours),Nomura Cell cycle,UKF256_TC_ST,0.20368357387694058,Nomura 2025
+Neopl-NC (ours),Nomura Cell cycle,UKF256_TC_ST,0.28942074731905226,Nomura 2025
+Neopl-OPC (ours),Nomura Cell cycle,UKF256_TC_ST,0.3287581182420474,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura Cell cycle,UKF256_TC_ST,0.22996662552753017,Nomura 2025
+Neopl-ACR (ours),Neftel AC,UKF256_TI_ST,0.5168040536374594,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel AC,UKF256_TI_ST,0.39216696972416726,Neftel 2019
+Neopl-ECM (ours),Neftel AC,UKF256_TI_ST,0.03431273554646922,Neftel 2019
+Neopl-COP (ours),Neftel AC,UKF256_TI_ST,0.24982708390429487,Neftel 2019
+Neopl-NC (ours),Neftel AC,UKF256_TI_ST,-0.5116265853768168,Neftel 2019
+Neopl-OPC (ours),Neftel AC,UKF256_TI_ST,-0.10848791750421545,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel AC,UKF256_TI_ST,-0.31600713509163414,Neftel 2019
+Neopl-ACR (ours),Neftel MES1,UKF256_TI_ST,0.41068380030204926,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel MES1,UKF256_TI_ST,0.33871646152889195,Neftel 2019
+Neopl-ECM (ours),Neftel MES1,UKF256_TI_ST,-0.03212483448433611,Neftel 2019
+Neopl-COP (ours),Neftel MES1,UKF256_TI_ST,0.17870569815815593,Neftel 2019
+Neopl-NC (ours),Neftel MES1,UKF256_TI_ST,-0.539078760236234,Neftel 2019
+Neopl-OPC (ours),Neftel MES1,UKF256_TI_ST,-0.13660778394376547,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel MES1,UKF256_TI_ST,-0.32870975600279234,Neftel 2019
+Neopl-ACR (ours),Neftel MES2,UKF256_TI_ST,0.12409354860998491,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel MES2,UKF256_TI_ST,0.10316860304651759,Neftel 2019
+Neopl-ECM (ours),Neftel MES2,UKF256_TI_ST,-0.0280802627497592,Neftel 2019
+Neopl-COP (ours),Neftel MES2,UKF256_TI_ST,0.01832540201227643,Neftel 2019
+Neopl-NC (ours),Neftel MES2,UKF256_TI_ST,-0.14311385432440377,Neftel 2019
+Neopl-OPC (ours),Neftel MES2,UKF256_TI_ST,-0.04892482898361603,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel MES2,UKF256_TI_ST,-0.09602553283863627,Neftel 2019
+Neopl-ACR (ours),Neftel NPC1,UKF256_TI_ST,-0.20833253624729764,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel NPC1,UKF256_TI_ST,-0.18322143433535387,Neftel 2019
+Neopl-ECM (ours),Neftel NPC1,UKF256_TI_ST,0.06608260571271685,Neftel 2019
+Neopl-COP (ours),Neftel NPC1,UKF256_TI_ST,-0.08205033287074603,Neftel 2019
+Neopl-NC (ours),Neftel NPC1,UKF256_TI_ST,0.3434929251112979,Neftel 2019
+Neopl-OPC (ours),Neftel NPC1,UKF256_TI_ST,0.097767168725134,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel NPC1,UKF256_TI_ST,0.29512540047842184,Neftel 2019
+Neopl-ACR (ours),Neftel NPC2,UKF256_TI_ST,-0.3862514198683394,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel NPC2,UKF256_TI_ST,-0.3288961477991053,Neftel 2019
+Neopl-ECM (ours),Neftel NPC2,UKF256_TI_ST,0.09139784798182286,Neftel 2019
+Neopl-COP (ours),Neftel NPC2,UKF256_TI_ST,-0.15525533164896588,Neftel 2019
+Neopl-NC (ours),Neftel NPC2,UKF256_TI_ST,0.6747944611071797,Neftel 2019
+Neopl-OPC (ours),Neftel NPC2,UKF256_TI_ST,0.10055425245143731,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel NPC2,UKF256_TI_ST,0.3626960087501233,Neftel 2019
+Neopl-ACR (ours),Neftel OPC,UKF256_TI_ST,0.21577322427170775,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel OPC,UKF256_TI_ST,0.18418835577414505,Neftel 2019
+Neopl-ECM (ours),Neftel OPC,UKF256_TI_ST,0.07004716922081969,Neftel 2019
+Neopl-COP (ours),Neftel OPC,UKF256_TI_ST,0.25405903340246444,Neftel 2019
+Neopl-NC (ours),Neftel OPC,UKF256_TI_ST,-0.21799725399201553,Neftel 2019
+Neopl-OPC (ours),Neftel OPC,UKF256_TI_ST,0.0028966824693267093,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel OPC,UKF256_TI_ST,-0.13773617721519477,Neftel 2019
+Neopl-ACR (ours),Richards Developmental,UKF256_TI_ST,-0.32930209898607293,Richards 2021
+"Neopl-ACR (ours, refined)",Richards Developmental,UKF256_TI_ST,-0.31022162885836196,Richards 2021
+Neopl-ECM (ours),Richards Developmental,UKF256_TI_ST,0.13966112885256546,Richards 2021
+Neopl-COP (ours),Richards Developmental,UKF256_TI_ST,-0.1047315221589664,Richards 2021
+Neopl-NC (ours),Richards Developmental,UKF256_TI_ST,0.6638761115498314,Richards 2021
+Neopl-OPC (ours),Richards Developmental,UKF256_TI_ST,0.05992724360598566,Richards 2021
+Neopl-CC/Bulk (ours),Richards Developmental,UKF256_TI_ST,0.3830198985990432,Richards 2021
+Neopl-ACR (ours),Richards Injury-Response,UKF256_TI_ST,-0.25118736920608653,Richards 2021
+"Neopl-ACR (ours, refined)",Richards Injury-Response,UKF256_TI_ST,-0.2497710295085433,Richards 2021
+Neopl-ECM (ours),Richards Injury-Response,UKF256_TI_ST,0.13382771926965856,Richards 2021
+Neopl-COP (ours),Richards Injury-Response,UKF256_TI_ST,-0.10707218835900513,Richards 2021
+Neopl-NC (ours),Richards Injury-Response,UKF256_TI_ST,0.5307542773006874,Richards 2021
+Neopl-OPC (ours),Richards Injury-Response,UKF256_TI_ST,-0.023488218166744932,Richards 2021
+Neopl-CC/Bulk (ours),Richards Injury-Response,UKF256_TI_ST,0.2977321223313348,Richards 2021
+Neopl-ACR (ours),Nomura OPC-like,UKF256_TI_ST,-0.09807557756547529,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura OPC-like,UKF256_TI_ST,-0.052869790714819585,Nomura 2025
+Neopl-ECM (ours),Nomura OPC-like,UKF256_TI_ST,0.10640697147050786,Nomura 2025
+Neopl-COP (ours),Nomura OPC-like,UKF256_TI_ST,-0.04364627579303698,Nomura 2025
+Neopl-NC (ours),Nomura OPC-like,UKF256_TI_ST,0.11383361420417464,Nomura 2025
+Neopl-OPC (ours),Nomura OPC-like,UKF256_TI_ST,0.2759817123133921,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura OPC-like,UKF256_TI_ST,0.07039737646237454,Nomura 2025
+Neopl-ACR (ours),Nomura AC-like,UKF256_TI_ST,0.4879830100992916,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura AC-like,UKF256_TI_ST,0.3253295333330342,Nomura 2025
+Neopl-ECM (ours),Nomura AC-like,UKF256_TI_ST,-0.055204157072613363,Nomura 2025
+Neopl-COP (ours),Nomura AC-like,UKF256_TI_ST,0.1421895795636314,Nomura 2025
+Neopl-NC (ours),Nomura AC-like,UKF256_TI_ST,-0.5032897151852992,Nomura 2025
+Neopl-OPC (ours),Nomura AC-like,UKF256_TI_ST,-0.07573205964911173,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura AC-like,UKF256_TI_ST,-0.2910893753266897,Nomura 2025
+Neopl-ACR (ours),Nomura Hypoxia,UKF256_TI_ST,-0.06612951993307772,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura Hypoxia,UKF256_TI_ST,-0.06050031595939502,Nomura 2025
+Neopl-ECM (ours),Nomura Hypoxia,UKF256_TI_ST,-0.023575526000536383,Nomura 2025
+Neopl-COP (ours),Nomura Hypoxia,UKF256_TI_ST,-0.050729236491343505,Nomura 2025
+Neopl-NC (ours),Nomura Hypoxia,UKF256_TI_ST,0.06860903246004639,Nomura 2025
+Neopl-OPC (ours),Nomura Hypoxia,UKF256_TI_ST,-0.008769523269613987,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura Hypoxia,UKF256_TI_ST,0.06514449234063967,Nomura 2025
+Neopl-ACR (ours),Nomura MES-like,UKF256_TI_ST,-0.12317463458803449,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura MES-like,UKF256_TI_ST,-0.09043767194550276,Nomura 2025
+Neopl-ECM (ours),Nomura MES-like,UKF256_TI_ST,0.015834445367105647,Nomura 2025
+Neopl-COP (ours),Nomura MES-like,UKF256_TI_ST,-0.061962517225140325,Nomura 2025
+Neopl-NC (ours),Nomura MES-like,UKF256_TI_ST,0.17172931435485614,Nomura 2025
+Neopl-OPC (ours),Nomura MES-like,UKF256_TI_ST,0.029081430887363157,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura MES-like,UKF256_TI_ST,0.17813958838503036,Nomura 2025
+Neopl-ACR (ours),Nomura NPC-like,UKF256_TI_ST,-0.10584609895305021,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura NPC-like,UKF256_TI_ST,-0.07300803787259572,Nomura 2025
+Neopl-ECM (ours),Nomura NPC-like,UKF256_TI_ST,-0.005993791677365107,Nomura 2025
+Neopl-COP (ours),Nomura NPC-like,UKF256_TI_ST,-0.06347099282969812,Nomura 2025
+Neopl-NC (ours),Nomura NPC-like,UKF256_TI_ST,0.1379732718758177,Nomura 2025
+Neopl-OPC (ours),Nomura NPC-like,UKF256_TI_ST,0.10740629127669013,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura NPC-like,UKF256_TI_ST,0.12429773524724397,Nomura 2025
+Neopl-ACR (ours),Nomura GPC-like,UKF256_TI_ST,0.0718849326052702,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura GPC-like,UKF256_TI_ST,0.0762720049391959,Nomura 2025
+Neopl-ECM (ours),Nomura GPC-like,UKF256_TI_ST,-0.026898812940525617,Nomura 2025
+Neopl-COP (ours),Nomura GPC-like,UKF256_TI_ST,0.0033819557300289018,Nomura 2025
+Neopl-NC (ours),Nomura GPC-like,UKF256_TI_ST,-0.08290778089646542,Nomura 2025
+Neopl-OPC (ours),Nomura GPC-like,UKF256_TI_ST,0.05638123441878854,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura GPC-like,UKF256_TI_ST,-0.03518747105679397,Nomura 2025
+Neopl-ACR (ours),Nomura NEU-like,UKF256_TI_ST,-0.4131382672479374,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura NEU-like,UKF256_TI_ST,-0.3761139644451633,Nomura 2025
+Neopl-ECM (ours),Nomura NEU-like,UKF256_TI_ST,0.128792850623051,Nomura 2025
+Neopl-COP (ours),Nomura NEU-like,UKF256_TI_ST,-0.1706664426211728,Nomura 2025
+Neopl-NC (ours),Nomura NEU-like,UKF256_TI_ST,0.761986736658922,Nomura 2025
+Neopl-OPC (ours),Nomura NEU-like,UKF256_TI_ST,0.08974328134228218,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura NEU-like,UKF256_TI_ST,0.42462266234524015,Nomura 2025
+Neopl-ACR (ours),Nomura Stress,UKF256_TI_ST,-0.14984701424113606,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura Stress,UKF256_TI_ST,-0.16869133255740104,Nomura 2025
+Neopl-ECM (ours),Nomura Stress,UKF256_TI_ST,0.06629881913860913,Nomura 2025
+Neopl-COP (ours),Nomura Stress,UKF256_TI_ST,-0.07534880008227623,Nomura 2025
+Neopl-NC (ours),Nomura Stress,UKF256_TI_ST,0.29463042391990885,Nomura 2025
+Neopl-OPC (ours),Nomura Stress,UKF256_TI_ST,0.004345715749536911,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura Stress,UKF256_TI_ST,0.14978688662195816,Nomura 2025
+Neopl-ACR (ours),Nomura Cilia-like,UKF256_TI_ST,0.05050144292576886,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura Cilia-like,UKF256_TI_ST,0.06835358512353874,Nomura 2025
+Neopl-ECM (ours),Nomura Cilia-like,UKF256_TI_ST,-0.05074245631331211,Nomura 2025
+Neopl-COP (ours),Nomura Cilia-like,UKF256_TI_ST,-0.012780133993621467,Nomura 2025
+Neopl-NC (ours),Nomura Cilia-like,UKF256_TI_ST,-0.16629509806682544,Nomura 2025
+Neopl-OPC (ours),Nomura Cilia-like,UKF256_TI_ST,-0.008291671410559448,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura Cilia-like,UKF256_TI_ST,-0.08455905740629022,Nomura 2025
+Neopl-ACR (ours),Nomura Cell cycle,UKF256_TI_ST,0.031748559338332656,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura Cell cycle,UKF256_TI_ST,0.05394546205655093,Nomura 2025
+Neopl-ECM (ours),Nomura Cell cycle,UKF256_TI_ST,-0.06096179695167529,Nomura 2025
+Neopl-COP (ours),Nomura Cell cycle,UKF256_TI_ST,0.013145701386569028,Nomura 2025
+Neopl-NC (ours),Nomura Cell cycle,UKF256_TI_ST,-0.1254830335179152,Nomura 2025
+Neopl-OPC (ours),Nomura Cell cycle,UKF256_TI_ST,0.0097877811234796,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura Cell cycle,UKF256_TI_ST,-0.05484945549932179,Nomura 2025
+Neopl-ACR (ours),Neftel AC,UKF259_T_ST,0.15140847698603216,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel AC,UKF259_T_ST,0.04378232600444293,Neftel 2019
+Neopl-ECM (ours),Neftel AC,UKF259_T_ST,0.2998219507535028,Neftel 2019
+Neopl-COP (ours),Neftel AC,UKF259_T_ST,0.3532786929381578,Neftel 2019
+Neopl-NC (ours),Neftel AC,UKF259_T_ST,0.07266682355995797,Neftel 2019
+Neopl-OPC (ours),Neftel AC,UKF259_T_ST,0.4005402630069496,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel AC,UKF259_T_ST,0.09982478748086947,Neftel 2019
+Neopl-ACR (ours),Neftel MES1,UKF259_T_ST,0.13783009667017515,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel MES1,UKF259_T_ST,0.15422792174622751,Neftel 2019
+Neopl-ECM (ours),Neftel MES1,UKF259_T_ST,-0.193144605608706,Neftel 2019
+Neopl-COP (ours),Neftel MES1,UKF259_T_ST,-0.281090761816272,Neftel 2019
+Neopl-NC (ours),Neftel MES1,UKF259_T_ST,-0.15336246509126725,Neftel 2019
+Neopl-OPC (ours),Neftel MES1,UKF259_T_ST,-0.3405292568585251,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel MES1,UKF259_T_ST,-0.09188399829175486,Neftel 2019
+Neopl-ACR (ours),Neftel MES2,UKF259_T_ST,-0.020842244478318575,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel MES2,UKF259_T_ST,0.052399411915604086,Neftel 2019
+Neopl-ECM (ours),Neftel MES2,UKF259_T_ST,-0.2612639647347774,Neftel 2019
+Neopl-COP (ours),Neftel MES2,UKF259_T_ST,-0.3198682563415785,Neftel 2019
+Neopl-NC (ours),Neftel MES2,UKF259_T_ST,-0.07274105143028115,Neftel 2019
+Neopl-OPC (ours),Neftel MES2,UKF259_T_ST,-0.36310340157974463,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel MES2,UKF259_T_ST,-0.08485244379749605,Neftel 2019
+Neopl-ACR (ours),Neftel NPC1,UKF259_T_ST,0.0010615499843211595,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel NPC1,UKF259_T_ST,-0.05565168856715597,Neftel 2019
+Neopl-ECM (ours),Neftel NPC1,UKF259_T_ST,0.2967459036747438,Neftel 2019
+Neopl-COP (ours),Neftel NPC1,UKF259_T_ST,0.324382687744091,Neftel 2019
+Neopl-NC (ours),Neftel NPC1,UKF259_T_ST,0.16927218592751975,Neftel 2019
+Neopl-OPC (ours),Neftel NPC1,UKF259_T_ST,0.4224265028798493,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel NPC1,UKF259_T_ST,0.14919864329630048,Neftel 2019
+Neopl-ACR (ours),Neftel NPC2,UKF259_T_ST,-0.01564487852451407,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel NPC2,UKF259_T_ST,-0.040857284029574455,Neftel 2019
+Neopl-ECM (ours),Neftel NPC2,UKF259_T_ST,0.14657718831486577,Neftel 2019
+Neopl-COP (ours),Neftel NPC2,UKF259_T_ST,0.16165939353242642,Neftel 2019
+Neopl-NC (ours),Neftel NPC2,UKF259_T_ST,0.47612838281068254,Neftel 2019
+Neopl-OPC (ours),Neftel NPC2,UKF259_T_ST,0.18662391428512184,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel NPC2,UKF259_T_ST,0.1071927505142975,Neftel 2019
+Neopl-ACR (ours),Neftel OPC,UKF259_T_ST,0.07482592222949401,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel OPC,UKF259_T_ST,-0.025156315155801322,Neftel 2019
+Neopl-ECM (ours),Neftel OPC,UKF259_T_ST,0.2943268032793055,Neftel 2019
+Neopl-COP (ours),Neftel OPC,UKF259_T_ST,0.4308658526714316,Neftel 2019
+Neopl-NC (ours),Neftel OPC,UKF259_T_ST,0.14455544969581385,Neftel 2019
+Neopl-OPC (ours),Neftel OPC,UKF259_T_ST,0.41296759492331975,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel OPC,UKF259_T_ST,0.1169057688477017,Neftel 2019
+Neopl-ACR (ours),Richards Developmental,UKF259_T_ST,0.07288767327000752,Richards 2021
+"Neopl-ACR (ours, refined)",Richards Developmental,UKF259_T_ST,-0.010180541047195697,Richards 2021
+Neopl-ECM (ours),Richards Developmental,UKF259_T_ST,0.22302518180904457,Richards 2021
+Neopl-COP (ours),Richards Developmental,UKF259_T_ST,0.30852914826000877,Richards 2021
+Neopl-NC (ours),Richards Developmental,UKF259_T_ST,0.24616472505397471,Richards 2021
+Neopl-OPC (ours),Richards Developmental,UKF259_T_ST,0.38981628923168665,Richards 2021
+Neopl-CC/Bulk (ours),Richards Developmental,UKF259_T_ST,0.06472046371094792,Richards 2021
+Neopl-ACR (ours),Richards Injury-Response,UKF259_T_ST,0.01222914936524553,Richards 2021
+"Neopl-ACR (ours, refined)",Richards Injury-Response,UKF259_T_ST,0.0649525460000458,Richards 2021
+Neopl-ECM (ours),Richards Injury-Response,UKF259_T_ST,-0.1901891468720734,Richards 2021
+Neopl-COP (ours),Richards Injury-Response,UKF259_T_ST,-0.2650394842854257,Richards 2021
+Neopl-NC (ours),Richards Injury-Response,UKF259_T_ST,-0.11698074063478049,Richards 2021
+Neopl-OPC (ours),Richards Injury-Response,UKF259_T_ST,-0.3201166491721687,Richards 2021
+Neopl-CC/Bulk (ours),Richards Injury-Response,UKF259_T_ST,-0.12567668710530955,Richards 2021
+Neopl-ACR (ours),Nomura OPC-like,UKF259_T_ST,0.004097035399315987,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura OPC-like,UKF259_T_ST,-0.03087282913404522,Nomura 2025
+Neopl-ECM (ours),Nomura OPC-like,UKF259_T_ST,0.22900879599660914,Nomura 2025
+Neopl-COP (ours),Nomura OPC-like,UKF259_T_ST,0.25628694784683786,Nomura 2025
+Neopl-NC (ours),Nomura OPC-like,UKF259_T_ST,0.13294956337578662,Nomura 2025
+Neopl-OPC (ours),Nomura OPC-like,UKF259_T_ST,0.39907573982729627,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura OPC-like,UKF259_T_ST,0.13347779682326294,Nomura 2025
+Neopl-ACR (ours),Nomura AC-like,UKF259_T_ST,0.26380819592751437,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura AC-like,UKF259_T_ST,0.10993048875929413,Nomura 2025
+Neopl-ECM (ours),Nomura AC-like,UKF259_T_ST,0.1846454994604482,Nomura 2025
+Neopl-COP (ours),Nomura AC-like,UKF259_T_ST,0.2355742620342259,Nomura 2025
+Neopl-NC (ours),Nomura AC-like,UKF259_T_ST,0.05641583386004045,Nomura 2025
+Neopl-OPC (ours),Nomura AC-like,UKF259_T_ST,0.23118008803085863,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura AC-like,UKF259_T_ST,0.0263408828754581,Nomura 2025
+Neopl-ACR (ours),Nomura Hypoxia,UKF259_T_ST,-0.01795892054505191,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura Hypoxia,UKF259_T_ST,0.06329820228324741,Nomura 2025
+Neopl-ECM (ours),Nomura Hypoxia,UKF259_T_ST,-0.23949970106248628,Nomura 2025
+Neopl-COP (ours),Nomura Hypoxia,UKF259_T_ST,-0.3080349317007322,Nomura 2025
+Neopl-NC (ours),Nomura Hypoxia,UKF259_T_ST,-0.062173710327666984,Nomura 2025
+Neopl-OPC (ours),Nomura Hypoxia,UKF259_T_ST,-0.31702875659052854,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura Hypoxia,UKF259_T_ST,-0.08852408390954955,Nomura 2025
+Neopl-ACR (ours),Nomura MES-like,UKF259_T_ST,0.1232343076524985,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura MES-like,UKF259_T_ST,0.1549122036532975,Nomura 2025
+Neopl-ECM (ours),Nomura MES-like,UKF259_T_ST,-0.2105555107241605,Nomura 2025
+Neopl-COP (ours),Nomura MES-like,UKF259_T_ST,-0.26500932540796757,Nomura 2025
+Neopl-NC (ours),Nomura MES-like,UKF259_T_ST,-0.07039673517648228,Nomura 2025
+Neopl-OPC (ours),Nomura MES-like,UKF259_T_ST,-0.314960436272878,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura MES-like,UKF259_T_ST,0.013831535033991206,Nomura 2025
+Neopl-ACR (ours),Nomura NPC-like,UKF259_T_ST,0.010558010356236392,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura NPC-like,UKF259_T_ST,-0.021513958498834997,Nomura 2025
+Neopl-ECM (ours),Nomura NPC-like,UKF259_T_ST,0.1730600413713846,Nomura 2025
+Neopl-COP (ours),Nomura NPC-like,UKF259_T_ST,0.15527193200888986,Nomura 2025
+Neopl-NC (ours),Nomura NPC-like,UKF259_T_ST,0.16435291487278403,Nomura 2025
+Neopl-OPC (ours),Nomura NPC-like,UKF259_T_ST,0.21361568894597927,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura NPC-like,UKF259_T_ST,0.052872820595152345,Nomura 2025
+Neopl-ACR (ours),Nomura GPC-like,UKF259_T_ST,0.039647800225528544,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura GPC-like,UKF259_T_ST,0.03301144881606436,Nomura 2025
+Neopl-ECM (ours),Nomura GPC-like,UKF259_T_ST,0.15830378935571016,Nomura 2025
+Neopl-COP (ours),Nomura GPC-like,UKF259_T_ST,0.18607047431297932,Nomura 2025
+Neopl-NC (ours),Nomura GPC-like,UKF259_T_ST,0.08101068130520184,Nomura 2025
+Neopl-OPC (ours),Nomura GPC-like,UKF259_T_ST,0.2483042919353088,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura GPC-like,UKF259_T_ST,0.13367982277339416,Nomura 2025
+Neopl-ACR (ours),Nomura NEU-like,UKF259_T_ST,0.02911563136356682,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura NEU-like,UKF259_T_ST,-0.05832578962992116,Nomura 2025
+Neopl-ECM (ours),Nomura NEU-like,UKF259_T_ST,0.12447080906731628,Nomura 2025
+Neopl-COP (ours),Nomura NEU-like,UKF259_T_ST,0.13533248588431734,Nomura 2025
+Neopl-NC (ours),Nomura NEU-like,UKF259_T_ST,0.49637655079999565,Nomura 2025
+Neopl-OPC (ours),Nomura NEU-like,UKF259_T_ST,0.15632603205911308,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura NEU-like,UKF259_T_ST,0.07236967777821227,Nomura 2025
+Neopl-ACR (ours),Nomura Stress,UKF259_T_ST,-0.0522403636924424,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura Stress,UKF259_T_ST,0.01612690171907716,Nomura 2025
+Neopl-ECM (ours),Nomura Stress,UKF259_T_ST,-0.15865105620843387,Nomura 2025
+Neopl-COP (ours),Nomura Stress,UKF259_T_ST,-0.21746267423633667,Nomura 2025
+Neopl-NC (ours),Nomura Stress,UKF259_T_ST,-0.07156931742821707,Nomura 2025
+Neopl-OPC (ours),Nomura Stress,UKF259_T_ST,-0.26870326251499177,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura Stress,UKF259_T_ST,-0.056154593469161206,Nomura 2025
+Neopl-ACR (ours),Nomura Cilia-like,UKF259_T_ST,0.010436847542211511,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura Cilia-like,UKF259_T_ST,-0.02251764037280119,Nomura 2025
+Neopl-ECM (ours),Nomura Cilia-like,UKF259_T_ST,0.05400313596800971,Nomura 2025
+Neopl-COP (ours),Nomura Cilia-like,UKF259_T_ST,0.09794715030542352,Nomura 2025
+Neopl-NC (ours),Nomura Cilia-like,UKF259_T_ST,0.007712002487132633,Nomura 2025
+Neopl-OPC (ours),Nomura Cilia-like,UKF259_T_ST,0.09977477612607735,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura Cilia-like,UKF259_T_ST,-0.024400094293884064,Nomura 2025
+Neopl-ACR (ours),Nomura Cell cycle,UKF259_T_ST,0.0032540000672473058,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura Cell cycle,UKF259_T_ST,0.0075703786298268695,Nomura 2025
+Neopl-ECM (ours),Nomura Cell cycle,UKF259_T_ST,0.10392514717807899,Nomura 2025
+Neopl-COP (ours),Nomura Cell cycle,UKF259_T_ST,0.09811320524005375,Nomura 2025
+Neopl-NC (ours),Nomura Cell cycle,UKF259_T_ST,-0.033800849083052295,Nomura 2025
+Neopl-OPC (ours),Nomura Cell cycle,UKF259_T_ST,0.11252202018910863,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura Cell cycle,UKF259_T_ST,0.2412475029746448,Nomura 2025
+Neopl-ACR (ours),Neftel AC,UKF260_T_ST,-0.04354509887170291,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel AC,UKF260_T_ST,-0.09435468087965393,Neftel 2019
+Neopl-ECM (ours),Neftel AC,UKF260_T_ST,0.37418798418655025,Neftel 2019
+Neopl-COP (ours),Neftel AC,UKF260_T_ST,0.4828804485647366,Neftel 2019
+Neopl-NC (ours),Neftel AC,UKF260_T_ST,0.038770037700789045,Neftel 2019
+Neopl-OPC (ours),Neftel AC,UKF260_T_ST,0.4465669065900997,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel AC,UKF260_T_ST,-0.10833572764267994,Neftel 2019
+Neopl-ACR (ours),Neftel MES1,UKF260_T_ST,0.550388215569988,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel MES1,UKF260_T_ST,0.4111350382010574,Neftel 2019
+Neopl-ECM (ours),Neftel MES1,UKF260_T_ST,-0.36112811607689815,Neftel 2019
+Neopl-COP (ours),Neftel MES1,UKF260_T_ST,-0.5406023292838803,Neftel 2019
+Neopl-NC (ours),Neftel MES1,UKF260_T_ST,-0.2261474666193077,Neftel 2019
+Neopl-OPC (ours),Neftel MES1,UKF260_T_ST,-0.5097383580609158,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel MES1,UKF260_T_ST,0.11468203891501667,Neftel 2019
+Neopl-ACR (ours),Neftel MES2,UKF260_T_ST,0.31249117103861396,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel MES2,UKF260_T_ST,0.29103329315308646,Neftel 2019
+Neopl-ECM (ours),Neftel MES2,UKF260_T_ST,-0.4390702672111462,Neftel 2019
+Neopl-COP (ours),Neftel MES2,UKF260_T_ST,-0.608977323911891,Neftel 2019
+Neopl-NC (ours),Neftel MES2,UKF260_T_ST,-0.03185046518920192,Neftel 2019
+Neopl-OPC (ours),Neftel MES2,UKF260_T_ST,-0.5520629981921934,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel MES2,UKF260_T_ST,0.12902140983790433,Neftel 2019
+Neopl-ACR (ours),Neftel NPC1,UKF260_T_ST,-0.28535653571970626,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel NPC1,UKF260_T_ST,-0.2818929879680661,Neftel 2019
+Neopl-ECM (ours),Neftel NPC1,UKF260_T_ST,0.43083409849104115,Neftel 2019
+Neopl-COP (ours),Neftel NPC1,UKF260_T_ST,0.6324320764321264,Neftel 2019
+Neopl-NC (ours),Neftel NPC1,UKF260_T_ST,0.041632179861404335,Neftel 2019
+Neopl-OPC (ours),Neftel NPC1,UKF260_T_ST,0.5812461353226849,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel NPC1,UKF260_T_ST,-0.08593679241400777,Neftel 2019
+Neopl-ACR (ours),Neftel NPC2,UKF260_T_ST,-0.17975688351265845,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel NPC2,UKF260_T_ST,-0.0595826545556272,Neftel 2019
+Neopl-ECM (ours),Neftel NPC2,UKF260_T_ST,0.21540486673316664,Neftel 2019
+Neopl-COP (ours),Neftel NPC2,UKF260_T_ST,0.1419946431823509,Neftel 2019
+Neopl-NC (ours),Neftel NPC2,UKF260_T_ST,0.5507854385361509,Neftel 2019
+Neopl-OPC (ours),Neftel NPC2,UKF260_T_ST,0.18907591413561128,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel NPC2,UKF260_T_ST,0.07528613698459016,Neftel 2019
+Neopl-ACR (ours),Neftel OPC,UKF260_T_ST,-0.25420703361760644,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel OPC,UKF260_T_ST,-0.2622128506144642,Neftel 2019
+Neopl-ECM (ours),Neftel OPC,UKF260_T_ST,0.41967343183418704,Neftel 2019
+Neopl-COP (ours),Neftel OPC,UKF260_T_ST,0.6951857535642365,Neftel 2019
+Neopl-NC (ours),Neftel OPC,UKF260_T_ST,0.005180219475731126,Neftel 2019
+Neopl-OPC (ours),Neftel OPC,UKF260_T_ST,0.5900013744215176,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel OPC,UKF260_T_ST,-0.0914344610983492,Neftel 2019
+Neopl-ACR (ours),Richards Developmental,UKF260_T_ST,-0.28685136388714483,Richards 2021
+"Neopl-ACR (ours, refined)",Richards Developmental,UKF260_T_ST,-0.24696673942276934,Richards 2021
+Neopl-ECM (ours),Richards Developmental,UKF260_T_ST,0.4174981491572616,Richards 2021
+Neopl-COP (ours),Richards Developmental,UKF260_T_ST,0.5442638120466954,Richards 2021
+Neopl-NC (ours),Richards Developmental,UKF260_T_ST,0.19494782892188017,Richards 2021
+Neopl-OPC (ours),Richards Developmental,UKF260_T_ST,0.5107823724222196,Richards 2021
+Neopl-CC/Bulk (ours),Richards Developmental,UKF260_T_ST,-0.1542325072092581,Richards 2021
+Neopl-ACR (ours),Richards Injury-Response,UKF260_T_ST,0.3605800757609129,Richards 2021
+"Neopl-ACR (ours, refined)",Richards Injury-Response,UKF260_T_ST,0.26918505999575626,Richards 2021
+Neopl-ECM (ours),Richards Injury-Response,UKF260_T_ST,-0.22169978932119427,Richards 2021
+Neopl-COP (ours),Richards Injury-Response,UKF260_T_ST,-0.3922282341695908,Richards 2021
+Neopl-NC (ours),Richards Injury-Response,UKF260_T_ST,-0.19298985487659562,Richards 2021
+Neopl-OPC (ours),Richards Injury-Response,UKF260_T_ST,-0.3731414770206987,Richards 2021
+Neopl-CC/Bulk (ours),Richards Injury-Response,UKF260_T_ST,-0.043955014100219944,Richards 2021
+Neopl-ACR (ours),Nomura OPC-like,UKF260_T_ST,-0.2640806022530911,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura OPC-like,UKF260_T_ST,-0.23254313025063622,Nomura 2025
+Neopl-ECM (ours),Nomura OPC-like,UKF260_T_ST,0.3741586955162361,Nomura 2025
+Neopl-COP (ours),Nomura OPC-like,UKF260_T_ST,0.5157210952164598,Nomura 2025
+Neopl-NC (ours),Nomura OPC-like,UKF260_T_ST,0.07583637410687222,Nomura 2025
+Neopl-OPC (ours),Nomura OPC-like,UKF260_T_ST,0.5638576659101247,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura OPC-like,UKF260_T_ST,-0.0402510497932368,Nomura 2025
+Neopl-ACR (ours),Nomura AC-like,UKF260_T_ST,0.40356153868588956,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura AC-like,UKF260_T_ST,0.16817812601294427,Nomura 2025
+Neopl-ECM (ours),Nomura AC-like,UKF260_T_ST,0.036297689574328836,Nomura 2025
+Neopl-COP (ours),Nomura AC-like,UKF260_T_ST,0.0626548221860985,Nomura 2025
+Neopl-NC (ours),Nomura AC-like,UKF260_T_ST,-0.21573657824304676,Nomura 2025
+Neopl-OPC (ours),Nomura AC-like,UKF260_T_ST,0.04906543326549188,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura AC-like,UKF260_T_ST,-0.07524600960723486,Nomura 2025
+Neopl-ACR (ours),Nomura Hypoxia,UKF260_T_ST,0.29042758533447033,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura Hypoxia,UKF260_T_ST,0.2617059357783704,Nomura 2025
+Neopl-ECM (ours),Nomura Hypoxia,UKF260_T_ST,-0.4204433375500692,Nomura 2025
+Neopl-COP (ours),Nomura Hypoxia,UKF260_T_ST,-0.5518981164676426,Nomura 2025
+Neopl-NC (ours),Nomura Hypoxia,UKF260_T_ST,-0.04966196513832633,Nomura 2025
+Neopl-OPC (ours),Nomura Hypoxia,UKF260_T_ST,-0.5053229735478961,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura Hypoxia,UKF260_T_ST,0.11453061976152137,Nomura 2025
+Neopl-ACR (ours),Nomura MES-like,UKF260_T_ST,0.5350901923476787,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura MES-like,UKF260_T_ST,0.3948867678706263,Nomura 2025
+Neopl-ECM (ours),Nomura MES-like,UKF260_T_ST,-0.32589509654905285,Nomura 2025
+Neopl-COP (ours),Nomura MES-like,UKF260_T_ST,-0.5015426577402474,Nomura 2025
+Neopl-NC (ours),Nomura MES-like,UKF260_T_ST,-0.16155114866405262,Nomura 2025
+Neopl-OPC (ours),Nomura MES-like,UKF260_T_ST,-0.4637731953200833,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura MES-like,UKF260_T_ST,0.16173023161794495,Nomura 2025
+Neopl-ACR (ours),Nomura NPC-like,UKF260_T_ST,-0.1759025565519615,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura NPC-like,UKF260_T_ST,-0.08687051310170774,Nomura 2025
+Neopl-ECM (ours),Nomura NPC-like,UKF260_T_ST,0.24397747314582843,Nomura 2025
+Neopl-COP (ours),Nomura NPC-like,UKF260_T_ST,0.2023659788368972,Nomura 2025
+Neopl-NC (ours),Nomura NPC-like,UKF260_T_ST,0.2563864081137279,Nomura 2025
+Neopl-OPC (ours),Nomura NPC-like,UKF260_T_ST,0.24867951145905923,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura NPC-like,UKF260_T_ST,0.031243628208583042,Nomura 2025
+Neopl-ACR (ours),Nomura GPC-like,UKF260_T_ST,-0.23683820796849425,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura GPC-like,UKF260_T_ST,-0.11877074255108212,Nomura 2025
+Neopl-ECM (ours),Nomura GPC-like,UKF260_T_ST,0.260039126831942,Nomura 2025
+Neopl-COP (ours),Nomura GPC-like,UKF260_T_ST,0.2938982548753549,Nomura 2025
+Neopl-NC (ours),Nomura GPC-like,UKF260_T_ST,0.2837198026919524,Nomura 2025
+Neopl-OPC (ours),Nomura GPC-like,UKF260_T_ST,0.3236386359060042,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura GPC-like,UKF260_T_ST,0.03890051052021962,Nomura 2025
+Neopl-ACR (ours),Nomura NEU-like,UKF260_T_ST,-0.19358724933469468,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura NEU-like,UKF260_T_ST,-0.05126150313284415,Nomura 2025
+Neopl-ECM (ours),Nomura NEU-like,UKF260_T_ST,0.17311297854089625,Nomura 2025
+Neopl-COP (ours),Nomura NEU-like,UKF260_T_ST,0.145107838221004,Nomura 2025
+Neopl-NC (ours),Nomura NEU-like,UKF260_T_ST,0.5556237145022193,Nomura 2025
+Neopl-OPC (ours),Nomura NEU-like,UKF260_T_ST,0.17751435930533524,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura NEU-like,UKF260_T_ST,0.08172066688024368,Nomura 2025
+Neopl-ACR (ours),Nomura Stress,UKF260_T_ST,0.11798504639838116,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura Stress,UKF260_T_ST,0.14346163458655903,Nomura 2025
+Neopl-ECM (ours),Nomura Stress,UKF260_T_ST,-0.29483663798128895,Nomura 2025
+Neopl-COP (ours),Nomura Stress,UKF260_T_ST,-0.43177357910856257,Nomura 2025
+Neopl-NC (ours),Nomura Stress,UKF260_T_ST,0.04983585296628885,Nomura 2025
+Neopl-OPC (ours),Nomura Stress,UKF260_T_ST,-0.40465482650303686,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura Stress,UKF260_T_ST,0.0884469378231575,Nomura 2025
+Neopl-ACR (ours),Nomura Cilia-like,UKF260_T_ST,0.11429390496743812,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura Cilia-like,UKF260_T_ST,0.008726032006349728,Nomura 2025
+Neopl-ECM (ours),Nomura Cilia-like,UKF260_T_ST,-0.03467655841824291,Nomura 2025
+Neopl-COP (ours),Nomura Cilia-like,UKF260_T_ST,-0.008840103223898029,Nomura 2025
+Neopl-NC (ours),Nomura Cilia-like,UKF260_T_ST,-0.20377298601722366,Nomura 2025
+Neopl-OPC (ours),Nomura Cilia-like,UKF260_T_ST,-0.0639378903517613,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura Cilia-like,UKF260_T_ST,-0.06275512770185232,Nomura 2025
+Neopl-ACR (ours),Nomura Cell cycle,UKF260_T_ST,-0.09499123358830454,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura Cell cycle,UKF260_T_ST,-0.07304384413734573,Nomura 2025
+Neopl-ECM (ours),Nomura Cell cycle,UKF260_T_ST,0.08511619209405273,Nomura 2025
+Neopl-COP (ours),Nomura Cell cycle,UKF260_T_ST,0.17006162663080363,Nomura 2025
+Neopl-NC (ours),Nomura Cell cycle,UKF260_T_ST,0.015254305528818759,Nomura 2025
+Neopl-OPC (ours),Nomura Cell cycle,UKF260_T_ST,0.16395403438167153,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura Cell cycle,UKF260_T_ST,0.2213896896956632,Nomura 2025
+Neopl-ACR (ours),Neftel AC,UKF262_T_ST,0.5536852757342714,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel AC,UKF262_T_ST,0.3582723959581116,Neftel 2019
+Neopl-ECM (ours),Neftel AC,UKF262_T_ST,0.051125920942901235,Neftel 2019
+Neopl-COP (ours),Neftel AC,UKF262_T_ST,0.2292613472307834,Neftel 2019
+Neopl-NC (ours),Neftel AC,UKF262_T_ST,-0.5298525122297979,Neftel 2019
+Neopl-OPC (ours),Neftel AC,UKF262_T_ST,-0.2177116226373283,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel AC,UKF262_T_ST,-0.3672420309228221,Neftel 2019
+Neopl-ACR (ours),Neftel MES1,UKF262_T_ST,0.6512629955914967,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel MES1,UKF262_T_ST,0.4457085034226067,Neftel 2019
+Neopl-ECM (ours),Neftel MES1,UKF262_T_ST,-0.05091102228463507,Neftel 2019
+Neopl-COP (ours),Neftel MES1,UKF262_T_ST,0.11676864891921084,Neftel 2019
+Neopl-NC (ours),Neftel MES1,UKF262_T_ST,-0.7935857867755644,Neftel 2019
+Neopl-OPC (ours),Neftel MES1,UKF262_T_ST,-0.3531932120063064,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel MES1,UKF262_T_ST,-0.46060085034456255,Neftel 2019
+Neopl-ACR (ours),Neftel MES2,UKF262_T_ST,0.3036166522399335,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel MES2,UKF262_T_ST,0.1939949841451241,Neftel 2019
+Neopl-ECM (ours),Neftel MES2,UKF262_T_ST,-0.012864424654049265,Neftel 2019
+Neopl-COP (ours),Neftel MES2,UKF262_T_ST,0.019479952321884177,Neftel 2019
+Neopl-NC (ours),Neftel MES2,UKF262_T_ST,-0.36644778669413147,Neftel 2019
+Neopl-OPC (ours),Neftel MES2,UKF262_T_ST,-0.19521559463191496,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel MES2,UKF262_T_ST,-0.2172898261941225,Neftel 2019
+Neopl-ACR (ours),Neftel NPC1,UKF262_T_ST,-0.37736878414188935,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel NPC1,UKF262_T_ST,-0.27966919062749673,Neftel 2019
+Neopl-ECM (ours),Neftel NPC1,UKF262_T_ST,0.10586624797989846,Neftel 2019
+Neopl-COP (ours),Neftel NPC1,UKF262_T_ST,-0.024852157346388497,Neftel 2019
+Neopl-NC (ours),Neftel NPC1,UKF262_T_ST,0.5073001890091232,Neftel 2019
+Neopl-OPC (ours),Neftel NPC1,UKF262_T_ST,0.3338516777507796,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel NPC1,UKF262_T_ST,0.3271239789934068,Neftel 2019
+Neopl-ACR (ours),Neftel NPC2,UKF262_T_ST,-0.5733992682707343,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel NPC2,UKF262_T_ST,-0.42396958292277687,Neftel 2019
+Neopl-ECM (ours),Neftel NPC2,UKF262_T_ST,0.08535241093736273,Neftel 2019
+Neopl-COP (ours),Neftel NPC2,UKF262_T_ST,-0.15133550210463678,Neftel 2019
+Neopl-NC (ours),Neftel NPC2,UKF262_T_ST,0.809507854824948,Neftel 2019
+Neopl-OPC (ours),Neftel NPC2,UKF262_T_ST,0.2733107204144658,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel NPC2,UKF262_T_ST,0.44245171766521935,Neftel 2019
+Neopl-ACR (ours),Neftel OPC,UKF262_T_ST,0.07217018902816999,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel OPC,UKF262_T_ST,0.055290769327299864,Neftel 2019
+Neopl-ECM (ours),Neftel OPC,UKF262_T_ST,0.07959462879490577,Neftel 2019
+Neopl-COP (ours),Neftel OPC,UKF262_T_ST,0.255494701431658,Neftel 2019
+Neopl-NC (ours),Neftel OPC,UKF262_T_ST,-0.05455469279778962,Neftel 2019
+Neopl-OPC (ours),Neftel OPC,UKF262_T_ST,0.10053389895451104,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel OPC,UKF262_T_ST,-0.0655407672911227,Neftel 2019
+Neopl-ACR (ours),Richards Developmental,UKF262_T_ST,-0.44630598942641253,Richards 2021
+"Neopl-ACR (ours, refined)",Richards Developmental,UKF262_T_ST,-0.36352042786748934,Richards 2021
+Neopl-ECM (ours),Richards Developmental,UKF262_T_ST,0.14937824594863747,Richards 2021
+Neopl-COP (ours),Richards Developmental,UKF262_T_ST,-0.0888836083782225,Richards 2021
+Neopl-NC (ours),Richards Developmental,UKF262_T_ST,0.7092988838305837,Richards 2021
+Neopl-OPC (ours),Richards Developmental,UKF262_T_ST,0.252493852024053,Richards 2021
+Neopl-CC/Bulk (ours),Richards Developmental,UKF262_T_ST,0.35336563843569463,Richards 2021
+Neopl-ACR (ours),Richards Injury-Response,UKF262_T_ST,0.040334496519946306,Richards 2021
+"Neopl-ACR (ours, refined)",Richards Injury-Response,UKF262_T_ST,-0.012436285141751012,Richards 2021
+Neopl-ECM (ours),Richards Injury-Response,UKF262_T_ST,0.11192116254955499,Richards 2021
+Neopl-COP (ours),Richards Injury-Response,UKF262_T_ST,-0.13429603631327863,Richards 2021
+Neopl-NC (ours),Richards Injury-Response,UKF262_T_ST,0.0619601448619872,Richards 2021
+Neopl-OPC (ours),Richards Injury-Response,UKF262_T_ST,-0.09110576924711106,Richards 2021
+Neopl-CC/Bulk (ours),Richards Injury-Response,UKF262_T_ST,-7.608694092634898e-4,Richards 2021
+Neopl-ACR (ours),Nomura OPC-like,UKF262_T_ST,-0.35679329347915506,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura OPC-like,UKF262_T_ST,-0.2261682633203864,Nomura 2025
+Neopl-ECM (ours),Nomura OPC-like,UKF262_T_ST,0.11757129094011218,Nomura 2025
+Neopl-COP (ours),Nomura OPC-like,UKF262_T_ST,-0.028523706640501478,Nomura 2025
+Neopl-NC (ours),Nomura OPC-like,UKF262_T_ST,0.415644113912576,Nomura 2025
+Neopl-OPC (ours),Nomura OPC-like,UKF262_T_ST,0.40486439573431043,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura OPC-like,UKF262_T_ST,0.2524959926190453,Nomura 2025
+Neopl-ACR (ours),Nomura AC-like,UKF262_T_ST,0.5611636530562614,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura AC-like,UKF262_T_ST,0.37636848796621797,Nomura 2025
+Neopl-ECM (ours),Nomura AC-like,UKF262_T_ST,-0.025321646074279208,Nomura 2025
+Neopl-COP (ours),Nomura AC-like,UKF262_T_ST,0.1617755788927454,Nomura 2025
+Neopl-NC (ours),Nomura AC-like,UKF262_T_ST,-0.5857310261123978,Nomura 2025
+Neopl-OPC (ours),Nomura AC-like,UKF262_T_ST,-0.23373126498886856,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura AC-like,UKF262_T_ST,-0.3435716330035663,Nomura 2025
+Neopl-ACR (ours),Nomura Hypoxia,UKF262_T_ST,-0.12965247560759033,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura Hypoxia,UKF262_T_ST,-0.07928600241737198,Nomura 2025
+Neopl-ECM (ours),Nomura Hypoxia,UKF262_T_ST,-0.01149805095474562,Nomura 2025
+Neopl-COP (ours),Nomura Hypoxia,UKF262_T_ST,-0.09434225680174983,Nomura 2025
+Neopl-NC (ours),Nomura Hypoxia,UKF262_T_ST,0.16075604550903524,Nomura 2025
+Neopl-OPC (ours),Nomura Hypoxia,UKF262_T_ST,0.038647323150838145,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura Hypoxia,UKF262_T_ST,0.11042519483454584,Nomura 2025
+Neopl-ACR (ours),Nomura MES-like,UKF262_T_ST,0.042975694959555596,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura MES-like,UKF262_T_ST,0.035260748257764936,Nomura 2025
+Neopl-ECM (ours),Nomura MES-like,UKF262_T_ST,-0.013846043220060791,Nomura 2025
+Neopl-COP (ours),Nomura MES-like,UKF262_T_ST,-0.0612192714341824,Nomura 2025
+Neopl-NC (ours),Nomura MES-like,UKF262_T_ST,-0.003896858724436118,Nomura 2025
+Neopl-OPC (ours),Nomura MES-like,UKF262_T_ST,-0.01844765885476434,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura MES-like,UKF262_T_ST,0.13873996017803955,Nomura 2025
+Neopl-ACR (ours),Nomura NPC-like,UKF262_T_ST,-0.4238203333121799,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura NPC-like,UKF262_T_ST,-0.29208236454702685,Nomura 2025
+Neopl-ECM (ours),Nomura NPC-like,UKF262_T_ST,0.02750054421598311,Nomura 2025
+Neopl-COP (ours),Nomura NPC-like,UKF262_T_ST,-0.10056185692841993,Nomura 2025
+Neopl-NC (ours),Nomura NPC-like,UKF262_T_ST,0.5384109029734185,Nomura 2025
+Neopl-OPC (ours),Nomura NPC-like,UKF262_T_ST,0.2595400533786009,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura NPC-like,UKF262_T_ST,0.3431693638245069,Nomura 2025
+Neopl-ACR (ours),Nomura GPC-like,UKF262_T_ST,-0.13867775697784743,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura GPC-like,UKF262_T_ST,-0.08341813600310836,Nomura 2025
+Neopl-ECM (ours),Nomura GPC-like,UKF262_T_ST,0.01428718755060962,Nomura 2025
+Neopl-COP (ours),Nomura GPC-like,UKF262_T_ST,0.02345729660701895,Nomura 2025
+Neopl-NC (ours),Nomura GPC-like,UKF262_T_ST,0.24516261234162576,Nomura 2025
+Neopl-OPC (ours),Nomura GPC-like,UKF262_T_ST,0.1327426021860601,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura GPC-like,UKF262_T_ST,0.08949191519228368,Nomura 2025
+Neopl-ACR (ours),Nomura NEU-like,UKF262_T_ST,-0.5714123028316624,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura NEU-like,UKF262_T_ST,-0.44564257147481934,Nomura 2025
+Neopl-ECM (ours),Nomura NEU-like,UKF262_T_ST,0.09704066260674864,Nomura 2025
+Neopl-COP (ours),Nomura NEU-like,UKF262_T_ST,-0.16490999722968988,Nomura 2025
+Neopl-NC (ours),Nomura NEU-like,UKF262_T_ST,0.8496699375577542,Nomura 2025
+Neopl-OPC (ours),Nomura NEU-like,UKF262_T_ST,0.2759689978156808,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura NEU-like,UKF262_T_ST,0.4504408613707975,Nomura 2025
+Neopl-ACR (ours),Nomura Stress,UKF262_T_ST,-0.2043372762449848,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura Stress,UKF262_T_ST,-0.1776254477787379,Nomura 2025
+Neopl-ECM (ours),Nomura Stress,UKF262_T_ST,0.057509893671310756,Nomura 2025
+Neopl-COP (ours),Nomura Stress,UKF262_T_ST,-0.07094638124527074,Nomura 2025
+Neopl-NC (ours),Nomura Stress,UKF262_T_ST,0.3106517274620075,Nomura 2025
+Neopl-OPC (ours),Nomura Stress,UKF262_T_ST,0.061539640790485003,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura Stress,UKF262_T_ST,0.18065767810856237,Nomura 2025
+Neopl-ACR (ours),Nomura Cilia-like,UKF262_T_ST,0.1904402504616935,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura Cilia-like,UKF262_T_ST,0.1389305721566826,Nomura 2025
+Neopl-ECM (ours),Nomura Cilia-like,UKF262_T_ST,-0.03749128426717371,Nomura 2025
+Neopl-COP (ours),Nomura Cilia-like,UKF262_T_ST,0.05374073573911047,Nomura 2025
+Neopl-NC (ours),Nomura Cilia-like,UKF262_T_ST,-0.229894449841831,Nomura 2025
+Neopl-OPC (ours),Nomura Cilia-like,UKF262_T_ST,-0.055601879800584834,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura Cilia-like,UKF262_T_ST,-0.11451656960113944,Nomura 2025
+Neopl-ACR (ours),Nomura Cell cycle,UKF262_T_ST,-0.036851992466814455,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura Cell cycle,UKF262_T_ST,-0.01705931459302608,Nomura 2025
+Neopl-ECM (ours),Nomura Cell cycle,UKF262_T_ST,-0.03447025593388699,Nomura 2025
+Neopl-COP (ours),Nomura Cell cycle,UKF262_T_ST,-0.049320066510458026,Nomura 2025
+Neopl-NC (ours),Nomura Cell cycle,UKF262_T_ST,0.011833704824254979,Nomura 2025
+Neopl-OPC (ours),Nomura Cell cycle,UKF262_T_ST,0.013349663876806136,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura Cell cycle,UKF262_T_ST,0.09952970130597173,Nomura 2025
+Neopl-ACR (ours),Neftel AC,UKF265_T_ST,0.264575391727442,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel AC,UKF265_T_ST,0.15451126516601427,Neftel 2019
+Neopl-ECM (ours),Neftel AC,UKF265_T_ST,0.07356653495338293,Neftel 2019
+Neopl-COP (ours),Neftel AC,UKF265_T_ST,0.04764164788185583,Neftel 2019
+Neopl-NC (ours),Neftel AC,UKF265_T_ST,0.007694528683682449,Neftel 2019
+Neopl-OPC (ours),Neftel AC,UKF265_T_ST,0.007120871516823829,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel AC,UKF265_T_ST,0.0029918585614574287,Neftel 2019
+Neopl-ACR (ours),Neftel MES1,UKF265_T_ST,0.42120570304927835,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel MES1,UKF265_T_ST,0.30824712705598717,Neftel 2019
+Neopl-ECM (ours),Neftel MES1,UKF265_T_ST,-0.1312125265742145,Neftel 2019
+Neopl-COP (ours),Neftel MES1,UKF265_T_ST,-0.1221063305043938,Neftel 2019
+Neopl-NC (ours),Neftel MES1,UKF265_T_ST,-0.24760224476771786,Neftel 2019
+Neopl-OPC (ours),Neftel MES1,UKF265_T_ST,-0.18229157316752354,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel MES1,UKF265_T_ST,-0.17865766375332612,Neftel 2019
+Neopl-ACR (ours),Neftel MES2,UKF265_T_ST,0.24328079956218712,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel MES2,UKF265_T_ST,0.1457633699088994,Neftel 2019
+Neopl-ECM (ours),Neftel MES2,UKF265_T_ST,-0.11265528423110392,Neftel 2019
+Neopl-COP (ours),Neftel MES2,UKF265_T_ST,-0.06956437832537302,Neftel 2019
+Neopl-NC (ours),Neftel MES2,UKF265_T_ST,-0.10421515313309138,Neftel 2019
+Neopl-OPC (ours),Neftel MES2,UKF265_T_ST,-0.13334713079387683,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel MES2,UKF265_T_ST,-0.0706009143155993,Neftel 2019
+Neopl-ACR (ours),Neftel NPC1,UKF265_T_ST,-0.04902120153103544,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel NPC1,UKF265_T_ST,0.0030762108172607745,Neftel 2019
+Neopl-ECM (ours),Neftel NPC1,UKF265_T_ST,0.1698442995578602,Neftel 2019
+Neopl-COP (ours),Neftel NPC1,UKF265_T_ST,0.20439846856270252,Neftel 2019
+Neopl-NC (ours),Neftel NPC1,UKF265_T_ST,0.2011002849952501,Neftel 2019
+Neopl-OPC (ours),Neftel NPC1,UKF265_T_ST,0.1859187987234147,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel NPC1,UKF265_T_ST,0.20013418905807254,Neftel 2019
+Neopl-ACR (ours),Neftel NPC2,UKF265_T_ST,-0.15010572858445664,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel NPC2,UKF265_T_ST,-0.04787439736031059,Neftel 2019
+Neopl-ECM (ours),Neftel NPC2,UKF265_T_ST,0.191670996149779,Neftel 2019
+Neopl-COP (ours),Neftel NPC2,UKF265_T_ST,0.19080518247259232,Neftel 2019
+Neopl-NC (ours),Neftel NPC2,UKF265_T_ST,0.3287256451363156,Neftel 2019
+Neopl-OPC (ours),Neftel NPC2,UKF265_T_ST,0.2292165378027411,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel NPC2,UKF265_T_ST,0.16147230888722466,Neftel 2019
+Neopl-ACR (ours),Neftel OPC,UKF265_T_ST,-0.05400852886639918,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel OPC,UKF265_T_ST,0.030737465922315424,Neftel 2019
+Neopl-ECM (ours),Neftel OPC,UKF265_T_ST,0.2249405566988645,Neftel 2019
+Neopl-COP (ours),Neftel OPC,UKF265_T_ST,0.2357146171883677,Neftel 2019
+Neopl-NC (ours),Neftel OPC,UKF265_T_ST,0.2423648568208893,Neftel 2019
+Neopl-OPC (ours),Neftel OPC,UKF265_T_ST,0.19981734318337163,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel OPC,UKF265_T_ST,0.12041167785230994,Neftel 2019
+Neopl-ACR (ours),Richards Developmental,UKF265_T_ST,-0.03210368932382039,Richards 2021
+"Neopl-ACR (ours, refined)",Richards Developmental,UKF265_T_ST,0.006583291705699446,Richards 2021
+Neopl-ECM (ours),Richards Developmental,UKF265_T_ST,0.053783998945673685,Richards 2021
+Neopl-COP (ours),Richards Developmental,UKF265_T_ST,0.04403099423721479,Richards 2021
+Neopl-NC (ours),Richards Developmental,UKF265_T_ST,0.10977348121258897,Richards 2021
+Neopl-OPC (ours),Richards Developmental,UKF265_T_ST,0.0892186192017186,Richards 2021
+Neopl-CC/Bulk (ours),Richards Developmental,UKF265_T_ST,0.007166287976563137,Richards 2021
+Neopl-ACR (ours),Richards Injury-Response,UKF265_T_ST,0.41780189737340157,Richards 2021
+"Neopl-ACR (ours, refined)",Richards Injury-Response,UKF265_T_ST,0.22275175367700173,Richards 2021
+Neopl-ECM (ours),Richards Injury-Response,UKF265_T_ST,-0.22680092682668374,Richards 2021
+Neopl-COP (ours),Richards Injury-Response,UKF265_T_ST,-0.21865415888193931,Richards 2021
+Neopl-NC (ours),Richards Injury-Response,UKF265_T_ST,-0.32957162384080485,Richards 2021
+Neopl-OPC (ours),Richards Injury-Response,UKF265_T_ST,-0.28839710383393585,Richards 2021
+Neopl-CC/Bulk (ours),Richards Injury-Response,UKF265_T_ST,-0.23178059407749835,Richards 2021
+Neopl-ACR (ours),Nomura OPC-like,UKF265_T_ST,-0.1172895645934267,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura OPC-like,UKF265_T_ST,-0.030270158833901765,Nomura 2025
+Neopl-ECM (ours),Nomura OPC-like,UKF265_T_ST,0.1836460519504341,Nomura 2025
+Neopl-COP (ours),Nomura OPC-like,UKF265_T_ST,0.220986754465842,Nomura 2025
+Neopl-NC (ours),Nomura OPC-like,UKF265_T_ST,0.21964428820687423,Nomura 2025
+Neopl-OPC (ours),Nomura OPC-like,UKF265_T_ST,0.23484490757757676,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura OPC-like,UKF265_T_ST,0.12259328465552165,Nomura 2025
+Neopl-ACR (ours),Nomura AC-like,UKF265_T_ST,0.2679244049296374,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura AC-like,UKF265_T_ST,0.16038611433705732,Nomura 2025
+Neopl-ECM (ours),Nomura AC-like,UKF265_T_ST,0.09748005310983618,Nomura 2025
+Neopl-COP (ours),Nomura AC-like,UKF265_T_ST,0.08002616484932477,Nomura 2025
+Neopl-NC (ours),Nomura AC-like,UKF265_T_ST,0.08715290873137957,Nomura 2025
+Neopl-OPC (ours),Nomura AC-like,UKF265_T_ST,0.07702242969490156,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura AC-like,UKF265_T_ST,0.14431509952083954,Nomura 2025
+Neopl-ACR (ours),Nomura Hypoxia,UKF265_T_ST,0.16644246578558541,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura Hypoxia,UKF265_T_ST,0.1277495915121095,Nomura 2025
+Neopl-ECM (ours),Nomura Hypoxia,UKF265_T_ST,0.013093199696319766,Nomura 2025
+Neopl-COP (ours),Nomura Hypoxia,UKF265_T_ST,-0.04688579877296459,Nomura 2025
+Neopl-NC (ours),Nomura Hypoxia,UKF265_T_ST,-0.025207085429885596,Nomura 2025
+Neopl-OPC (ours),Nomura Hypoxia,UKF265_T_ST,-0.04317754865022625,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura Hypoxia,UKF265_T_ST,-0.04600979759394184,Nomura 2025
+Neopl-ACR (ours),Nomura MES-like,UKF265_T_ST,0.2730914753034333,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura MES-like,UKF265_T_ST,0.16598026746923752,Nomura 2025
+Neopl-ECM (ours),Nomura MES-like,UKF265_T_ST,-0.006581060051010909,Nomura 2025
+Neopl-COP (ours),Nomura MES-like,UKF265_T_ST,-0.034005902646937036,Nomura 2025
+Neopl-NC (ours),Nomura MES-like,UKF265_T_ST,-0.09837263796367873,Nomura 2025
+Neopl-OPC (ours),Nomura MES-like,UKF265_T_ST,-0.05907936097978761,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura MES-like,UKF265_T_ST,0.00791650155044251,Nomura 2025
+Neopl-ACR (ours),Nomura NPC-like,UKF265_T_ST,-0.08589652359551435,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura NPC-like,UKF265_T_ST,-0.021823722720843534,Nomura 2025
+Neopl-ECM (ours),Nomura NPC-like,UKF265_T_ST,0.1684470783226256,Nomura 2025
+Neopl-COP (ours),Nomura NPC-like,UKF265_T_ST,0.20317453276289335,Nomura 2025
+Neopl-NC (ours),Nomura NPC-like,UKF265_T_ST,0.17653679794140573,Nomura 2025
+Neopl-OPC (ours),Nomura NPC-like,UKF265_T_ST,0.20025466036663184,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura NPC-like,UKF265_T_ST,0.08290430021043999,Nomura 2025
+Neopl-ACR (ours),Nomura GPC-like,UKF265_T_ST,-0.15924852287248675,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura GPC-like,UKF265_T_ST,-0.082249939313156,Nomura 2025
+Neopl-ECM (ours),Nomura GPC-like,UKF265_T_ST,0.0974677991579882,Nomura 2025
+Neopl-COP (ours),Nomura GPC-like,UKF265_T_ST,0.21295247671244574,Nomura 2025
+Neopl-NC (ours),Nomura GPC-like,UKF265_T_ST,0.14751660216498388,Nomura 2025
+Neopl-OPC (ours),Nomura GPC-like,UKF265_T_ST,0.1718436281696989,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura GPC-like,UKF265_T_ST,0.1070074290192833,Nomura 2025
+Neopl-ACR (ours),Nomura NEU-like,UKF265_T_ST,0.25877632480057666,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura NEU-like,UKF265_T_ST,0.18921373292942537,Nomura 2025
+Neopl-ECM (ours),Nomura NEU-like,UKF265_T_ST,0.009883893963411525,Nomura 2025
+Neopl-COP (ours),Nomura NEU-like,UKF265_T_ST,-0.015518509140615195,Nomura 2025
+Neopl-NC (ours),Nomura NEU-like,UKF265_T_ST,0.038907253464181286,Nomura 2025
+Neopl-OPC (ours),Nomura NEU-like,UKF265_T_ST,-0.07726955101373406,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura NEU-like,UKF265_T_ST,-0.053868110895909496,Nomura 2025
+Neopl-ACR (ours),Nomura Stress,UKF265_T_ST,0.14965789385691958,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura Stress,UKF265_T_ST,0.11655915676063172,Nomura 2025
+Neopl-ECM (ours),Nomura Stress,UKF265_T_ST,0.03717705487597093,Nomura 2025
+Neopl-COP (ours),Nomura Stress,UKF265_T_ST,-0.029293550188745007,Nomura 2025
+Neopl-NC (ours),Nomura Stress,UKF265_T_ST,0.004760998461438001,Nomura 2025
+Neopl-OPC (ours),Nomura Stress,UKF265_T_ST,-0.028792733912899826,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura Stress,UKF265_T_ST,0.004010329984280266,Nomura 2025
+Neopl-ACR (ours),Nomura Cilia-like,UKF265_T_ST,-0.16502844662895316,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura Cilia-like,UKF265_T_ST,-0.10118662429005339,Nomura 2025
+Neopl-ECM (ours),Nomura Cilia-like,UKF265_T_ST,0.060433182344817316,Nomura 2025
+Neopl-COP (ours),Nomura Cilia-like,UKF265_T_ST,0.06888147638351046,Nomura 2025
+Neopl-NC (ours),Nomura Cilia-like,UKF265_T_ST,0.13102739325640528,Nomura 2025
+Neopl-OPC (ours),Nomura Cilia-like,UKF265_T_ST,0.0997885520539314,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura Cilia-like,UKF265_T_ST,0.06921533667605892,Nomura 2025
+Neopl-ACR (ours),Nomura Cell cycle,UKF265_T_ST,-0.09647819029482559,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura Cell cycle,UKF265_T_ST,-0.049232790311375015,Nomura 2025
+Neopl-ECM (ours),Nomura Cell cycle,UKF265_T_ST,0.10392478175747706,Nomura 2025
+Neopl-COP (ours),Nomura Cell cycle,UKF265_T_ST,0.19276131062298243,Nomura 2025
+Neopl-NC (ours),Nomura Cell cycle,UKF265_T_ST,0.17197027807427637,Nomura 2025
+Neopl-OPC (ours),Nomura Cell cycle,UKF265_T_ST,0.1546977540151692,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura Cell cycle,UKF265_T_ST,0.14699884502426375,Nomura 2025
+Neopl-ACR (ours),Neftel AC,UKF266_T_ST,0.5427677117475925,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel AC,UKF266_T_ST,0.389395293488621,Neftel 2019
+Neopl-ECM (ours),Neftel AC,UKF266_T_ST,0.08806653903513373,Neftel 2019
+Neopl-COP (ours),Neftel AC,UKF266_T_ST,0.18689222023049676,Neftel 2019
+Neopl-NC (ours),Neftel AC,UKF266_T_ST,-0.32559917832740326,Neftel 2019
+Neopl-OPC (ours),Neftel AC,UKF266_T_ST,0.09242403138527175,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel AC,UKF266_T_ST,-0.027089297967914275,Neftel 2019
+Neopl-ACR (ours),Neftel MES1,UKF266_T_ST,0.5077295402646359,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel MES1,UKF266_T_ST,0.40243992216822305,Neftel 2019
+Neopl-ECM (ours),Neftel MES1,UKF266_T_ST,0.16501093649820128,Neftel 2019
+Neopl-COP (ours),Neftel MES1,UKF266_T_ST,0.35599327501411165,Neftel 2019
+Neopl-NC (ours),Neftel MES1,UKF266_T_ST,-0.6018525388390978,Neftel 2019
+Neopl-OPC (ours),Neftel MES1,UKF266_T_ST,0.11443802292349532,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel MES1,UKF266_T_ST,0.20290299831438482,Neftel 2019
+Neopl-ACR (ours),Neftel MES2,UKF266_T_ST,0.11192337600335375,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel MES2,UKF266_T_ST,0.07299817814282927,Neftel 2019
+Neopl-ECM (ours),Neftel MES2,UKF266_T_ST,-0.08022881860065943,Neftel 2019
+Neopl-COP (ours),Neftel MES2,UKF266_T_ST,-0.07277489310066525,Neftel 2019
+Neopl-NC (ours),Neftel MES2,UKF266_T_ST,-0.018043145795736796,Neftel 2019
+Neopl-OPC (ours),Neftel MES2,UKF266_T_ST,-0.12607501757619916,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel MES2,UKF266_T_ST,-0.08760498488662957,Neftel 2019
+Neopl-ACR (ours),Neftel NPC1,UKF266_T_ST,0.02431967913625605,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel NPC1,UKF266_T_ST,0.10397253229163407,Neftel 2019
+Neopl-ECM (ours),Neftel NPC1,UKF266_T_ST,0.39649293185448364,Neftel 2019
+Neopl-COP (ours),Neftel NPC1,UKF266_T_ST,0.5527507100555666,Neftel 2019
+Neopl-NC (ours),Neftel NPC1,UKF266_T_ST,-0.49986827591078603,Neftel 2019
+Neopl-OPC (ours),Neftel NPC1,UKF266_T_ST,0.4330155380762973,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel NPC1,UKF266_T_ST,0.5236183578549409,Neftel 2019
+Neopl-ACR (ours),Neftel NPC2,UKF266_T_ST,-0.33579791213532945,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel NPC2,UKF266_T_ST,-0.2884631667061277,Neftel 2019
+Neopl-ECM (ours),Neftel NPC2,UKF266_T_ST,-0.26718198263759896,Neftel 2019
+Neopl-COP (ours),Neftel NPC2,UKF266_T_ST,-0.5033076462470915,Neftel 2019
+Neopl-NC (ours),Neftel NPC2,UKF266_T_ST,0.7308365176142049,Neftel 2019
+Neopl-OPC (ours),Neftel NPC2,UKF266_T_ST,-0.23701334877882788,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel NPC2,UKF266_T_ST,-0.3471460947452274,Neftel 2019
+Neopl-ACR (ours),Neftel OPC,UKF266_T_ST,0.23303447268876892,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel OPC,UKF266_T_ST,0.2708550236881748,Neftel 2019
+Neopl-ECM (ours),Neftel OPC,UKF266_T_ST,0.4372924575339166,Neftel 2019
+Neopl-COP (ours),Neftel OPC,UKF266_T_ST,0.7333598186854249,Neftel 2019
+Neopl-NC (ours),Neftel OPC,UKF266_T_ST,-0.6844451368256552,Neftel 2019
+Neopl-OPC (ours),Neftel OPC,UKF266_T_ST,0.4076868868191145,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel OPC,UKF266_T_ST,0.5355553349853289,Neftel 2019
+Neopl-ACR (ours),Richards Developmental,UKF266_T_ST,-0.2601872138220245,Richards 2021
+"Neopl-ACR (ours, refined)",Richards Developmental,UKF266_T_ST,-0.15833920671160956,Richards 2021
+Neopl-ECM (ours),Richards Developmental,UKF266_T_ST,0.16888078064685694,Richards 2021
+Neopl-COP (ours),Richards Developmental,UKF266_T_ST,0.06851944788877316,Richards 2021
+Neopl-NC (ours),Richards Developmental,UKF266_T_ST,0.148507034143735,Richards 2021
+Neopl-OPC (ours),Richards Developmental,UKF266_T_ST,0.17893699124230167,Richards 2021
+Neopl-CC/Bulk (ours),Richards Developmental,UKF266_T_ST,0.1583565022337388,Richards 2021
+Neopl-ACR (ours),Richards Injury-Response,UKF266_T_ST,-0.055208860273441636,Richards 2021
+"Neopl-ACR (ours, refined)",Richards Injury-Response,UKF266_T_ST,-0.012227760751495904,Richards 2021
+Neopl-ECM (ours),Richards Injury-Response,UKF266_T_ST,0.16579771091552292,Richards 2021
+Neopl-COP (ours),Richards Injury-Response,UKF266_T_ST,0.10082558901889634,Richards 2021
+Neopl-NC (ours),Richards Injury-Response,UKF266_T_ST,-0.07543986423117714,Richards 2021
+Neopl-OPC (ours),Richards Injury-Response,UKF266_T_ST,0.06339530344737113,Richards 2021
+Neopl-CC/Bulk (ours),Richards Injury-Response,UKF266_T_ST,0.14690283258575101,Richards 2021
+Neopl-ACR (ours),Nomura OPC-like,UKF266_T_ST,0.017718663659861,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura OPC-like,UKF266_T_ST,0.051761955592794825,Nomura 2025
+Neopl-ECM (ours),Nomura OPC-like,UKF266_T_ST,0.2963316358868523,Nomura 2025
+Neopl-COP (ours),Nomura OPC-like,UKF266_T_ST,0.29408865504825016,Nomura 2025
+Neopl-NC (ours),Nomura OPC-like,UKF266_T_ST,-0.23421235221632095,Nomura 2025
+Neopl-OPC (ours),Nomura OPC-like,UKF266_T_ST,0.42272253567661433,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura OPC-like,UKF266_T_ST,0.29090500615480597,Nomura 2025
+Neopl-ACR (ours),Nomura AC-like,UKF266_T_ST,0.38364933404423257,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura AC-like,UKF266_T_ST,0.20930050981339768,Nomura 2025
+Neopl-ECM (ours),Nomura AC-like,UKF266_T_ST,-0.12498828244178074,Nomura 2025
+Neopl-COP (ours),Nomura AC-like,UKF266_T_ST,-0.15222583840047837,Nomura 2025
+Neopl-NC (ours),Nomura AC-like,UKF266_T_ST,0.017574282162294667,Nomura 2025
+Neopl-OPC (ours),Nomura AC-like,UKF266_T_ST,-0.10415506148058142,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura AC-like,UKF266_T_ST,-0.2658321889428893,Nomura 2025
+Neopl-ACR (ours),Nomura Hypoxia,UKF266_T_ST,-0.07833253124038354,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura Hypoxia,UKF266_T_ST,-0.043158066290259804,Nomura 2025
+Neopl-ECM (ours),Nomura Hypoxia,UKF266_T_ST,-0.00935729921283541,Nomura 2025
+Neopl-COP (ours),Nomura Hypoxia,UKF266_T_ST,-0.09413191799746314,Nomura 2025
+Neopl-NC (ours),Nomura Hypoxia,UKF266_T_ST,0.11735331887118707,Nomura 2025
+Neopl-OPC (ours),Nomura Hypoxia,UKF266_T_ST,-0.06827785321202463,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura Hypoxia,UKF266_T_ST,-0.05996050352523727,Nomura 2025
+Neopl-ACR (ours),Nomura MES-like,UKF266_T_ST,0.11253654652663389,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura MES-like,UKF266_T_ST,0.08305102897265677,Nomura 2025
+Neopl-ECM (ours),Nomura MES-like,UKF266_T_ST,0.027893776522840173,Nomura 2025
+Neopl-COP (ours),Nomura MES-like,UKF266_T_ST,-0.03438529134168691,Nomura 2025
+Neopl-NC (ours),Nomura MES-like,UKF266_T_ST,-0.050089477255811914,Nomura 2025
+Neopl-OPC (ours),Nomura MES-like,UKF266_T_ST,-0.008435603626979,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura MES-like,UKF266_T_ST,0.05201823693902463,Nomura 2025
+Neopl-ACR (ours),Nomura NPC-like,UKF266_T_ST,-0.2236173594930061,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura NPC-like,UKF266_T_ST,-0.19292018514410691,Nomura 2025
+Neopl-ECM (ours),Nomura NPC-like,UKF266_T_ST,-0.1864408887223964,Nomura 2025
+Neopl-COP (ours),Nomura NPC-like,UKF266_T_ST,-0.3162012334459129,Nomura 2025
+Neopl-NC (ours),Nomura NPC-like,UKF266_T_ST,0.44724460934570004,Nomura 2025
+Neopl-OPC (ours),Nomura NPC-like,UKF266_T_ST,-0.10365529677677703,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura NPC-like,UKF266_T_ST,-0.22849941083658576,Nomura 2025
+Neopl-ACR (ours),Nomura GPC-like,UKF266_T_ST,0.017070529399086917,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura GPC-like,UKF266_T_ST,-0.033944210451888404,Nomura 2025
+Neopl-ECM (ours),Nomura GPC-like,UKF266_T_ST,-0.21896742039114986,Nomura 2025
+Neopl-COP (ours),Nomura GPC-like,UKF266_T_ST,-0.362223176106591,Nomura 2025
+Neopl-NC (ours),Nomura GPC-like,UKF266_T_ST,0.3917071106641844,Nomura 2025
+Neopl-OPC (ours),Nomura GPC-like,UKF266_T_ST,-0.16965324177874505,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura GPC-like,UKF266_T_ST,-0.39029522054271076,Nomura 2025
+Neopl-ACR (ours),Nomura NEU-like,UKF266_T_ST,-0.3892422032658046,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura NEU-like,UKF266_T_ST,-0.3597053759737096,Nomura 2025
+Neopl-ECM (ours),Nomura NEU-like,UKF266_T_ST,-0.3410163075527747,Nomura 2025
+Neopl-COP (ours),Nomura NEU-like,UKF266_T_ST,-0.6398033055390624,Nomura 2025
+Neopl-NC (ours),Nomura NEU-like,UKF266_T_ST,0.8718019894642614,Nomura 2025
+Neopl-OPC (ours),Nomura NEU-like,UKF266_T_ST,-0.3040481591753341,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura NEU-like,UKF266_T_ST,-0.4842375540852147,Nomura 2025
+Neopl-ACR (ours),Nomura Stress,UKF266_T_ST,-0.13435950117703915,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura Stress,UKF266_T_ST,-0.07296686051265058,Nomura 2025
+Neopl-ECM (ours),Nomura Stress,UKF266_T_ST,0.11573649789952717,Nomura 2025
+Neopl-COP (ours),Nomura Stress,UKF266_T_ST,0.026301467643993274,Nomura 2025
+Neopl-NC (ours),Nomura Stress,UKF266_T_ST,0.05757865594365341,Nomura 2025
+Neopl-OPC (ours),Nomura Stress,UKF266_T_ST,0.041722487178827684,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura Stress,UKF266_T_ST,0.0716854061154529,Nomura 2025
+Neopl-ACR (ours),Nomura Cilia-like,UKF266_T_ST,-0.07237239756308662,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura Cilia-like,UKF266_T_ST,-0.10907412158585732,Nomura 2025
+Neopl-ECM (ours),Nomura Cilia-like,UKF266_T_ST,-0.20340004268717443,Nomura 2025
+Neopl-COP (ours),Nomura Cilia-like,UKF266_T_ST,-0.3027491924716595,Nomura 2025
+Neopl-NC (ours),Nomura Cilia-like,UKF266_T_ST,0.33515308977342273,Nomura 2025
+Neopl-OPC (ours),Nomura Cilia-like,UKF266_T_ST,-0.17121798524834111,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura Cilia-like,UKF266_T_ST,-0.27642971603047445,Nomura 2025
+Neopl-ACR (ours),Nomura Cell cycle,UKF266_T_ST,0.14051915287599914,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura Cell cycle,UKF266_T_ST,0.17905475436035473,Nomura 2025
+Neopl-ECM (ours),Nomura Cell cycle,UKF266_T_ST,0.33856628439619374,Nomura 2025
+Neopl-COP (ours),Nomura Cell cycle,UKF266_T_ST,0.5789185172634712,Nomura 2025
+Neopl-NC (ours),Nomura Cell cycle,UKF266_T_ST,-0.6252541909482123,Nomura 2025
+Neopl-OPC (ours),Nomura Cell cycle,UKF266_T_ST,0.31136763774943693,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura Cell cycle,UKF266_T_ST,0.599810409604055,Nomura 2025
+Neopl-ACR (ours),Neftel AC,UKF269_T_ST,0.6890058911411162,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel AC,UKF269_T_ST,0.6388684667880083,Neftel 2019
+Neopl-ECM (ours),Neftel AC,UKF269_T_ST,0.2720672882829703,Neftel 2019
+Neopl-COP (ours),Neftel AC,UKF269_T_ST,0.12328484677280832,Neftel 2019
+Neopl-NC (ours),Neftel AC,UKF269_T_ST,-0.7769628512301671,Neftel 2019
+Neopl-OPC (ours),Neftel AC,UKF269_T_ST,0.18955472192134074,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel AC,UKF269_T_ST,0.424770843687517,Neftel 2019
+Neopl-ACR (ours),Neftel MES1,UKF269_T_ST,0.7461738894537915,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel MES1,UKF269_T_ST,0.6638833815556752,Neftel 2019
+Neopl-ECM (ours),Neftel MES1,UKF269_T_ST,0.2257076400147126,Neftel 2019
+Neopl-COP (ours),Neftel MES1,UKF269_T_ST,-0.031119477220463605,Neftel 2019
+Neopl-NC (ours),Neftel MES1,UKF269_T_ST,-0.7675170316296478,Neftel 2019
+Neopl-OPC (ours),Neftel MES1,UKF269_T_ST,0.12236830247679105,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel MES1,UKF269_T_ST,0.40077540579458354,Neftel 2019
+Neopl-ACR (ours),Neftel MES2,UKF269_T_ST,0.0022296099514071497,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel MES2,UKF269_T_ST,-0.04460141465460096,Neftel 2019
+Neopl-ECM (ours),Neftel MES2,UKF269_T_ST,-0.09849096502836714,Neftel 2019
+Neopl-COP (ours),Neftel MES2,UKF269_T_ST,-0.23229968812976365,Neftel 2019
+Neopl-NC (ours),Neftel MES2,UKF269_T_ST,0.22754179585760537,Neftel 2019
+Neopl-OPC (ours),Neftel MES2,UKF269_T_ST,-0.06799492991180153,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel MES2,UKF269_T_ST,-0.1372521032886837,Neftel 2019
+Neopl-ACR (ours),Neftel NPC1,UKF269_T_ST,-0.04389439213876383,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel NPC1,UKF269_T_ST,0.028148398610019408,Neftel 2019
+Neopl-ECM (ours),Neftel NPC1,UKF269_T_ST,0.13015428459545958,Neftel 2019
+Neopl-COP (ours),Neftel NPC1,UKF269_T_ST,0.03404886240199174,Neftel 2019
+Neopl-NC (ours),Neftel NPC1,UKF269_T_ST,-0.14443714423872067,Neftel 2019
+Neopl-OPC (ours),Neftel NPC1,UKF269_T_ST,0.1637324735098101,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel NPC1,UKF269_T_ST,0.25523890126076493,Neftel 2019
+Neopl-ACR (ours),Neftel NPC2,UKF269_T_ST,-0.6172945432381293,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel NPC2,UKF269_T_ST,-0.5965174696919716,Neftel 2019
+Neopl-ECM (ours),Neftel NPC2,UKF269_T_ST,-0.26411202561658115,Neftel 2019
+Neopl-COP (ours),Neftel NPC2,UKF269_T_ST,-0.15319072136011022,Neftel 2019
+Neopl-NC (ours),Neftel NPC2,UKF269_T_ST,0.8614438138407586,Neftel 2019
+Neopl-OPC (ours),Neftel NPC2,UKF269_T_ST,-0.16070035759369974,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel NPC2,UKF269_T_ST,-0.44651053569718624,Neftel 2019
+Neopl-ACR (ours),Neftel OPC,UKF269_T_ST,0.3868408855137449,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel OPC,UKF269_T_ST,0.4049369225403327,Neftel 2019
+Neopl-ECM (ours),Neftel OPC,UKF269_T_ST,0.2639187558935424,Neftel 2019
+Neopl-COP (ours),Neftel OPC,UKF269_T_ST,0.4220118783917583,Neftel 2019
+Neopl-NC (ours),Neftel OPC,UKF269_T_ST,-0.6327534866548488,Neftel 2019
+Neopl-OPC (ours),Neftel OPC,UKF269_T_ST,0.1676901572360325,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel OPC,UKF269_T_ST,0.26895247646475057,Neftel 2019
+Neopl-ACR (ours),Richards Developmental,UKF269_T_ST,0.10447459869572763,Richards 2021
+"Neopl-ACR (ours, refined)",Richards Developmental,UKF269_T_ST,0.18181614253709102,Richards 2021
+Neopl-ECM (ours),Richards Developmental,UKF269_T_ST,0.17302949830045944,Richards 2021
+Neopl-COP (ours),Richards Developmental,UKF269_T_ST,-0.1654511842398624,Richards 2021
+Neopl-NC (ours),Richards Developmental,UKF269_T_ST,-0.3397220938886006,Richards 2021
+Neopl-OPC (ours),Richards Developmental,UKF269_T_ST,0.16764472031930386,Richards 2021
+Neopl-CC/Bulk (ours),Richards Developmental,UKF269_T_ST,0.4052053143247909,Richards 2021
+Neopl-ACR (ours),Richards Injury-Response,UKF269_T_ST,0.4584452675596965,Richards 2021
+"Neopl-ACR (ours, refined)",Richards Injury-Response,UKF269_T_ST,0.4787646393477418,Richards 2021
+Neopl-ECM (ours),Richards Injury-Response,UKF269_T_ST,0.20674090974974674,Richards 2021
+Neopl-COP (ours),Richards Injury-Response,UKF269_T_ST,-0.24722863498657052,Richards 2021
+Neopl-NC (ours),Richards Injury-Response,UKF269_T_ST,-0.6212539761600337,Richards 2021
+Neopl-OPC (ours),Richards Injury-Response,UKF269_T_ST,0.1066515543608741,Richards 2021
+Neopl-CC/Bulk (ours),Richards Injury-Response,UKF269_T_ST,0.42970336826043276,Richards 2021
+Neopl-ACR (ours),Nomura OPC-like,UKF269_T_ST,-0.08339478562092725,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura OPC-like,UKF269_T_ST,-0.04756605479760857,Nomura 2025
+Neopl-ECM (ours),Nomura OPC-like,UKF269_T_ST,0.045869100702578776,Nomura 2025
+Neopl-COP (ours),Nomura OPC-like,UKF269_T_ST,0.05878186218866268,Nomura 2025
+Neopl-NC (ours),Nomura OPC-like,UKF269_T_ST,0.002912022260778233,Nomura 2025
+Neopl-OPC (ours),Nomura OPC-like,UKF269_T_ST,0.2367980221818111,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura OPC-like,UKF269_T_ST,0.08234163934247361,Nomura 2025
+Neopl-ACR (ours),Nomura AC-like,UKF269_T_ST,0.5366620245062943,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura AC-like,UKF269_T_ST,0.4165414143318234,Nomura 2025
+Neopl-ECM (ours),Nomura AC-like,UKF269_T_ST,0.10422843139215958,Nomura 2025
+Neopl-COP (ours),Nomura AC-like,UKF269_T_ST,0.07248152708789657,Nomura 2025
+Neopl-NC (ours),Nomura AC-like,UKF269_T_ST,-0.3469671200317556,Nomura 2025
+Neopl-OPC (ours),Nomura AC-like,UKF269_T_ST,0.07470258569630797,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura AC-like,UKF269_T_ST,0.10951931724918361,Nomura 2025
+Neopl-ACR (ours),Nomura Hypoxia,UKF269_T_ST,-0.18957323138885857,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura Hypoxia,UKF269_T_ST,-0.18383051022930072,Nomura 2025
+Neopl-ECM (ours),Nomura Hypoxia,UKF269_T_ST,-0.12730536638010465,Nomura 2025
+Neopl-COP (ours),Nomura Hypoxia,UKF269_T_ST,-0.18424781756967318,Nomura 2025
+Neopl-NC (ours),Nomura Hypoxia,UKF269_T_ST,0.36337989196038994,Nomura 2025
+Neopl-OPC (ours),Nomura Hypoxia,UKF269_T_ST,-0.07976904610691239,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura Hypoxia,UKF269_T_ST,-0.22684402645356536,Nomura 2025
+Neopl-ACR (ours),Nomura MES-like,UKF269_T_ST,0.5288199127779019,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura MES-like,UKF269_T_ST,0.49525429839265955,Nomura 2025
+Neopl-ECM (ours),Nomura MES-like,UKF269_T_ST,0.1460129363462523,Nomura 2025
+Neopl-COP (ours),Nomura MES-like,UKF269_T_ST,-0.15588447514142578,Nomura 2025
+Neopl-NC (ours),Nomura MES-like,UKF269_T_ST,-0.5426278778680708,Nomura 2025
+Neopl-OPC (ours),Nomura MES-like,UKF269_T_ST,0.1224878352937796,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura MES-like,UKF269_T_ST,0.4254121828782479,Nomura 2025
+Neopl-ACR (ours),Nomura NPC-like,UKF269_T_ST,-0.6038045100520413,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura NPC-like,UKF269_T_ST,-0.5800623923141722,Nomura 2025
+Neopl-ECM (ours),Nomura NPC-like,UKF269_T_ST,-0.2559329826841292,Nomura 2025
+Neopl-COP (ours),Nomura NPC-like,UKF269_T_ST,-0.07341172650001053,Nomura 2025
+Neopl-NC (ours),Nomura NPC-like,UKF269_T_ST,0.7969524749422692,Nomura 2025
+Neopl-OPC (ours),Nomura NPC-like,UKF269_T_ST,-0.1165114424242881,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura NPC-like,UKF269_T_ST,-0.43930014780959437,Nomura 2025
+Neopl-ACR (ours),Nomura GPC-like,UKF269_T_ST,0.21727294490657736,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura GPC-like,UKF269_T_ST,0.21099584356504078,Nomura 2025
+Neopl-ECM (ours),Nomura GPC-like,UKF269_T_ST,0.11433782547737847,Nomura 2025
+Neopl-COP (ours),Nomura GPC-like,UKF269_T_ST,0.02091445190763771,Nomura 2025
+Neopl-NC (ours),Nomura GPC-like,UKF269_T_ST,-0.26711565627928985,Nomura 2025
+Neopl-OPC (ours),Nomura GPC-like,UKF269_T_ST,0.1501657081948987,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura GPC-like,UKF269_T_ST,0.22422199077652472,Nomura 2025
+Neopl-ACR (ours),Nomura NEU-like,UKF269_T_ST,-0.5637206024795959,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura NEU-like,UKF269_T_ST,-0.5618919324719147,Nomura 2025
+Neopl-ECM (ours),Nomura NEU-like,UKF269_T_ST,-0.2398833416885752,Nomura 2025
+Neopl-COP (ours),Nomura NEU-like,UKF269_T_ST,-0.19134227808111895,Nomura 2025
+Neopl-NC (ours),Nomura NEU-like,UKF269_T_ST,0.8385848269047137,Nomura 2025
+Neopl-OPC (ours),Nomura NEU-like,UKF269_T_ST,-0.14971530346266412,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura NEU-like,UKF269_T_ST,-0.4371818138083539,Nomura 2025
+Neopl-ACR (ours),Nomura Stress,UKF269_T_ST,-0.09679041882862521,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura Stress,UKF269_T_ST,-0.04992113610877342,Nomura 2025
+Neopl-ECM (ours),Nomura Stress,UKF269_T_ST,0.04937351134724902,Nomura 2025
+Neopl-COP (ours),Nomura Stress,UKF269_T_ST,-0.19741965321038246,Nomura 2025
+Neopl-NC (ours),Nomura Stress,UKF269_T_ST,0.05107281872861893,Nomura 2025
+Neopl-OPC (ours),Nomura Stress,UKF269_T_ST,-0.004251670788607425,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura Stress,UKF269_T_ST,0.0664967526407434,Nomura 2025
+Neopl-ACR (ours),Nomura Cilia-like,UKF269_T_ST,0.19779070167367557,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura Cilia-like,UKF269_T_ST,0.1796893307013775,Nomura 2025
+Neopl-ECM (ours),Nomura Cilia-like,UKF269_T_ST,0.05544272793340171,Nomura 2025
+Neopl-COP (ours),Nomura Cilia-like,UKF269_T_ST,0.01602186114563122,Nomura 2025
+Neopl-NC (ours),Nomura Cilia-like,UKF269_T_ST,-0.2353667725457164,Nomura 2025
+Neopl-OPC (ours),Nomura Cilia-like,UKF269_T_ST,0.0174809525644396,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura Cilia-like,UKF269_T_ST,0.10040651687088323,Nomura 2025
+Neopl-ACR (ours),Nomura Cell cycle,UKF269_T_ST,0.3680840609264172,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura Cell cycle,UKF269_T_ST,0.409717382465328,Nomura 2025
+Neopl-ECM (ours),Nomura Cell cycle,UKF269_T_ST,0.20673343432670055,Nomura 2025
+Neopl-COP (ours),Nomura Cell cycle,UKF269_T_ST,0.12148498498009003,Nomura 2025
+Neopl-NC (ours),Nomura Cell cycle,UKF269_T_ST,-0.6482933687266037,Nomura 2025
+Neopl-OPC (ours),Nomura Cell cycle,UKF269_T_ST,0.13047669871259687,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura Cell cycle,UKF269_T_ST,0.5721679493016908,Nomura 2025
+Neopl-ACR (ours),Neftel AC,UKF275_T_ST,0.30960014325482305,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel AC,UKF275_T_ST,0.3675347648271711,Neftel 2019
+Neopl-ECM (ours),Neftel AC,UKF275_T_ST,0.14498641768866238,Neftel 2019
+Neopl-COP (ours),Neftel AC,UKF275_T_ST,0.030923890179825296,Neftel 2019
+Neopl-NC (ours),Neftel AC,UKF275_T_ST,-0.3102574133854853,Neftel 2019
+Neopl-OPC (ours),Neftel AC,UKF275_T_ST,-0.028362079131514374,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel AC,UKF275_T_ST,0.1518248487467277,Neftel 2019
+Neopl-ACR (ours),Neftel MES1,UKF275_T_ST,0.362656805503388,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel MES1,UKF275_T_ST,0.3957630256473619,Neftel 2019
+Neopl-ECM (ours),Neftel MES1,UKF275_T_ST,-0.029575416001007014,Neftel 2019
+Neopl-COP (ours),Neftel MES1,UKF275_T_ST,-0.09065133325093083,Neftel 2019
+Neopl-NC (ours),Neftel MES1,UKF275_T_ST,-0.5501640722589656,Neftel 2019
+Neopl-OPC (ours),Neftel MES1,UKF275_T_ST,-0.24701197111234882,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel MES1,UKF275_T_ST,0.13654362730036573,Neftel 2019
+Neopl-ACR (ours),Neftel MES2,UKF275_T_ST,0.19545861070445228,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel MES2,UKF275_T_ST,0.28303645537780586,Neftel 2019
+Neopl-ECM (ours),Neftel MES2,UKF275_T_ST,-0.0021485613103626624,Neftel 2019
+Neopl-COP (ours),Neftel MES2,UKF275_T_ST,-0.09289479061877384,Neftel 2019
+Neopl-NC (ours),Neftel MES2,UKF275_T_ST,-0.36479625137932753,Neftel 2019
+Neopl-OPC (ours),Neftel MES2,UKF275_T_ST,-0.24601625197193733,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel MES2,UKF275_T_ST,0.17535249249211388,Neftel 2019
+Neopl-ACR (ours),Neftel NPC1,UKF275_T_ST,-0.23589151244083734,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel NPC1,UKF275_T_ST,-0.3346587763895018,Neftel 2019
+Neopl-ECM (ours),Neftel NPC1,UKF275_T_ST,0.030442724779526652,Neftel 2019
+Neopl-COP (ours),Neftel NPC1,UKF275_T_ST,0.14842110761697266,Neftel 2019
+Neopl-NC (ours),Neftel NPC1,UKF275_T_ST,0.37667744217733895,Neftel 2019
+Neopl-OPC (ours),Neftel NPC1,UKF275_T_ST,0.3370343956284514,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel NPC1,UKF275_T_ST,-0.10782256831270008,Neftel 2019
+Neopl-ACR (ours),Neftel NPC2,UKF275_T_ST,-0.2527986007792603,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel NPC2,UKF275_T_ST,-0.36476625843655464,Neftel 2019
+Neopl-ECM (ours),Neftel NPC2,UKF275_T_ST,0.005863852418877448,Neftel 2019
+Neopl-COP (ours),Neftel NPC2,UKF275_T_ST,0.06284438701457612,Neftel 2019
+Neopl-NC (ours),Neftel NPC2,UKF275_T_ST,0.7522566283033535,Neftel 2019
+Neopl-OPC (ours),Neftel NPC2,UKF275_T_ST,0.17275794102070072,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel NPC2,UKF275_T_ST,-0.19792237519739014,Neftel 2019
+Neopl-ACR (ours),Neftel OPC,UKF275_T_ST,-0.15396469614202407,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel OPC,UKF275_T_ST,-0.24306580176377746,Neftel 2019
+Neopl-ECM (ours),Neftel OPC,UKF275_T_ST,0.04081919343705502,Neftel 2019
+Neopl-COP (ours),Neftel OPC,UKF275_T_ST,0.2711149738871328,Neftel 2019
+Neopl-NC (ours),Neftel OPC,UKF275_T_ST,0.2594386354068704,Neftel 2019
+Neopl-OPC (ours),Neftel OPC,UKF275_T_ST,0.3368517962879166,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel OPC,UKF275_T_ST,-0.12482001003108066,Neftel 2019
+Neopl-ACR (ours),Richards Developmental,UKF275_T_ST,-0.058169999387677224,Richards 2021
+"Neopl-ACR (ours, refined)",Richards Developmental,UKF275_T_ST,-0.08328816710198875,Richards 2021
+Neopl-ECM (ours),Richards Developmental,UKF275_T_ST,0.09902811334987562,Richards 2021
+Neopl-COP (ours),Richards Developmental,UKF275_T_ST,0.10914280544682838,Richards 2021
+Neopl-NC (ours),Richards Developmental,UKF275_T_ST,0.2717167529824088,Richards 2021
+Neopl-OPC (ours),Richards Developmental,UKF275_T_ST,0.2409724331152032,Richards 2021
+Neopl-CC/Bulk (ours),Richards Developmental,UKF275_T_ST,-0.013467140511829737,Richards 2021
+Neopl-ACR (ours),Richards Injury-Response,UKF275_T_ST,0.220155917445774,Richards 2021
+"Neopl-ACR (ours, refined)",Richards Injury-Response,UKF275_T_ST,0.2737675126365469,Richards 2021
+Neopl-ECM (ours),Richards Injury-Response,UKF275_T_ST,0.006261382858399581,Richards 2021
+Neopl-COP (ours),Richards Injury-Response,UKF275_T_ST,-0.04492985203581255,Richards 2021
+Neopl-NC (ours),Richards Injury-Response,UKF275_T_ST,-0.4100909357270835,Richards 2021
+Neopl-OPC (ours),Richards Injury-Response,UKF275_T_ST,-0.109810670433264,Richards 2021
+Neopl-CC/Bulk (ours),Richards Injury-Response,UKF275_T_ST,0.10946570606894533,Richards 2021
+Neopl-ACR (ours),Nomura OPC-like,UKF275_T_ST,-0.15595839694523891,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura OPC-like,UKF275_T_ST,-0.21977360440548194,Nomura 2025
+Neopl-ECM (ours),Nomura OPC-like,UKF275_T_ST,0.02626351931247228,Nomura 2025
+Neopl-COP (ours),Nomura OPC-like,UKF275_T_ST,0.12305789001155021,Nomura 2025
+Neopl-NC (ours),Nomura OPC-like,UKF275_T_ST,0.28446832319089854,Nomura 2025
+Neopl-OPC (ours),Nomura OPC-like,UKF275_T_ST,0.38527260570416144,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura OPC-like,UKF275_T_ST,-0.09143651772186846,Nomura 2025
+Neopl-ACR (ours),Nomura AC-like,UKF275_T_ST,0.2036246069706484,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura AC-like,UKF275_T_ST,0.025867125665985737,Nomura 2025
+Neopl-ECM (ours),Nomura AC-like,UKF275_T_ST,0.0167613424589717,Nomura 2025
+Neopl-COP (ours),Nomura AC-like,UKF275_T_ST,0.025366561948194144,Nomura 2025
+Neopl-NC (ours),Nomura AC-like,UKF275_T_ST,0.10518667095022363,Nomura 2025
+Neopl-OPC (ours),Nomura AC-like,UKF275_T_ST,0.03959405300483883,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura AC-like,UKF275_T_ST,-0.08756586927786277,Nomura 2025
+Neopl-ACR (ours),Nomura Hypoxia,UKF275_T_ST,0.1700860560452831,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura Hypoxia,UKF275_T_ST,0.245827721116403,Nomura 2025
+Neopl-ECM (ours),Nomura Hypoxia,UKF275_T_ST,0.016305582953959924,Nomura 2025
+Neopl-COP (ours),Nomura Hypoxia,UKF275_T_ST,-0.08225179032355627,Nomura 2025
+Neopl-NC (ours),Nomura Hypoxia,UKF275_T_ST,-0.18282498853573786,Nomura 2025
+Neopl-OPC (ours),Nomura Hypoxia,UKF275_T_ST,-0.22013772207289842,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura Hypoxia,UKF275_T_ST,0.11092008362880662,Nomura 2025
+Neopl-ACR (ours),Nomura MES-like,UKF275_T_ST,0.3242799636149475,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura MES-like,UKF275_T_ST,0.4303613786173803,Nomura 2025
+Neopl-ECM (ours),Nomura MES-like,UKF275_T_ST,0.019776231222560194,Nomura 2025
+Neopl-COP (ours),Nomura MES-like,UKF275_T_ST,-0.09347138186544016,Nomura 2025
+Neopl-NC (ours),Nomura MES-like,UKF275_T_ST,-0.536658515310875,Nomura 2025
+Neopl-OPC (ours),Nomura MES-like,UKF275_T_ST,-0.24436867952428806,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura MES-like,UKF275_T_ST,0.2866448388458988,Nomura 2025
+Neopl-ACR (ours),Nomura NPC-like,UKF275_T_ST,-0.19166036228551067,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura NPC-like,UKF275_T_ST,-0.30134103690860725,Nomura 2025
+Neopl-ECM (ours),Nomura NPC-like,UKF275_T_ST,-0.01880155197303982,Nomura 2025
+Neopl-COP (ours),Nomura NPC-like,UKF275_T_ST,0.05026734519266046,Nomura 2025
+Neopl-NC (ours),Nomura NPC-like,UKF275_T_ST,0.4783792184128269,Nomura 2025
+Neopl-OPC (ours),Nomura NPC-like,UKF275_T_ST,0.21563044832357747,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura NPC-like,UKF275_T_ST,-0.16990907359637128,Nomura 2025
+Neopl-ACR (ours),Nomura GPC-like,UKF275_T_ST,0.19361767119050774,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura GPC-like,UKF275_T_ST,0.3265259142289921,Nomura 2025
+Neopl-ECM (ours),Nomura GPC-like,UKF275_T_ST,0.12864133613232204,Nomura 2025
+Neopl-COP (ours),Nomura GPC-like,UKF275_T_ST,-0.034532614547532994,Nomura 2025
+Neopl-NC (ours),Nomura GPC-like,UKF275_T_ST,-0.2828891618509828,Nomura 2025
+Neopl-OPC (ours),Nomura GPC-like,UKF275_T_ST,-0.09506601230328723,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura GPC-like,UKF275_T_ST,0.21296999328121782,Nomura 2025
+Neopl-ACR (ours),Nomura NEU-like,UKF275_T_ST,-0.19790669427610114,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura NEU-like,UKF275_T_ST,-0.32047528696790983,Nomura 2025
+Neopl-ECM (ours),Nomura NEU-like,UKF275_T_ST,0.015592138605722044,Nomura 2025
+Neopl-COP (ours),Nomura NEU-like,UKF275_T_ST,0.021249537354535983,Nomura 2025
+Neopl-NC (ours),Nomura NEU-like,UKF275_T_ST,0.7825791140547883,Nomura 2025
+Neopl-OPC (ours),Nomura NEU-like,UKF275_T_ST,0.1333286945400978,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura NEU-like,UKF275_T_ST,-0.19654306539223482,Nomura 2025
+Neopl-ACR (ours),Nomura Stress,UKF275_T_ST,0.06060280770627367,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura Stress,UKF275_T_ST,0.15120960561487806,Nomura 2025
+Neopl-ECM (ours),Nomura Stress,UKF275_T_ST,0.042050780075845895,Nomura 2025
+Neopl-COP (ours),Nomura Stress,UKF275_T_ST,-0.04156895223775644,Nomura 2025
+Neopl-NC (ours),Nomura Stress,UKF275_T_ST,-0.2754669410094924,Nomura 2025
+Neopl-OPC (ours),Nomura Stress,UKF275_T_ST,-0.1070542409704441,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura Stress,UKF275_T_ST,0.1316450554202999,Nomura 2025
+Neopl-ACR (ours),Nomura Cilia-like,UKF275_T_ST,-0.062405029874933085,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura Cilia-like,UKF275_T_ST,-0.12501409093517624,Nomura 2025
+Neopl-ECM (ours),Nomura Cilia-like,UKF275_T_ST,-0.035681191784407575,Nomura 2025
+Neopl-COP (ours),Nomura Cilia-like,UKF275_T_ST,0.016660681187419445,Nomura 2025
+Neopl-NC (ours),Nomura Cilia-like,UKF275_T_ST,0.04373793398822282,Nomura 2025
+Neopl-OPC (ours),Nomura Cilia-like,UKF275_T_ST,0.07338891388079899,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura Cilia-like,UKF275_T_ST,-0.0894754600735764,Nomura 2025
+Neopl-ACR (ours),Nomura Cell cycle,UKF275_T_ST,0.019721166599808913,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura Cell cycle,UKF275_T_ST,0.08221301581592873,Nomura 2025
+Neopl-ECM (ours),Nomura Cell cycle,UKF275_T_ST,0.04290916991549446,Nomura 2025
+Neopl-COP (ours),Nomura Cell cycle,UKF275_T_ST,0.02615700858154103,Nomura 2025
+Neopl-NC (ours),Nomura Cell cycle,UKF275_T_ST,-0.23206964905967586,Nomura 2025
+Neopl-OPC (ours),Nomura Cell cycle,UKF275_T_ST,0.016508878980837895,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura Cell cycle,UKF275_T_ST,0.368147516787259,Nomura 2025
+Neopl-ACR (ours),Neftel AC,UKF296_T_ST,0.24324765738505422,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel AC,UKF296_T_ST,0.17862632202822246,Neftel 2019
+Neopl-ECM (ours),Neftel AC,UKF296_T_ST,0.025014060630344823,Neftel 2019
+Neopl-COP (ours),Neftel AC,UKF296_T_ST,0.06986115112528317,Neftel 2019
+Neopl-NC (ours),Neftel AC,UKF296_T_ST,-0.2304826971535111,Neftel 2019
+Neopl-OPC (ours),Neftel AC,UKF296_T_ST,-0.027710559627971504,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel AC,UKF296_T_ST,-0.14716418563699735,Neftel 2019
+Neopl-ACR (ours),Neftel MES1,UKF296_T_ST,0.33995530584976835,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel MES1,UKF296_T_ST,0.25557389238265155,Neftel 2019
+Neopl-ECM (ours),Neftel MES1,UKF296_T_ST,-0.052948597081441694,Neftel 2019
+Neopl-COP (ours),Neftel MES1,UKF296_T_ST,0.014641032185969653,Neftel 2019
+Neopl-NC (ours),Neftel MES1,UKF296_T_ST,-0.5215632248844261,Neftel 2019
+Neopl-OPC (ours),Neftel MES1,UKF296_T_ST,-0.12860111551828332,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel MES1,UKF296_T_ST,-0.272419276387065,Neftel 2019
+Neopl-ACR (ours),Neftel MES2,UKF296_T_ST,0.015822214414328725,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel MES2,UKF296_T_ST,-0.0170130889348707,Neftel 2019
+Neopl-ECM (ours),Neftel MES2,UKF296_T_ST,-0.0064568766577601175,Neftel 2019
+Neopl-COP (ours),Neftel MES2,UKF296_T_ST,-0.03184706251528923,Neftel 2019
+Neopl-NC (ours),Neftel MES2,UKF296_T_ST,0.030666879376958688,Neftel 2019
+Neopl-OPC (ours),Neftel MES2,UKF296_T_ST,0.020873167900885902,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel MES2,UKF296_T_ST,0.03884432892711397,Neftel 2019
+Neopl-ACR (ours),Neftel NPC1,UKF296_T_ST,-0.1505066308376727,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel NPC1,UKF296_T_ST,-0.13829017639321406,Neftel 2019
+Neopl-ECM (ours),Neftel NPC1,UKF296_T_ST,0.06631395937002958,Neftel 2019
+Neopl-COP (ours),Neftel NPC1,UKF296_T_ST,0.012225082143976987,Neftel 2019
+Neopl-NC (ours),Neftel NPC1,UKF296_T_ST,0.3868477977415851,Neftel 2019
+Neopl-OPC (ours),Neftel NPC1,UKF296_T_ST,0.14506974887354637,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel NPC1,UKF296_T_ST,0.25758674642879914,Neftel 2019
+Neopl-ACR (ours),Neftel NPC2,UKF296_T_ST,-0.2627294017409514,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel NPC2,UKF296_T_ST,-0.2540915863777818,Neftel 2019
+Neopl-ECM (ours),Neftel NPC2,UKF296_T_ST,0.08406045311474113,Neftel 2019
+Neopl-COP (ours),Neftel NPC2,UKF296_T_ST,-0.03561731522229115,Neftel 2019
+Neopl-NC (ours),Neftel NPC2,UKF296_T_ST,0.7249318347750597,Neftel 2019
+Neopl-OPC (ours),Neftel NPC2,UKF296_T_ST,0.14590759751998064,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel NPC2,UKF296_T_ST,0.37632705176185427,Neftel 2019
+Neopl-ACR (ours),Neftel OPC,UKF296_T_ST,0.023676426171702698,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel OPC,UKF296_T_ST,-0.011314714620085093,Neftel 2019
+Neopl-ECM (ours),Neftel OPC,UKF296_T_ST,0.08824980124437244,Neftel 2019
+Neopl-COP (ours),Neftel OPC,UKF296_T_ST,0.1716504957247653,Neftel 2019
+Neopl-NC (ours),Neftel OPC,UKF296_T_ST,0.08053950157561694,Neftel 2019
+Neopl-OPC (ours),Neftel OPC,UKF296_T_ST,0.02691898195038499,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel OPC,UKF296_T_ST,0.017670806031545194,Neftel 2019
+Neopl-ACR (ours),Richards Developmental,UKF296_T_ST,-0.13059976271868234,Richards 2021
+"Neopl-ACR (ours, refined)",Richards Developmental,UKF296_T_ST,-0.13719629053024263,Richards 2021
+Neopl-ECM (ours),Richards Developmental,UKF296_T_ST,0.11453706365142194,Richards 2021
+Neopl-COP (ours),Richards Developmental,UKF296_T_ST,0.018253180178037978,Richards 2021
+Neopl-NC (ours),Richards Developmental,UKF296_T_ST,0.4100223555368442,Richards 2021
+Neopl-OPC (ours),Richards Developmental,UKF296_T_ST,0.13722599236254646,Richards 2021
+Neopl-CC/Bulk (ours),Richards Developmental,UKF296_T_ST,0.2048728184851161,Richards 2021
+Neopl-ACR (ours),Richards Injury-Response,UKF296_T_ST,0.14220046744219564,Richards 2021
+"Neopl-ACR (ours, refined)",Richards Injury-Response,UKF296_T_ST,0.11976454161375356,Richards 2021
+Neopl-ECM (ours),Richards Injury-Response,UKF296_T_ST,0.03327714963223334,Richards 2021
+Neopl-COP (ours),Richards Injury-Response,UKF296_T_ST,-0.021320438781225873,Richards 2021
+Neopl-NC (ours),Richards Injury-Response,UKF296_T_ST,-0.14311591969562373,Richards 2021
+Neopl-OPC (ours),Richards Injury-Response,UKF296_T_ST,-0.049845020646605696,Richards 2021
+Neopl-CC/Bulk (ours),Richards Injury-Response,UKF296_T_ST,-0.09420544310634626,Richards 2021
+Neopl-ACR (ours),Nomura OPC-like,UKF296_T_ST,-0.11749994904897268,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura OPC-like,UKF296_T_ST,-0.12313289905116727,Nomura 2025
+Neopl-ECM (ours),Nomura OPC-like,UKF296_T_ST,0.1212366975073046,Nomura 2025
+Neopl-COP (ours),Nomura OPC-like,UKF296_T_ST,0.015025295824298561,Nomura 2025
+Neopl-NC (ours),Nomura OPC-like,UKF296_T_ST,0.3188210537658946,Nomura 2025
+Neopl-OPC (ours),Nomura OPC-like,UKF296_T_ST,0.21967090198241718,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura OPC-like,UKF296_T_ST,0.18748666313298978,Nomura 2025
+Neopl-ACR (ours),Nomura AC-like,UKF296_T_ST,0.27429823092368766,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura AC-like,UKF296_T_ST,0.19315504190258403,Nomura 2025
+Neopl-ECM (ours),Nomura AC-like,UKF296_T_ST,-0.017593694510190737,Nomura 2025
+Neopl-COP (ours),Nomura AC-like,UKF296_T_ST,0.055936297488300944,Nomura 2025
+Neopl-NC (ours),Nomura AC-like,UKF296_T_ST,-0.25574396100253705,Nomura 2025
+Neopl-OPC (ours),Nomura AC-like,UKF296_T_ST,0.007596534876986946,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura AC-like,UKF296_T_ST,-0.14967690987953156,Nomura 2025
+Neopl-ACR (ours),Nomura Hypoxia,UKF296_T_ST,-0.05326610281080692,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura Hypoxia,UKF296_T_ST,-0.0597470347871609,Nomura 2025
+Neopl-ECM (ours),Nomura Hypoxia,UKF296_T_ST,0.008934460950567399,Nomura 2025
+Neopl-COP (ours),Nomura Hypoxia,UKF296_T_ST,-0.01399709698377867,Nomura 2025
+Neopl-NC (ours),Nomura Hypoxia,UKF296_T_ST,0.06379223842202386,Nomura 2025
+Neopl-OPC (ours),Nomura Hypoxia,UKF296_T_ST,0.012343414404252044,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura Hypoxia,UKF296_T_ST,0.0469990749372744,Nomura 2025
+Neopl-ACR (ours),Nomura MES-like,UKF296_T_ST,0.11241925083870587,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura MES-like,UKF296_T_ST,0.04686415116233063,Nomura 2025
+Neopl-ECM (ours),Nomura MES-like,UKF296_T_ST,0.03916611493905122,Nomura 2025
+Neopl-COP (ours),Nomura MES-like,UKF296_T_ST,-0.018588827573422746,Nomura 2025
+Neopl-NC (ours),Nomura MES-like,UKF296_T_ST,0.029421711096735595,Nomura 2025
+Neopl-OPC (ours),Nomura MES-like,UKF296_T_ST,0.02131629766261722,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura MES-like,UKF296_T_ST,0.1551957006755086,Nomura 2025
+Neopl-ACR (ours),Nomura NPC-like,UKF296_T_ST,-0.1549818236129212,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura NPC-like,UKF296_T_ST,-0.1380678266462434,Nomura 2025
+Neopl-ECM (ours),Nomura NPC-like,UKF296_T_ST,0.026295767493092596,Nomura 2025
+Neopl-COP (ours),Nomura NPC-like,UKF296_T_ST,-0.054877735728374816,Nomura 2025
+Neopl-NC (ours),Nomura NPC-like,UKF296_T_ST,0.38045784449766973,Nomura 2025
+Neopl-OPC (ours),Nomura NPC-like,UKF296_T_ST,0.11478479485398421,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura NPC-like,UKF296_T_ST,0.2091766069461573,Nomura 2025
+Neopl-ACR (ours),Nomura GPC-like,UKF296_T_ST,-0.013612227271237409,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura GPC-like,UKF296_T_ST,-0.03142162429292206,Nomura 2025
+Neopl-ECM (ours),Nomura GPC-like,UKF296_T_ST,0.018582460064505545,Nomura 2025
+Neopl-COP (ours),Nomura GPC-like,UKF296_T_ST,0.02530787958085837,Nomura 2025
+Neopl-NC (ours),Nomura GPC-like,UKF296_T_ST,0.10132639061647557,Nomura 2025
+Neopl-OPC (ours),Nomura GPC-like,UKF296_T_ST,0.06137513893697692,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura GPC-like,UKF296_T_ST,0.04382481742847704,Nomura 2025
+Neopl-ACR (ours),Nomura NEU-like,UKF296_T_ST,-0.27069906970335733,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura NEU-like,UKF296_T_ST,-0.2854306022893488,Nomura 2025
+Neopl-ECM (ours),Nomura NEU-like,UKF296_T_ST,0.12385131424710373,Nomura 2025
+Neopl-COP (ours),Nomura NEU-like,UKF296_T_ST,-0.042427621026615625,Nomura 2025
+Neopl-NC (ours),Nomura NEU-like,UKF296_T_ST,0.8085722663391539,Nomura 2025
+Neopl-OPC (ours),Nomura NEU-like,UKF296_T_ST,0.1897511489354671,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura NEU-like,UKF296_T_ST,0.4256269354615744,Nomura 2025
+Neopl-ACR (ours),Nomura Stress,UKF296_T_ST,-0.086506697076922,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura Stress,UKF296_T_ST,-0.07794717461361002,Nomura 2025
+Neopl-ECM (ours),Nomura Stress,UKF296_T_ST,0.05030220363758329,Nomura 2025
+Neopl-COP (ours),Nomura Stress,UKF296_T_ST,-0.015026036633470432,Nomura 2025
+Neopl-NC (ours),Nomura Stress,UKF296_T_ST,0.1516218330300091,Nomura 2025
+Neopl-OPC (ours),Nomura Stress,UKF296_T_ST,0.04956476563696467,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura Stress,UKF296_T_ST,0.05543362652973684,Nomura 2025
+Neopl-ACR (ours),Nomura Cilia-like,UKF296_T_ST,0.131172677911564,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura Cilia-like,UKF296_T_ST,0.15026261417071576,Nomura 2025
+Neopl-ECM (ours),Nomura Cilia-like,UKF296_T_ST,-0.08297402592737459,Nomura 2025
+Neopl-COP (ours),Nomura Cilia-like,UKF296_T_ST,-0.02170637844785741,Nomura 2025
+Neopl-NC (ours),Nomura Cilia-like,UKF296_T_ST,-0.3753402648067374,Nomura 2025
+Neopl-OPC (ours),Nomura Cilia-like,UKF296_T_ST,-0.04628428732860433,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura Cilia-like,UKF296_T_ST,-0.23022373772684857,Nomura 2025
+Neopl-ACR (ours),Nomura Cell cycle,UKF296_T_ST,0.02020766193824639,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura Cell cycle,UKF296_T_ST,0.0139861329871696,Nomura 2025
+Neopl-ECM (ours),Nomura Cell cycle,UKF296_T_ST,-0.00802079906507542,Nomura 2025
+Neopl-COP (ours),Nomura Cell cycle,UKF296_T_ST,0.0234715545601453,Nomura 2025
+Neopl-NC (ours),Nomura Cell cycle,UKF296_T_ST,-0.0868600178446302,Nomura 2025
+Neopl-OPC (ours),Nomura Cell cycle,UKF296_T_ST,-0.03521510748098201,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura Cell cycle,UKF296_T_ST,0.023069534812167808,Nomura 2025
+Neopl-ACR (ours),Neftel AC,UKF304_T_ST,0.2637831801322457,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel AC,UKF304_T_ST,0.19258776368675787,Neftel 2019
+Neopl-ECM (ours),Neftel AC,UKF304_T_ST,0.06286472995382322,Neftel 2019
+Neopl-COP (ours),Neftel AC,UKF304_T_ST,0.1651307050392352,Neftel 2019
+Neopl-NC (ours),Neftel AC,UKF304_T_ST,-0.04252673005939038,Neftel 2019
+Neopl-OPC (ours),Neftel AC,UKF304_T_ST,0.004067204038245916,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel AC,UKF304_T_ST,-0.08964925439490382,Neftel 2019
+Neopl-ACR (ours),Neftel MES1,UKF304_T_ST,0.587280255951242,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel MES1,UKF304_T_ST,0.4406281212405691,Neftel 2019
+Neopl-ECM (ours),Neftel MES1,UKF304_T_ST,0.13005929709342182,Neftel 2019
+Neopl-COP (ours),Neftel MES1,UKF304_T_ST,0.40649537045375017,Neftel 2019
+Neopl-NC (ours),Neftel MES1,UKF304_T_ST,-0.7956423903108781,Neftel 2019
+Neopl-OPC (ours),Neftel MES1,UKF304_T_ST,-0.393091418215709,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel MES1,UKF304_T_ST,-0.5435483356554712,Neftel 2019
+Neopl-ACR (ours),Neftel MES2,UKF304_T_ST,0.32351904921234914,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel MES2,UKF304_T_ST,0.22251391842145551,Neftel 2019
+Neopl-ECM (ours),Neftel MES2,UKF304_T_ST,0.1091579302650696,Neftel 2019
+Neopl-COP (ours),Neftel MES2,UKF304_T_ST,0.21144421854589998,Neftel 2019
+Neopl-NC (ours),Neftel MES2,UKF304_T_ST,-0.4481973497156465,Neftel 2019
+Neopl-OPC (ours),Neftel MES2,UKF304_T_ST,-0.20122446167174599,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel MES2,UKF304_T_ST,-0.27622304443597145,Neftel 2019
+Neopl-ACR (ours),Neftel NPC1,UKF304_T_ST,-0.29982370675676945,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel NPC1,UKF304_T_ST,-0.2666006979492602,Neftel 2019
+Neopl-ECM (ours),Neftel NPC1,UKF304_T_ST,0.06580956690848282,Neftel 2019
+Neopl-COP (ours),Neftel NPC1,UKF304_T_ST,-0.15117513754139078,Neftel 2019
+Neopl-NC (ours),Neftel NPC1,UKF304_T_ST,0.506705913730075,Neftel 2019
+Neopl-OPC (ours),Neftel NPC1,UKF304_T_ST,0.3047324762085774,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel NPC1,UKF304_T_ST,0.34900404367406035,Neftel 2019
+Neopl-ACR (ours),Neftel NPC2,UKF304_T_ST,-0.4330680683729646,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel NPC2,UKF304_T_ST,-0.3662307290249587,Neftel 2019
+Neopl-ECM (ours),Neftel NPC2,UKF304_T_ST,-0.04078626584924761,Neftel 2019
+Neopl-COP (ours),Neftel NPC2,UKF304_T_ST,-0.40634907447365143,Neftel 2019
+Neopl-NC (ours),Neftel NPC2,UKF304_T_ST,0.8760270263550812,Neftel 2019
+Neopl-OPC (ours),Neftel NPC2,UKF304_T_ST,0.4064352185375811,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel NPC2,UKF304_T_ST,0.603107579610346,Neftel 2019
+Neopl-ACR (ours),Neftel OPC,UKF304_T_ST,0.20476866902446134,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel OPC,UKF304_T_ST,0.11495196156605379,Neftel 2019
+Neopl-ECM (ours),Neftel OPC,UKF304_T_ST,0.2397682070253366,Neftel 2019
+Neopl-COP (ours),Neftel OPC,UKF304_T_ST,0.5301917450371296,Neftel 2019
+Neopl-NC (ours),Neftel OPC,UKF304_T_ST,-0.3260529536906476,Neftel 2019
+Neopl-OPC (ours),Neftel OPC,UKF304_T_ST,-0.13560684183347513,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel OPC,UKF304_T_ST,-0.32608416493904635,Neftel 2019
+Neopl-ACR (ours),Richards Developmental,UKF304_T_ST,-0.3173251698367319,Richards 2021
+"Neopl-ACR (ours, refined)",Richards Developmental,UKF304_T_ST,-0.3258925877891374,Richards 2021
+Neopl-ECM (ours),Richards Developmental,UKF304_T_ST,0.1636643818994329,Richards 2021
+Neopl-COP (ours),Richards Developmental,UKF304_T_ST,-0.09313529105591466,Richards 2021
+Neopl-NC (ours),Richards Developmental,UKF304_T_ST,0.6347956345707549,Richards 2021
+Neopl-OPC (ours),Richards Developmental,UKF304_T_ST,0.32064309303495364,Richards 2021
+Neopl-CC/Bulk (ours),Richards Developmental,UKF304_T_ST,0.3760471358669847,Richards 2021
+Neopl-ACR (ours),Richards Injury-Response,UKF304_T_ST,0.2715492921658645,Richards 2021
+"Neopl-ACR (ours, refined)",Richards Injury-Response,UKF304_T_ST,0.1334428163350028,Richards 2021
+Neopl-ECM (ours),Richards Injury-Response,UKF304_T_ST,0.2996626797702725,Richards 2021
+Neopl-COP (ours),Richards Injury-Response,UKF304_T_ST,0.32340238189519527,Richards 2021
+Neopl-NC (ours),Richards Injury-Response,UKF304_T_ST,-0.40216325098828015,Richards 2021
+Neopl-OPC (ours),Richards Injury-Response,UKF304_T_ST,-0.18652609190825928,Richards 2021
+Neopl-CC/Bulk (ours),Richards Injury-Response,UKF304_T_ST,-0.2907716146221759,Richards 2021
+Neopl-ACR (ours),Nomura OPC-like,UKF304_T_ST,-0.34065129632726293,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura OPC-like,UKF304_T_ST,-0.25770355854113725,Nomura 2025
+Neopl-ECM (ours),Nomura OPC-like,UKF304_T_ST,-0.05936279928112184,Nomura 2025
+Neopl-COP (ours),Nomura OPC-like,UKF304_T_ST,-0.2932477072577883,Nomura 2025
+Neopl-NC (ours),Nomura OPC-like,UKF304_T_ST,0.5899127255220419,Nomura 2025
+Neopl-OPC (ours),Nomura OPC-like,UKF304_T_ST,0.4301576479528699,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura OPC-like,UKF304_T_ST,0.40535165284771724,Nomura 2025
+Neopl-ACR (ours),Nomura AC-like,UKF304_T_ST,0.2596413365272264,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura AC-like,UKF304_T_ST,0.178225350383927,Nomura 2025
+Neopl-ECM (ours),Nomura AC-like,UKF304_T_ST,-0.06608457826293264,Nomura 2025
+Neopl-COP (ours),Nomura AC-like,UKF304_T_ST,0.0041261524888997585,Nomura 2025
+Neopl-NC (ours),Nomura AC-like,UKF304_T_ST,0.025435576980056638,Nomura 2025
+Neopl-OPC (ours),Nomura AC-like,UKF304_T_ST,0.0029678307363239487,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura AC-like,UKF304_T_ST,0.025305616260268848,Nomura 2025
+Neopl-ACR (ours),Nomura Hypoxia,UKF304_T_ST,-0.038135192133489565,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura Hypoxia,UKF304_T_ST,-0.04892057858211612,Nomura 2025
+Neopl-ECM (ours),Nomura Hypoxia,UKF304_T_ST,0.009309822302002389,Nomura 2025
+Neopl-COP (ours),Nomura Hypoxia,UKF304_T_ST,-0.08785237812452885,Nomura 2025
+Neopl-NC (ours),Nomura Hypoxia,UKF304_T_ST,0.10315710385840787,Nomura 2025
+Neopl-OPC (ours),Nomura Hypoxia,UKF304_T_ST,0.0765211632153389,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura Hypoxia,UKF304_T_ST,0.12040341689347495,Nomura 2025
+Neopl-ACR (ours),Nomura MES-like,UKF304_T_ST,0.3621709793317956,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura MES-like,UKF304_T_ST,0.27498914624916915,Nomura 2025
+Neopl-ECM (ours),Nomura MES-like,UKF304_T_ST,0.05958693900332957,Nomura 2025
+Neopl-COP (ours),Nomura MES-like,UKF304_T_ST,0.12760685656577958,Nomura 2025
+Neopl-NC (ours),Nomura MES-like,UKF304_T_ST,-0.4316860453881206,Nomura 2025
+Neopl-OPC (ours),Nomura MES-like,UKF304_T_ST,-0.21880821250297577,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura MES-like,UKF304_T_ST,-0.1782937238275203,Nomura 2025
+Neopl-ACR (ours),Nomura NPC-like,UKF304_T_ST,-0.38754299783501356,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura NPC-like,UKF304_T_ST,-0.3126672121311854,Nomura 2025
+Neopl-ECM (ours),Nomura NPC-like,UKF304_T_ST,-0.10933585964531516,Nomura 2025
+Neopl-COP (ours),Nomura NPC-like,UKF304_T_ST,-0.3817390735030048,Nomura 2025
+Neopl-NC (ours),Nomura NPC-like,UKF304_T_ST,0.7110434307211355,Nomura 2025
+Neopl-OPC (ours),Nomura NPC-like,UKF304_T_ST,0.38022933771772044,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura NPC-like,UKF304_T_ST,0.51782358683699925,Nomura 2025
+Neopl-ACR (ours),Nomura GPC-like,UKF304_T_ST,-0.2512599832687506,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura GPC-like,UKF304_T_ST,-0.16095837982192876,Nomura 2025
+Neopl-ECM (ours),Nomura GPC-like,UKF304_T_ST,-0.15425250548905206,Nomura 2025
+Neopl-COP (ours),Nomura GPC-like,UKF304_T_ST,-0.31732630447604154,Nomura 2025
+Neopl-NC (ours),Nomura GPC-like,UKF304_T_ST,0.552058971213981,Nomura 2025
+Neopl-OPC (ours),Nomura GPC-like,UKF304_T_ST,0.310998160131635,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura GPC-like,UKF304_T_ST,0.3861413886918747,Nomura 2025
+Neopl-ACR (ours),Nomura NEU-like,UKF304_T_ST,-0.3806046518252867,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura NEU-like,UKF304_T_ST,-0.3590623729516689,Nomura 2025
+Neopl-ECM (ours),Nomura NEU-like,UKF304_T_ST,0.01526960076780601,Nomura 2025
+Neopl-COP (ours),Nomura NEU-like,UKF304_T_ST,-0.31059697541515785,Nomura 2025
+Neopl-NC (ours),Nomura NEU-like,UKF304_T_ST,0.8377389214820465,Nomura 2025
+Neopl-OPC (ours),Nomura NEU-like,UKF304_T_ST,0.4137780212701918,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura NEU-like,UKF304_T_ST,0.5532016404605684,Nomura 2025
+Neopl-ACR (ours),Nomura Stress,UKF304_T_ST,-0.1049033594566936,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura Stress,UKF304_T_ST,-0.1521292659801385,Nomura 2025
+Neopl-ECM (ours),Nomura Stress,UKF304_T_ST,0.14407743482755708,Nomura 2025
+Neopl-COP (ours),Nomura Stress,UKF304_T_ST,-0.032079438546997734,Nomura 2025
+Neopl-NC (ours),Nomura Stress,UKF304_T_ST,0.22621061308343243,Nomura 2025
+Neopl-OPC (ours),Nomura Stress,UKF304_T_ST,0.14468168861054415,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura Stress,UKF304_T_ST,0.1700641041504459,Nomura 2025
+Neopl-ACR (ours),Nomura Cilia-like,UKF304_T_ST,-0.03451828595112214,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura Cilia-like,UKF304_T_ST,-0.041068884517922725,Nomura 2025
+Neopl-ECM (ours),Nomura Cilia-like,UKF304_T_ST,-0.025836543806841424,Nomura 2025
+Neopl-COP (ours),Nomura Cilia-like,UKF304_T_ST,-0.018663838263790224,Nomura 2025
+Neopl-NC (ours),Nomura Cilia-like,UKF304_T_ST,0.10390147893518167,Nomura 2025
+Neopl-OPC (ours),Nomura Cilia-like,UKF304_T_ST,0.04430579114612338,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura Cilia-like,UKF304_T_ST,0.06264407133765708,Nomura 2025
+Neopl-ACR (ours),Nomura Cell cycle,UKF304_T_ST,0.06219177892502367,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura Cell cycle,UKF304_T_ST,0.046333512706413144,Nomura 2025
+Neopl-ECM (ours),Nomura Cell cycle,UKF304_T_ST,0.011334987607504917,Nomura 2025
+Neopl-COP (ours),Nomura Cell cycle,UKF304_T_ST,0.11103031599355714,Nomura 2025
+Neopl-NC (ours),Nomura Cell cycle,UKF304_T_ST,-0.17816845807184814,Nomura 2025
+Neopl-OPC (ours),Nomura Cell cycle,UKF304_T_ST,-0.1053172526636223,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura Cell cycle,UKF304_T_ST,-0.12915282232376304,Nomura 2025
+Neopl-ACR (ours),Neftel AC,UKF313_T_ST,0.04158490889123355,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel AC,UKF313_T_ST,0.017975531265272418,Neftel 2019
+Neopl-ECM (ours),Neftel AC,UKF313_T_ST,-0.04182270635148658,Neftel 2019
+Neopl-COP (ours),Neftel AC,UKF313_T_ST,0.008746798314268703,Neftel 2019
+Neopl-NC (ours),Neftel AC,UKF313_T_ST,-0.023499366188729477,Neftel 2019
+Neopl-OPC (ours),Neftel AC,UKF313_T_ST,-0.004277178487943888,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel AC,UKF313_T_ST,-0.08957999897561318,Neftel 2019
+Neopl-ACR (ours),Neftel MES1,UKF313_T_ST,0.36433113672054096,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel MES1,UKF313_T_ST,0.3007266683856885,Neftel 2019
+Neopl-ECM (ours),Neftel MES1,UKF313_T_ST,0.1259547463718598,Neftel 2019
+Neopl-COP (ours),Neftel MES1,UKF313_T_ST,-0.03188464974540952,Neftel 2019
+Neopl-NC (ours),Neftel MES1,UKF313_T_ST,0.13700965437590604,Neftel 2019
+Neopl-OPC (ours),Neftel MES1,UKF313_T_ST,-0.09957702741971539,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel MES1,UKF313_T_ST,0.005911493130917989,Neftel 2019
+Neopl-ACR (ours),Neftel MES2,UKF313_T_ST,0.4726556177150627,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel MES2,UKF313_T_ST,0.4081485230497064,Neftel 2019
+Neopl-ECM (ours),Neftel MES2,UKF313_T_ST,0.04310855751820791,Neftel 2019
+Neopl-COP (ours),Neftel MES2,UKF313_T_ST,-0.0277253209475991,Neftel 2019
+Neopl-NC (ours),Neftel MES2,UKF313_T_ST,0.290639198009674,Neftel 2019
+Neopl-OPC (ours),Neftel MES2,UKF313_T_ST,-0.09732772981762786,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel MES2,UKF313_T_ST,0.03407170978758597,Neftel 2019
+Neopl-ACR (ours),Neftel NPC1,UKF313_T_ST,-0.21874373928026927,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel NPC1,UKF313_T_ST,-0.17777671357620123,Neftel 2019
+Neopl-ECM (ours),Neftel NPC1,UKF313_T_ST,0.12355742211199924,Neftel 2019
+Neopl-COP (ours),Neftel NPC1,UKF313_T_ST,-0.012507513743799638,Neftel 2019
+Neopl-NC (ours),Neftel NPC1,UKF313_T_ST,-0.016661582863516017,Neftel 2019
+Neopl-OPC (ours),Neftel NPC1,UKF313_T_ST,0.07393876455842693,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel NPC1,UKF313_T_ST,0.023515930920968067,Neftel 2019
+Neopl-ACR (ours),Neftel NPC2,UKF313_T_ST,0.018203723271727635,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel NPC2,UKF313_T_ST,0.021465745256693154,Neftel 2019
+Neopl-ECM (ours),Neftel NPC2,UKF313_T_ST,0.0992601431623955,Neftel 2019
+Neopl-COP (ours),Neftel NPC2,UKF313_T_ST,-8.897910153901434e-4,Neftel 2019
+Neopl-NC (ours),Neftel NPC2,UKF313_T_ST,0.21632494439546457,Neftel 2019
+Neopl-OPC (ours),Neftel NPC2,UKF313_T_ST,0.042922302688014495,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel NPC2,UKF313_T_ST,0.05507915253354651,Neftel 2019
+Neopl-ACR (ours),Neftel OPC,UKF313_T_ST,-0.10513657178034995,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel OPC,UKF313_T_ST,-0.07957039588856035,Neftel 2019
+Neopl-ECM (ours),Neftel OPC,UKF313_T_ST,0.07778389016486265,Neftel 2019
+Neopl-COP (ours),Neftel OPC,UKF313_T_ST,0.17411329952289037,Neftel 2019
+Neopl-NC (ours),Neftel OPC,UKF313_T_ST,0.13905357975145713,Neftel 2019
+Neopl-OPC (ours),Neftel OPC,UKF313_T_ST,0.027282278676068167,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel OPC,UKF313_T_ST,-0.0022734113681003045,Neftel 2019
+Neopl-ACR (ours),Richards Developmental,UKF313_T_ST,-0.26129190151578696,Richards 2021
+"Neopl-ACR (ours, refined)",Richards Developmental,UKF313_T_ST,-0.2222029240864965,Richards 2021
+Neopl-ECM (ours),Richards Developmental,UKF313_T_ST,-0.06868464201679411,Richards 2021
+Neopl-COP (ours),Richards Developmental,UKF313_T_ST,0.06272184629667682,Richards 2021
+Neopl-NC (ours),Richards Developmental,UKF313_T_ST,-0.12138637163661616,Richards 2021
+Neopl-OPC (ours),Richards Developmental,UKF313_T_ST,0.12232394993556713,Richards 2021
+Neopl-CC/Bulk (ours),Richards Developmental,UKF313_T_ST,-0.11365447812514963,Richards 2021
+Neopl-ACR (ours),Richards Injury-Response,UKF313_T_ST,-0.07519958505234026,Richards 2021
+"Neopl-ACR (ours, refined)",Richards Injury-Response,UKF313_T_ST,-0.047631665083557935,Richards 2021
+Neopl-ECM (ours),Richards Injury-Response,UKF313_T_ST,0.3289706680903827,Richards 2021
+Neopl-COP (ours),Richards Injury-Response,UKF313_T_ST,-0.01645711859358543,Richards 2021
+Neopl-NC (ours),Richards Injury-Response,UKF313_T_ST,0.009829082786151319,Richards 2021
+Neopl-OPC (ours),Richards Injury-Response,UKF313_T_ST,0.04198603078815566,Richards 2021
+Neopl-CC/Bulk (ours),Richards Injury-Response,UKF313_T_ST,-0.011512491388420481,Richards 2021
+Neopl-ACR (ours),Nomura OPC-like,UKF313_T_ST,-0.04326759534643828,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura OPC-like,UKF313_T_ST,-0.032870888015861806,Nomura 2025
+Neopl-ECM (ours),Nomura OPC-like,UKF313_T_ST,0.005841371178097458,Nomura 2025
+Neopl-COP (ours),Nomura OPC-like,UKF313_T_ST,0.10723156600909421,Nomura 2025
+Neopl-NC (ours),Nomura OPC-like,UKF313_T_ST,0.029190643687287163,Nomura 2025
+Neopl-OPC (ours),Nomura OPC-like,UKF313_T_ST,0.17039430075365172,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura OPC-like,UKF313_T_ST,-0.01417225893527928,Nomura 2025
+Neopl-ACR (ours),Nomura AC-like,UKF313_T_ST,0.501882943133707,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura AC-like,UKF313_T_ST,0.3884522462630102,Nomura 2025
+Neopl-ECM (ours),Nomura AC-like,UKF313_T_ST,0.0959189943829247,Nomura 2025
+Neopl-COP (ours),Nomura AC-like,UKF313_T_ST,0.005827821529255126,Nomura 2025
+Neopl-NC (ours),Nomura AC-like,UKF313_T_ST,0.1584469506959504,Nomura 2025
+Neopl-OPC (ours),Nomura AC-like,UKF313_T_ST,-0.05785491545338984,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura AC-like,UKF313_T_ST,0.16108063940439094,Nomura 2025
+Neopl-ACR (ours),Nomura Hypoxia,UKF313_T_ST,0.461719420177338,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura Hypoxia,UKF313_T_ST,0.39722364478705474,Nomura 2025
+Neopl-ECM (ours),Nomura Hypoxia,UKF313_T_ST,0.013103272819417595,Nomura 2025
+Neopl-COP (ours),Nomura Hypoxia,UKF313_T_ST,-0.02912325707518194,Nomura 2025
+Neopl-NC (ours),Nomura Hypoxia,UKF313_T_ST,0.23546878152789463,Nomura 2025
+Neopl-OPC (ours),Nomura Hypoxia,UKF313_T_ST,-0.09281373422043886,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura Hypoxia,UKF313_T_ST,-0.007212224723953803,Nomura 2025
+Neopl-ACR (ours),Nomura MES-like,UKF313_T_ST,0.3499057066457811,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura MES-like,UKF313_T_ST,0.2973146761432871,Nomura 2025
+Neopl-ECM (ours),Nomura MES-like,UKF313_T_ST,0.08867680054381774,Nomura 2025
+Neopl-COP (ours),Nomura MES-like,UKF313_T_ST,-0.009626592038877755,Nomura 2025
+Neopl-NC (ours),Nomura MES-like,UKF313_T_ST,0.1421494860302406,Nomura 2025
+Neopl-OPC (ours),Nomura MES-like,UKF313_T_ST,-0.03667567074472586,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura MES-like,UKF313_T_ST,0.1457400602149243,Nomura 2025
+Neopl-ACR (ours),Nomura NPC-like,UKF313_T_ST,-0.032610978657386984,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura NPC-like,UKF313_T_ST,-0.018781739913822572,Nomura 2025
+Neopl-ECM (ours),Nomura NPC-like,UKF313_T_ST,-0.03225055746409126,Nomura 2025
+Neopl-COP (ours),Nomura NPC-like,UKF313_T_ST,0.02366174367930298,Nomura 2025
+Neopl-NC (ours),Nomura NPC-like,UKF313_T_ST,0.025968948035015458,Nomura 2025
+Neopl-OPC (ours),Nomura NPC-like,UKF313_T_ST,0.03386939337468753,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura NPC-like,UKF313_T_ST,0.024329932037508405,Nomura 2025
+Neopl-ACR (ours),Nomura GPC-like,UKF313_T_ST,-0.07777966021431089,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura GPC-like,UKF313_T_ST,-0.07005694417180204,Nomura 2025
+Neopl-ECM (ours),Nomura GPC-like,UKF313_T_ST,-0.023351873188992404,Nomura 2025
+Neopl-COP (ours),Nomura GPC-like,UKF313_T_ST,0.0805779527334761,Nomura 2025
+Neopl-NC (ours),Nomura GPC-like,UKF313_T_ST,-0.019095807824895963,Nomura 2025
+Neopl-OPC (ours),Nomura GPC-like,UKF313_T_ST,0.14274803040649878,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura GPC-like,UKF313_T_ST,0.030951203616121463,Nomura 2025
+Neopl-ACR (ours),Nomura NEU-like,UKF313_T_ST,-0.06010516085684573,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura NEU-like,UKF313_T_ST,-0.0520512647951635,Nomura 2025
+Neopl-ECM (ours),Nomura NEU-like,UKF313_T_ST,0.20249661980406605,Nomura 2025
+Neopl-COP (ours),Nomura NEU-like,UKF313_T_ST,-0.027976247774121946,Nomura 2025
+Neopl-NC (ours),Nomura NEU-like,UKF313_T_ST,0.07907149156432039,Nomura 2025
+Neopl-OPC (ours),Nomura NEU-like,UKF313_T_ST,0.04652516905098026,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura NEU-like,UKF313_T_ST,-0.033368302146678686,Nomura 2025
+Neopl-ACR (ours),Nomura Stress,UKF313_T_ST,0.2612012099446901,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura Stress,UKF313_T_ST,0.21580850436668778,Nomura 2025
+Neopl-ECM (ours),Nomura Stress,UKF313_T_ST,0.14467215536600125,Nomura 2025
+Neopl-COP (ours),Nomura Stress,UKF313_T_ST,-0.05096878437368439,Nomura 2025
+Neopl-NC (ours),Nomura Stress,UKF313_T_ST,0.11187930464121187,Nomura 2025
+Neopl-OPC (ours),Nomura Stress,UKF313_T_ST,-0.06542662639593631,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura Stress,UKF313_T_ST,-0.007356199227448208,Nomura 2025
+Neopl-ACR (ours),Nomura Cilia-like,UKF313_T_ST,0.07663690625741926,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura Cilia-like,UKF313_T_ST,0.055775060760161456,Nomura 2025
+Neopl-ECM (ours),Nomura Cilia-like,UKF313_T_ST,-0.088496929768057,Nomura 2025
+Neopl-COP (ours),Nomura Cilia-like,UKF313_T_ST,-0.014844550589490121,Nomura 2025
+Neopl-NC (ours),Nomura Cilia-like,UKF313_T_ST,0.058237403886814934,Nomura 2025
+Neopl-OPC (ours),Nomura Cilia-like,UKF313_T_ST,-0.026144123094956496,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura Cilia-like,UKF313_T_ST,0.07642468797200844,Nomura 2025
+Neopl-ACR (ours),Nomura Cell cycle,UKF313_T_ST,-0.13006532216150626,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura Cell cycle,UKF313_T_ST,-0.12109202730644436,Nomura 2025
+Neopl-ECM (ours),Nomura Cell cycle,UKF313_T_ST,0.013114333519303033,Nomura 2025
+Neopl-COP (ours),Nomura Cell cycle,UKF313_T_ST,0.04145677674317616,Nomura 2025
+Neopl-NC (ours),Nomura Cell cycle,UKF313_T_ST,-0.05867693659287447,Nomura 2025
+Neopl-OPC (ours),Nomura Cell cycle,UKF313_T_ST,0.05054091694513963,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura Cell cycle,UKF313_T_ST,0.3313573184547643,Nomura 2025
+Neopl-ACR (ours),Neftel AC,UKF334_T_ST,0.5325442828248714,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel AC,UKF334_T_ST,0.3942332048203256,Neftel 2019
+Neopl-ECM (ours),Neftel AC,UKF334_T_ST,0.2846412021172167,Neftel 2019
+Neopl-COP (ours),Neftel AC,UKF334_T_ST,0.24630522707953656,Neftel 2019
+Neopl-NC (ours),Neftel AC,UKF334_T_ST,-0.41725720209345046,Neftel 2019
+Neopl-OPC (ours),Neftel AC,UKF334_T_ST,0.13817081670452797,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel AC,UKF334_T_ST,0.015239267029337266,Neftel 2019
+Neopl-ACR (ours),Neftel MES1,UKF334_T_ST,0.39885867416789433,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel MES1,UKF334_T_ST,0.2883145627764317,Neftel 2019
+Neopl-ECM (ours),Neftel MES1,UKF334_T_ST,-0.1627654348879956,Neftel 2019
+Neopl-COP (ours),Neftel MES1,UKF334_T_ST,-0.24015836733105891,Neftel 2019
+Neopl-NC (ours),Neftel MES1,UKF334_T_ST,-0.48100884715566533,Neftel 2019
+Neopl-OPC (ours),Neftel MES1,UKF334_T_ST,-0.17489590340734334,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel MES1,UKF334_T_ST,0.05999506413556736,Neftel 2019
+Neopl-ACR (ours),Neftel MES2,UKF334_T_ST,-0.050320552146297,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel MES2,UKF334_T_ST,-0.03255818494666764,Neftel 2019
+Neopl-ECM (ours),Neftel MES2,UKF334_T_ST,-0.3126564745800098,Neftel 2019
+Neopl-COP (ours),Neftel MES2,UKF334_T_ST,-0.3017749577937578,Neftel 2019
+Neopl-NC (ours),Neftel MES2,UKF334_T_ST,-0.17288843193615544,Neftel 2019
+Neopl-OPC (ours),Neftel MES2,UKF334_T_ST,-0.08692661257400838,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel MES2,UKF334_T_ST,-0.22817345093823505,Neftel 2019
+Neopl-ACR (ours),Neftel NPC1,UKF334_T_ST,0.17312094612441709,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel NPC1,UKF334_T_ST,0.117365751663609,Neftel 2019
+Neopl-ECM (ours),Neftel NPC1,UKF334_T_ST,0.3183745585696949,Neftel 2019
+Neopl-COP (ours),Neftel NPC1,UKF334_T_ST,0.29259738320113254,Neftel 2019
+Neopl-NC (ours),Neftel NPC1,UKF334_T_ST,-0.08598036946934254,Neftel 2019
+Neopl-OPC (ours),Neftel NPC1,UKF334_T_ST,0.1932380616613171,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel NPC1,UKF334_T_ST,0.07036628749061448,Neftel 2019
+Neopl-ACR (ours),Neftel NPC2,UKF334_T_ST,-0.26727024385689674,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel NPC2,UKF334_T_ST,-0.2818254007212314,Neftel 2019
+Neopl-ECM (ours),Neftel NPC2,UKF334_T_ST,0.1689360373689116,Neftel 2019
+Neopl-COP (ours),Neftel NPC2,UKF334_T_ST,0.19750745947365073,Neftel 2019
+Neopl-NC (ours),Neftel NPC2,UKF334_T_ST,0.684945062223057,Neftel 2019
+Neopl-OPC (ours),Neftel NPC2,UKF334_T_ST,0.0014977370437342804,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel NPC2,UKF334_T_ST,-0.020282687578136362,Neftel 2019
+Neopl-ACR (ours),Neftel OPC,UKF334_T_ST,0.3598097314271235,Neftel 2019
+"Neopl-ACR (ours, refined)",Neftel OPC,UKF334_T_ST,0.2922581534699193,Neftel 2019
+Neopl-ECM (ours),Neftel OPC,UKF334_T_ST,0.32381504280620693,Neftel 2019
+Neopl-COP (ours),Neftel OPC,UKF334_T_ST,0.4002629051361818,Neftel 2019
+Neopl-NC (ours),Neftel OPC,UKF334_T_ST,-0.30510064633766537,Neftel 2019
+Neopl-OPC (ours),Neftel OPC,UKF334_T_ST,0.1707645884475008,Neftel 2019
+Neopl-CC/Bulk (ours),Neftel OPC,UKF334_T_ST,0.10096487668099237,Neftel 2019
+Neopl-ACR (ours),Richards Developmental,UKF334_T_ST,0.20849019247955605,Richards 2021
+"Neopl-ACR (ours, refined)",Richards Developmental,UKF334_T_ST,0.12362700663698604,Richards 2021
+Neopl-ECM (ours),Richards Developmental,UKF334_T_ST,0.25237393552361537,Richards 2021
+Neopl-COP (ours),Richards Developmental,UKF334_T_ST,0.2000016934957264,Richards 2021
+Neopl-NC (ours),Richards Developmental,UKF334_T_ST,-0.24315793232473693,Richards 2021
+Neopl-OPC (ours),Richards Developmental,UKF334_T_ST,0.12297401612333474,Richards 2021
+Neopl-CC/Bulk (ours),Richards Developmental,UKF334_T_ST,-0.14506687872503285,Richards 2021
+Neopl-ACR (ours),Richards Injury-Response,UKF334_T_ST,0.35156041760529677,Richards 2021
+"Neopl-ACR (ours, refined)",Richards Injury-Response,UKF334_T_ST,0.22972872687892112,Richards 2021
+Neopl-ECM (ours),Richards Injury-Response,UKF334_T_ST,0.02126617779783583,Richards 2021
+Neopl-COP (ours),Richards Injury-Response,UKF334_T_ST,-0.10219944757929178,Richards 2021
+Neopl-NC (ours),Richards Injury-Response,UKF334_T_ST,-0.4903692661300646,Richards 2021
+Neopl-OPC (ours),Richards Injury-Response,UKF334_T_ST,-0.1652543949593102,Richards 2021
+Neopl-CC/Bulk (ours),Richards Injury-Response,UKF334_T_ST,-0.07145517936779956,Richards 2021
+Neopl-ACR (ours),Nomura OPC-like,UKF334_T_ST,-0.04837667046654648,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura OPC-like,UKF334_T_ST,-0.028113370764711428,Nomura 2025
+Neopl-ECM (ours),Nomura OPC-like,UKF334_T_ST,0.2446429920687252,Nomura 2025
+Neopl-COP (ours),Nomura OPC-like,UKF334_T_ST,0.21297882315866123,Nomura 2025
+Neopl-NC (ours),Nomura OPC-like,UKF334_T_ST,0.153093319309652,Nomura 2025
+Neopl-OPC (ours),Nomura OPC-like,UKF334_T_ST,0.2659091089254098,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura OPC-like,UKF334_T_ST,0.05277592103562497,Nomura 2025
+Neopl-ACR (ours),Nomura AC-like,UKF334_T_ST,0.3894765121773164,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura AC-like,UKF334_T_ST,0.21090261861813875,Nomura 2025
+Neopl-ECM (ours),Nomura AC-like,UKF334_T_ST,0.14624789222260282,Nomura 2025
+Neopl-COP (ours),Nomura AC-like,UKF334_T_ST,0.17151386456217727,Nomura 2025
+Neopl-NC (ours),Nomura AC-like,UKF334_T_ST,-0.08606982785528584,Nomura 2025
+Neopl-OPC (ours),Nomura AC-like,UKF334_T_ST,0.04033076410040176,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura AC-like,UKF334_T_ST,-0.03367340150050777,Nomura 2025
+Neopl-ACR (ours),Nomura Hypoxia,UKF334_T_ST,-0.09820094322207647,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura Hypoxia,UKF334_T_ST,-0.01712484649822528,Nomura 2025
+Neopl-ECM (ours),Nomura Hypoxia,UKF334_T_ST,-0.3321189917687175,Nomura 2025
+Neopl-COP (ours),Nomura Hypoxia,UKF334_T_ST,-0.2843776782410695,Nomura 2025
+Neopl-NC (ours),Nomura Hypoxia,UKF334_T_ST,-0.20155129295536853,Nomura 2025
+Neopl-OPC (ours),Nomura Hypoxia,UKF334_T_ST,0.0211150881273897,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura Hypoxia,UKF334_T_ST,-0.22801919331571122,Nomura 2025
+Neopl-ACR (ours),Nomura MES-like,UKF334_T_ST,0.2586366847465434,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura MES-like,UKF334_T_ST,0.20928574111153106,Nomura 2025
+Neopl-ECM (ours),Nomura MES-like,UKF334_T_ST,-0.15872062364106984,Nomura 2025
+Neopl-COP (ours),Nomura MES-like,UKF334_T_ST,-0.225443443482059,Nomura 2025
+Neopl-NC (ours),Nomura MES-like,UKF334_T_ST,-0.30537405129155465,Nomura 2025
+Neopl-OPC (ours),Nomura MES-like,UKF334_T_ST,-0.10519394570787635,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura MES-like,UKF334_T_ST,0.1643993288442374,Nomura 2025
+Neopl-ACR (ours),Nomura NPC-like,UKF334_T_ST,-0.2403551790486282,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura NPC-like,UKF334_T_ST,-0.2667573717093074,Nomura 2025
+Neopl-ECM (ours),Nomura NPC-like,UKF334_T_ST,0.130827288445901,Nomura 2025
+Neopl-COP (ours),Nomura NPC-like,UKF334_T_ST,0.1688230726445139,Nomura 2025
+Neopl-NC (ours),Nomura NPC-like,UKF334_T_ST,0.5384305637449041,Nomura 2025
+Neopl-OPC (ours),Nomura NPC-like,UKF334_T_ST,0.033527635838948217,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura NPC-like,UKF334_T_ST,-0.0589826029499696,Nomura 2025
+Neopl-ACR (ours),Nomura GPC-like,UKF334_T_ST,0.07701830372754816,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura GPC-like,UKF334_T_ST,0.07670461018697126,Nomura 2025
+Neopl-ECM (ours),Nomura GPC-like,UKF334_T_ST,0.15311955151480128,Nomura 2025
+Neopl-COP (ours),Nomura GPC-like,UKF334_T_ST,0.1128112973425995,Nomura 2025
+Neopl-NC (ours),Nomura GPC-like,UKF334_T_ST,-0.009366882186094567,Nomura 2025
+Neopl-OPC (ours),Nomura GPC-like,UKF334_T_ST,0.1603582648273755,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura GPC-like,UKF334_T_ST,0.10663013374844196,Nomura 2025
+Neopl-ACR (ours),Nomura NEU-like,UKF334_T_ST,-0.06649580409843925,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura NEU-like,UKF334_T_ST,-0.19329063294749968,Nomura 2025
+Neopl-ECM (ours),Nomura NEU-like,UKF334_T_ST,0.16610734058432308,Nomura 2025
+Neopl-COP (ours),Nomura NEU-like,UKF334_T_ST,0.1444315917722973,Nomura 2025
+Neopl-NC (ours),Nomura NEU-like,UKF334_T_ST,0.40735465366036444,Nomura 2025
+Neopl-OPC (ours),Nomura NEU-like,UKF334_T_ST,-0.06159582773319053,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura NEU-like,UKF334_T_ST,-0.16921389995612232,Nomura 2025
+Neopl-ACR (ours),Nomura Stress,UKF334_T_ST,-0.022198522810279574,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura Stress,UKF334_T_ST,-0.059328489155001635,Nomura 2025
+Neopl-ECM (ours),Nomura Stress,UKF334_T_ST,-0.05271358208181934,Nomura 2025
+Neopl-COP (ours),Nomura Stress,UKF334_T_ST,-0.09406603344404,Nomura 2025
+Neopl-NC (ours),Nomura Stress,UKF334_T_ST,-0.0814927712342126,Nomura 2025
+Neopl-OPC (ours),Nomura Stress,UKF334_T_ST,-0.13833400011647426,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura Stress,UKF334_T_ST,-0.1335148903629387,Nomura 2025
+Neopl-ACR (ours),Nomura Cilia-like,UKF334_T_ST,-0.07458072729389409,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura Cilia-like,UKF334_T_ST,-0.04928389423660943,Nomura 2025
+Neopl-ECM (ours),Nomura Cilia-like,UKF334_T_ST,-0.03861736582381933,Nomura 2025
+Neopl-COP (ours),Nomura Cilia-like,UKF334_T_ST,-0.03278253915006446,Nomura 2025
+Neopl-NC (ours),Nomura Cilia-like,UKF334_T_ST,0.06514609113894652,Nomura 2025
+Neopl-OPC (ours),Nomura Cilia-like,UKF334_T_ST,0.026029530038205833,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura Cilia-like,UKF334_T_ST,-0.028498921995238197,Nomura 2025
+Neopl-ACR (ours),Nomura Cell cycle,UKF334_T_ST,0.19560157413312268,Nomura 2025
+"Neopl-ACR (ours, refined)",Nomura Cell cycle,UKF334_T_ST,0.22706319257112173,Nomura 2025
+Neopl-ECM (ours),Nomura Cell cycle,UKF334_T_ST,0.007526313767614827,Nomura 2025
+Neopl-COP (ours),Nomura Cell cycle,UKF334_T_ST,-0.0025101339793578903,Nomura 2025
+Neopl-NC (ours),Nomura Cell cycle,UKF334_T_ST,-0.3514311687313239,Nomura 2025
+Neopl-OPC (ours),Nomura Cell cycle,UKF334_T_ST,0.06529306438161517,Nomura 2025
+Neopl-CC/Bulk (ours),Nomura Cell cycle,UKF334_T_ST,0.44877436703210366,Nomura 2025

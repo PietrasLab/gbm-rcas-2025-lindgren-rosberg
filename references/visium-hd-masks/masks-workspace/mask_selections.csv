@@ -1,0 +1,5 @@
+sample_id,mask_letter,mask_name,manual_flag,notes,selected_at
+HB_hm01,Q,qupath_in_tissue,TRUE,QuPath class-aware annotation,2026-07-01 22:00
+TP_1083,Q,qupath_in_tissue,TRUE,QuPath class-aware annotation,2026-07-01 22:00
+TP_987,Q,qupath_in_tissue,TRUE,QuPath class-aware annotation,2026-07-01 22:00
+TR_03d_990,Q,qupath_in_tissue,TRUE,QuPath class-aware annotation,2026-07-01 22:00

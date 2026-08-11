@@ -1,0 +1,19 @@
+geneset,n_human,n_mouse,mouse_yield,mp,state,note
+Nomura_NatGenet_2025_MP_10_Stress1,50,46,0.92,MP_10_Stress1,Stress,
+Nomura_NatGenet_2025_MP_11_MIC,50,47,0.94,MP_11_MIC,Unassigned,Microglia contamination
+Nomura_NatGenet_2025_MP_12_LQ,50,10,0.2,MP_12_LQ,Unassigned,Low quality
+Nomura_NatGenet_2025_MP_13_Cilia,50,35,0.7,MP_13_Cilia,Cilia-like,
+Nomura_NatGenet_2025_MP_14_NRGN,50,46,0.92,MP_14_NRGN,NEU-like,NRGN neuronal
+Nomura_NatGenet_2025_MP_15_Stress2,50,47,0.94,MP_15_Stress2,Stress,
+Nomura_NatGenet_2025_MP_1_RP,50,31,0.62,MP_1_RP,Unassigned,Ribosomal protein
+Nomura_NatGenet_2025_MP_2_OPC,50,46,0.92,MP_2_OPC,OPC-like,
+Nomura_NatGenet_2025_MP_3_CC,50,43,0.86,MP_3_CC,Cell cycle,Proliferation (not a cell state)
+Nomura_NatGenet_2025_MP_4_AC,50,41,0.82,MP_4_AC,AC-like,
+Nomura_NatGenet_2025_MP_5_Hypoxia,50,44,0.88,MP_5_Hypoxia,Hypoxia,
+Nomura_NatGenet_2025_MP_6_MES,50,45,0.9,MP_6_MES,MES-like,
+Nomura_NatGenet_2025_MP_7_NPC,50,42,0.84,MP_7_NPC,NPC-like,
+Nomura_NatGenet_2025_MP_8_GPC,50,46,0.92,MP_8_GPC,GPC-like,
+Nomura_NatGenet_2025_MP_9_ExN,50,44,0.88,MP_9_ExN,NEU-like,Excitatory-neuron-like
+Nomura_NatGenet_2025_BP_ECM,53,51,0.96,NA,NA,NA
+Nomura_NatGenet_2025_BP_Glial,27,29,1.07,NA,NA,NA
+Nomura_NatGenet_2025_BP_Neuronal,46,43,0.93,NA,NA,NA

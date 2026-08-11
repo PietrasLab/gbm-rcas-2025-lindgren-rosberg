@@ -1,0 +1,5 @@
+test,group1,group2,n1,n2,statistic,df,p,p.adj,p.adjust.method,p.signif,method
+Kruskal-Wallis,all groups,NA,713,NA,110.44869124381148,2,1.0384161399596712e-24,1.0384161399596712e-24,none,****,Kruskal-Wallis rank sum
+pairwise Wilcoxon,Healthy,Primary,63,340,2824,NA,1.604930923418523e-20,2.4073963851277845e-20,BH,****,Wilcoxon rank sum
+pairwise Wilcoxon,Healthy,Recurrent,63,310,2078,NA,6.707319966524637e-23,2.012195989957391e-22,BH,****,Wilcoxon rank sum
+pairwise Wilcoxon,Primary,Recurrent,340,310,44295,NA,4.402048311411007e-4,4.402048311411007e-4,BH,***,Wilcoxon rank sum

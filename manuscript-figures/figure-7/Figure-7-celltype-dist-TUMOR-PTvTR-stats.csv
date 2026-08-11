@@ -1,0 +1,15 @@
+cell_type,test,p,cliffs_delta,n_bins,star
+Astrocyte R,Wilcoxon,0,NA,168978,****
+Astrocyte TE-NT,Wilcoxon,0,NA,168978,****
+Choroid,Wilcoxon,2.605119383138423e-265,NA,168978,****
+Ependymal,Wilcoxon,0,NA,168978,****
+Immune-other,Wilcoxon,8.963028425092696e-38,NA,168978,****
+Myeloid,Wilcoxon,0,NA,168978,****
+Neopl-ACR,Wilcoxon,1.8197303798807066e-31,NA,168978,****
+Neopl-Bulk,Wilcoxon,0,NA,168978,****
+Neopl-COP,Wilcoxon,5.96398724547311e-14,NA,168978,****
+Neopl-ECM,Wilcoxon,9.222201327227311e-175,NA,168978,****
+Neopl-OPC,Wilcoxon,0,NA,168978,****
+Neuron,Wilcoxon,0,NA,168978,****
+OPC-COP-OLG,Wilcoxon,0,NA,168978,****
+Vascular,Wilcoxon,3.430960966171773e-24,NA,168978,****

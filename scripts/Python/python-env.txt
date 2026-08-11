@@ -1,0 +1,4 @@
+mamba create -n gbm_rcas_py_submission python=3.10 scanpy anndata jupyterlab -c conda-forge
+mamba activate gbm_rcas_py_submission
+python3 -m pip install bio-pyminer-norm
+python -c "import numpy; import scanpy; from pyminer_norm.downsample import downsample_mat; print('OK')"

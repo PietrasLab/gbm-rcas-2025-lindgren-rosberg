@@ -1,0 +1,94 @@
+pathway_name,source,target,condition,strength,n
+TNF,Microglia,Astrocyte TE/NT,Primary,0.007692032565801655,1
+TNF,Microglia,Astrocyte TE/NT,Recurrent,0.02792243435744432,1
+TNF,Microglia,Astrocyte R,Primary,0.017016070142013996,1
+TNF,Microglia,Astrocyte R,Recurrent,0.03765890953889907,1
+TNF,Microglia,OPC/COP/OLG,Primary,0.01158440975342627,1
+TNF,Microglia,OPC/COP/OLG,Recurrent,0.0061465657787240025,1
+TNF,Microglia,Microglia,Primary,0.023665037046937194,2
+TNF,Microglia,Microglia,Recurrent,0.059279668128490115,2
+TNF,Microglia,Macrophage,Primary,0.033213730495387964,2
+TNF,Microglia,Macrophage,Recurrent,0.07106586887169253,2
+TNF,Microglia,Dendritic,Primary,0.032034301810613085,2
+TNF,Microglia,Dendritic,Recurrent,0.06364624869794747,2
+TNF,Microglia,Neutrophil,Primary,0.05624783942616306,2
+TNF,Microglia,Neutrophil,Recurrent,0.11480608191676658,2
+TNF,Microglia,NKTB,Primary,0.02816275187784823,2
+TNF,Microglia,NKTB,Recurrent,0.05678384181667746,1
+TNF,Microglia,Fibroblast,Primary,0.023290819248694958,1
+TNF,Microglia,Fibroblast,Recurrent,0.04606113717243223,1
+TNF,Microglia,Mural,Primary,0.021074803616438802,1
+TNF,Microglia,Endothelial,Primary,0.015759627684049073,2
+TNF,Microglia,Endothelial,Recurrent,0.0343145631898423,2
+TNF,Microglia,Neoplastic,Primary,0.016497477432189673,1
+TNF,Microglia,Neoplastic,Recurrent,0.03681361268875036,1
+TNF,Neutrophil,Astrocyte TE/NT,Primary,0.007334687341663605,1
+TNF,Neutrophil,Astrocyte TE/NT,Recurrent,0.01561340787772959,1
+TNF,Neutrophil,Astrocyte R,Primary,0.016232648266343366,1
+TNF,Neutrophil,Astrocyte R,Recurrent,0.0211511508214721,1
+TNF,Neutrophil,OPC/COP/OLG,Primary,0.01104825145165099,1
+TNF,Neutrophil,OPC/COP/OLG,Recurrent,0.003403370749202732,1
+TNF,Neutrophil,Microglia,Primary,0.022570433011710758,2
+TNF,Neutrophil,Microglia,Recurrent,0.03317859320843871,2
+TNF,Neutrophil,Macrophage,Primary,0.0316845707407495,2
+TNF,Neutrophil,Macrophage,Recurrent,0.039880456432101814,2
+TNF,Neutrophil,Dendritic,Primary,0.030558015545402786,2
+TNF,Neutrophil,Dendritic,Recurrent,0.03565272880106347,2
+TNF,Neutrophil,Neutrophil,Primary,0.053686259128430155,2
+TNF,Neutrophil,Neutrophil,Recurrent,0.06523934096706151,2
+TNF,Neutrophil,NKTB,Primary,0.026873928991763985,2
+TNF,Neutrophil,NKTB,Recurrent,0.03217295497007096,1
+TNF,Neutrophil,Fibroblast,Primary,0.02222503892454824,1
+TNF,Neutrophil,Fibroblast,Recurrent,0.025969659528823085,1
+TNF,Neutrophil,Mural,Primary,0.020108339754579416,1
+TNF,Neutrophil,Endothelial,Primary,0.015030133401866272,2
+TNF,Neutrophil,Endothelial,Recurrent,0.019155844506662335,2
+TNF,Neutrophil,Neoplastic,Primary,0.0157375493707199,1
+TNF,Neutrophil,Neoplastic,Recurrent,0.020668431224166773,1
+COMPLEMENT,Microglia,Microglia,Primary,0.0725647208239323,3
+COMPLEMENT,Microglia,Microglia,Recurrent,0.05421189371897224,3
+COMPLEMENT,Microglia,Macrophage,Primary,0.06634811590878112,3
+COMPLEMENT,Microglia,Macrophage,Recurrent,0.052963261279280346,3
+COMPLEMENT,Microglia,Dendritic,Primary,0.0335121634918105,2
+COMPLEMENT,Microglia,Dendritic,Recurrent,0.022382789512075504,2
+COMPLEMENT,Microglia,Neutrophil,Primary,0.040805992642518246,2
+COMPLEMENT,Microglia,Neutrophil,Recurrent,0.023725947855015986,2
+COMPLEMENT,Macrophage,Microglia,Primary,0.16483697070256217,3
+COMPLEMENT,Macrophage,Microglia,Recurrent,0.03562143335721309,3
+COMPLEMENT,Macrophage,Macrophage,Primary,0.15130138965609044,3
+COMPLEMENT,Macrophage,Macrophage,Recurrent,0.03478408281439447,3
+COMPLEMENT,Macrophage,Dendritic,Primary,0.0765896853538557,2
+COMPLEMENT,Macrophage,Dendritic,Recurrent,0.014677880772824942,2
+COMPLEMENT,Macrophage,Neutrophil,Primary,0.09284317427406452,2
+COMPLEMENT,Macrophage,Neutrophil,Recurrent,0.015557879464855404,2
+COMPLEMENT,Neutrophil,Microglia,Primary,0.207179055169183,3
+COMPLEMENT,Neutrophil,Microglia,Recurrent,0.22120282154642235,3
+COMPLEMENT,Neutrophil,Macrophage,Primary,0.19050102387595397,3
+COMPLEMENT,Neutrophil,Macrophage,Recurrent,0.21701059954032662,3
+COMPLEMENT,Neutrophil,Dendritic,Primary,0.09653534348119523,2
+COMPLEMENT,Neutrophil,Dendritic,Recurrent,0.0930003481094473,2
+COMPLEMENT,Neutrophil,Neutrophil,Primary,0.1167821889627816,2
+COMPLEMENT,Neutrophil,Neutrophil,Recurrent,0.0986215063184466,2
+IL1,Astrocyte TE/NT,NKTB,Primary,0.02841381802677258,1
+IL1,Astrocyte TE/NT,NKTB,Recurrent,0.041824989542530035,1
+IL1,Astrocyte R,NKTB,Primary,0.01565827416514915,1
+IL1,Astrocyte R,NKTB,Recurrent,0.011115364802645768,1
+IL1,OPC/COP/OLG,NKTB,Primary,0.02036238593856464,1
+IL1,OPC/COP/OLG,NKTB,Recurrent,0.0271501058733005,1
+IL1,Microglia,Astrocyte R,Primary,0.02579726723076313,2
+IL1,Microglia,Astrocyte R,Recurrent,0.02516154548899202,2
+IL1,Microglia,NKTB,Primary,0.004417435973297569,1
+IL1,Microglia,NKTB,Recurrent,0.006276222349870317,1
+IL1,Microglia,Mural,Primary,0.057597227653812436,2
+IL1,Macrophage,Astrocyte R,Primary,0.021813148310726643,2
+IL1,Macrophage,Astrocyte R,Recurrent,0.02290875004391639,2
+IL1,Macrophage,NKTB,Primary,0.004417435973297569,1
+IL1,Macrophage,Mural,Primary,0.048724499725656234,2
+IL1,Dendritic,Astrocyte R,Primary,0.015241327249165711,2
+IL1,Dendritic,Astrocyte R,Recurrent,0.017158601611333087,1
+IL1,Dendritic,Mural,Primary,0.0340962605019116,2
+IL1,Neutrophil,Astrocyte R,Primary,0.022129585836386533,2
+IL1,Neutrophil,Astrocyte R,Recurrent,0.019759553117418276,2
+IL1,Neutrophil,Mural,Primary,0.04836739962216344,2
+IL1,Neoplastic,NKTB,Primary,0.015550663157191783,1
+IL1,Neoplastic,NKTB,Recurrent,0.006397146323490226,1

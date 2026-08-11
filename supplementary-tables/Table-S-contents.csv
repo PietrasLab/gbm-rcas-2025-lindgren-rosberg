@@ -1,0 +1,20 @@
+Tab,Sheet,Title,N_rows
+1,Sample_manifest,"Full Flex scRNA-seq sample and library manifest (23 libraries incl. excluded/pilot replicate; mouse, sex, survival, irradiation, hybridization batch, QC; footnotes i-vi)",30
+2,VisiumHD_manifest,"Visium HD spatial sample manifest (4 publication samples: healthy control, 2 primary, 1 post-radiotherapy recurrent; 8/16 um bins)",4
+3,QC_per_sample,"Per-sample QC summary (raw Flex object, 16 samples)",16
+4,Custom_probes,Custom RCAS transgene probe sequences (Flex and Visium HD panels),14
+5,Markers_Level4,"Cluster markers, all cell types (Level_4, FindAllMarkers)",9696
+6,Markers_Neoplastic,"Neoplastic subcluster markers (Level_4, FindAllMarkers)",1416
+7,Markers_NonNeoplastic,"Non-neoplastic cell-type markers (Level_3, FindAllMarkers)",6896
+8,Astro_subtype_markers,"Astrocyte subtype markers (TE / NT / R, FindAllMarkers)",300
+9,AstroR_Tumor_vs_Healthy,Astrocyte R: tumour vs healthy DEG,1961
+10,NeoplACR_vs_AstroR,Malignant Neopl-ACR vs reactive Astrocyte R DEG (both directions),9578
+11,Signature_gene_lists,"Program signature gene lists (mouse + human, original/refined)",2793
+12,Signature_refinement,ACR / NACR signature overlap and refinement membership,86
+13,Composition_stats,Per-condition composition: pairwise Wilcoxon (BH-corrected),68
+14,ExtVal_correlations,External-cohort signature correlations (Soni/GBmap/Sussman/Suter/Nomura),716
+15,CellChat_signaling,CellChat secreted-signalling sender/receiver weights,52
+16,BulkIR_DESeq2,Human astrocyte irradiation bulk RNA-seq: DESeq2 IR vs non-IR,17748
+17,BulkIR_GSEA,Astrocyte R program GSEA in irradiation-ranked bulk RNA-seq,1
+18,AstroR_Recur_vs_Prim,Astrocyte R: post-radiotherapy recurrent vs primary DEG,14279
+19,Niche_composition,Visium HD composition-niche cell-type matrix (mean RCTD weight per niche; malignant fraction + tumor/normal class; Fig 7F),12

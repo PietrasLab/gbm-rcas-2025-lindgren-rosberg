@@ -1,0 +1,11 @@
+Level_4,n_cells,mean_hypoxia,pct_hypoxia_pos
+Neopl-Bulk,13798,0.0492,73.8
+Neopl-CC-I,2692,-0.0032,41.7
+Neopl-CC-II,3652,-0.0061,36.7
+Neopl-CC-III,5647,-0.0066,39.3
+Neopl-OPC,1599,0.0063,51.7
+Neopl-COP,766,0.0222,59
+Neopl-NC,90,0.0339,72.2
+Neopl-ACR,443,0.1451,98
+Neopl-ECM,2700,0.0664,72.4
+Neopl-RNA-low,2340,0.0027,46.9

@@ -1,0 +1,7 @@
+group1,group2,n1,n2,statistic,p,Level_1,p.adj,p.adj.signif
+Healthy,Primary,5,5,25,0.007494957516935249,Non-Neoplastic,0.011242436275402874,*
+Primary,Recurrent,5,6,16,0.9272644735252321,Non-Neoplastic,0.9272644735252321,ns
+Healthy,Recurrent,5,6,30,0.005494110875631204,Non-Neoplastic,0.011242436275402874,*
+Healthy,Primary,5,5,0,0.007494957516935249,Neoplastic,0.011242436275402874,*
+Primary,Recurrent,5,6,14,0.9272644735252321,Neoplastic,0.9272644735252321,ns
+Healthy,Recurrent,5,6,0,0.005494110875631204,Neoplastic,0.011242436275402874,*

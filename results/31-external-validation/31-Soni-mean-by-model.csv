@@ -1,0 +1,25 @@
+signature,EGFRvIII,Nf1,PDGFB,source,compartment
+Neopl-ACR (ours),-0.0047,0.0331,0.0087,Ours,neoplastic
+Neopl-ECM (ours),0.0115,0.0947,-0.0378,Ours,neoplastic
+Neopl-COP (ours),0.0591,0.0053,-0.123,Ours,neoplastic
+Neopl-NC (ours),-0.0434,0.0365,0.012,Ours,neoplastic
+Neopl-OPC (ours),-0.0651,0.141,0.0104,Ours,neoplastic
+Neopl-CC/Bulk (ours),-0.0507,-0.0994,0.0781,Ours,neoplastic
+Neftel AC,0.1933,0.3655,0.1901,Neftel 2019,neoplastic
+Neftel MES1,0.0342,-0.0335,-0.0015,Neftel 2019,neoplastic
+Neftel MES2,0.0911,0.0015,0.0726,Neftel 2019,neoplastic
+Neftel NPC1,0.0238,0.0962,0.1404,Neftel 2019,neoplastic
+Neftel NPC2,-0.0148,0.0077,0.12,Neftel 2019,neoplastic
+Neftel OPC,0.2054,0.2854,0.2061,Neftel 2019,neoplastic
+Richards Developmental,-0.0253,0.062,0.0418,Richards 2021,neoplastic
+Richards Injury-Response,-0.0084,-0.0071,-0.0081,Richards 2021,neoplastic
+Nomura OPC-like,-0.0974,0.1389,0.165,Nomura 2025,neoplastic
+Nomura AC-like,-0.0605,-0.0046,0.0071,Nomura 2025,neoplastic
+Nomura Hypoxia,6e-4,-0.0224,0.0564,Nomura 2025,neoplastic
+Nomura MES-like,-0.0529,-0.0467,0.0642,Nomura 2025,neoplastic
+Nomura NPC-like,-0.0846,0.0145,0.0895,Nomura 2025,neoplastic
+Nomura GPC-like,-0.0651,-0.01,0.0186,Nomura 2025,neoplastic
+Nomura NEU-like,0.1155,0.1888,0.1874,Nomura 2025,neoplastic
+Nomura Stress,0.0811,0.0368,0.1086,Nomura 2025,neoplastic
+Nomura Cilia-like,-7e-4,-0.0027,2e-4,Nomura 2025,neoplastic
+Nomura Cell cycle,-0.0092,-0.1298,0.0541,Nomura 2025,neoplastic

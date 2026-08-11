@@ -1,0 +1,6 @@
+transgene features: Tg-hPDGFB-1, Tg-hPDGFB-2, Tg-hPDGFB-U, Tg-hPDGFB-nHA, Tg-RFP-1, Tg-RFP-2, Tg-RFP-3, Tg-RFP-U
+non-neoplastic transgene+ false-positive rate: 11.46%
+AUC transgene (all cells): 0.958
+cells with CNA score: 64072
+AUC transgene (matched): 0.961
+AUC inferCNV CNA score : 0.317

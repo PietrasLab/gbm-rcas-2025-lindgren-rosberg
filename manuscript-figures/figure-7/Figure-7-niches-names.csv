@@ -1,0 +1,13 @@
+niche,name
+1,Tumor: Proneural (OPC)
+2,Tumor: OPC/Bulk
+3,Tumor: Bulk/OPC (reactive)
+4,Tumor: Bulk
+5,Tumor margin (neuronal / reactive-astro)
+6,Reactive-astro / immune
+7,Peritumoral parenchyma
+8,Parenchyma
+9,White matter
+10,Oligodendrocyte
+11,Homeostatic astrocyte (TE-NT)
+12,Choroid/ventricle

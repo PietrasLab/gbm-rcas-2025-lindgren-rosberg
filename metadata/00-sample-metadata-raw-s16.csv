@@ -1,0 +1,17 @@
+﻿cellranger_id,cellranger_file,sample_id,mouse_id,sex,sample_type,disease_state,project_id,mouse_exp_id
+F330260,F330260_sample_filtered_feature_bc_matrix.h5,BRAIN_01,BRAIN_01,Female,Healthy,Healthy,2023_069_1,F330260
+F719_1,F719_1_sample_filtered_feature_bc_matrix.h5,BRAIN_04a,BRAIN_04,Female,Healthy,Healthy,2023_141_3,F719
+F719_2,F719_2_sample_filtered_feature_bc_matrix.h5,BRAIN_04b,BRAIN_04,Female,Healthy,Healthy,2023_141_3,F719
+M273,M273_sample_filtered_feature_bc_matrix.h5,BRAIN_05,BRAIN_05,Male,Healthy,Healthy,2023_141_3,M273
+M275,M275_sample_filtered_feature_bc_matrix.h5,BRAIN_06,BRAIN_06,Male,Healthy,Healthy,2023_141_3,M275
+F402_r2,F402_r2_sample_filtered_feature_bc_matrix.h5,TP_01b,TP_01,Female,Primary,Tumor,2023_069_2,F402
+M446,M446_sample_filtered_feature_bc_matrix.h5,TP_04,TP_04,Male,Primary,Tumor,2023_141_1,M446
+F442,F442_sample_filtered_feature_bc_matrix.h5,TP_05,TP_05,Female,Primary,Tumor,2023_141_1,F442
+F486,F486_sample_filtered_feature_bc_matrix.h5,TP_06,TP_06,Female,Primary,Tumor,2023_141_1,F486
+F493,F493_sample_filtered_feature_bc_matrix.h5,TP_08,TP_08,Female,Primary,Tumor,2023_141_1,F493
+F420,F420_sample_filtered_feature_bc_matrix.h5,TR_01,TR_01,Female,Recurrent,Tumor,2023_141_1,F420
+F421,F421_sample_filtered_feature_bc_matrix.h5,TR_02,TR_02,Female,Recurrent,Tumor,2023_141_1,F421
+F422,F422_sample_filtered_feature_bc_matrix.h5,TR_03,TR_03,Female,Recurrent,Tumor,2023_141_1,F422
+M423,M423_sample_filtered_feature_bc_matrix.h5,TR_04,TR_04,Male,Recurrent,Tumor,2023_141_1,M423
+M433,M433_sample_filtered_feature_bc_matrix.h5,TR_06,TR_06,Male,Recurrent,Tumor,2023_141_1,M433
+M434,M434_sample_filtered_feature_bc_matrix.h5,TR_07,TR_07,Male,Recurrent,Tumor,2023_141_1,M434

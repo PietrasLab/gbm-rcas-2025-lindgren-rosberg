@@ -1,0 +1,42 @@
+label,source,compartment
+Neopl-ACR (ours),Ours,neoplastic
+"Neopl-ACR (ours, refined)",Ours,neoplastic
+Neopl-ECM (ours),Ours,neoplastic
+Neopl-COP (ours),Ours,neoplastic
+Neopl-NC (ours),Ours,neoplastic
+Neopl-OPC (ours),Ours,neoplastic
+Neopl-CC/Bulk (ours),Ours,neoplastic
+Astrocyte R (ours),Ours,non-neoplastic
+"Astrocyte R (ours, refined)",Ours,non-neoplastic
+NN-Astrocyte (ours),Ours,non-neoplastic
+NN-Microglia (ours),Ours,non-neoplastic
+NN-Macrophage (ours),Ours,non-neoplastic
+NN-OPC-COP-OLG (ours),Ours,non-neoplastic
+NN-Neural (ours),Ours,non-neoplastic
+NN-Endothelial (ours),Ours,non-neoplastic
+NN-Mural (ours),Ours,non-neoplastic
+NN-Fibroblast (ours),Ours,non-neoplastic
+NN-Choroid (ours),Ours,non-neoplastic
+NN-Ependymal (ours),Ours,non-neoplastic
+NN-Dendritic (ours),Ours,non-neoplastic
+NN-Neutrophil (ours),Ours,non-neoplastic
+NN-NKTB (ours),Ours,non-neoplastic
+Neftel AC,Neftel 2019,neoplastic
+Neftel MES1,Neftel 2019,neoplastic
+Neftel MES2,Neftel 2019,neoplastic
+Neftel NPC1,Neftel 2019,neoplastic
+Neftel NPC2,Neftel 2019,neoplastic
+Neftel OPC,Neftel 2019,neoplastic
+Richards Developmental,Richards 2021,neoplastic
+Richards Injury-Response,Richards 2021,neoplastic
+Nomura OPC-like,Nomura 2025,neoplastic
+Nomura AC-like,Nomura 2025,neoplastic
+Nomura Hypoxia,Nomura 2025,neoplastic
+Nomura MES-like,Nomura 2025,neoplastic
+Nomura NPC-like,Nomura 2025,neoplastic
+Nomura GPC-like,Nomura 2025,neoplastic
+Nomura NEU-like,Nomura 2025,neoplastic
+Nomura Stress,Nomura 2025,neoplastic
+Nomura Cilia-like,Nomura 2025,neoplastic
+Nomura Cell cycle,Nomura 2025,neoplastic
+HALLMARK_HYPOXIA,Hallmark,neoplastic

@@ -1,0 +1,5 @@
+sample_id,condition,n_bins,median_tg,pct_tg_pos,pct_qupath_tumor,tg_pos_in_qupath,endo_auc,n_tg_pos,n_tg_neg
+HB_hm01,Healthy,130145,0,0,0,NA,NA,NA,NA
+TP_1083,Primary,135914,1,34.26,73.81,94.04,0.738891069156751,46565,89349
+TP_987,Primary,121172,0,27.77,55.55,97.36,0.7764175575547342,33649,87523
+TR_03d_990,PostRT,120774,0,2.57,19.63,99.87,0.7264374546862691,3108,117666

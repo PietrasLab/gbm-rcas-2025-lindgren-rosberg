@@ -1,0 +1,5 @@
+sample_id,sample_type,transgene_status,platform,bin_sizes_um,cohort_stage,notes
+HB_hm01,Healthy control,transgene-negative,Visium HD,8; 16,Original submission (pilot),Healthy transgene-negative control
+TP_1083,Primary tumor,RCAS transgene-positive,Visium HD,8; 16,Original submission (pilot),Primary tumor (pilot)
+TP_987,Primary tumor,RCAS transgene-positive,Visium HD,8; 16,Revision-added,Primary tumor (added in revision)
+TR_03d_990,Recurrent tumor (post-radiotherapy),RCAS transgene-positive,Visium HD,8; 16,Revision-added,Post-radiotherapy recurrent tumor (added in revision)

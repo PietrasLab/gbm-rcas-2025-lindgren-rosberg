@@ -1,0 +1,80 @@
+
+# 1) keep folder structure, ignore contents of key dirs
+# Ignore everything under data, but keep .gitkeep files
+data/**
+!data/**/.gitkeep
+
+# Ignore everything under results, but keep .gitkeep
+results/**
+!results/**/.gitkeep
+# Track the small signature gene-list deliverables (GEPIA) so they reach the GitHub page
+!results/07-4-signature-refinement/
+!results/07-4-signature-refinement/*.csv
+# Track the portable external-validation / hypoxia correlation + per-sample CSVs (figure inputs)
+!results/31-external-validation/
+!results/31-external-validation/*.csv
+!results/33-hypoxia-external/
+!results/33-hypoxia-external/*.csv
+# Track the Neopl-ACR vs Astrocyte R DEG table (supplemental tab S07 source)
+!results/07-6-neopl-acr-vs-astrocyte-r-deg/
+!results/07-6-neopl-acr-vs-astrocyte-r-deg/*.csv
+
+# Ignore omnipathr-log and scratch entirely
+omnipathr-log/**
+scratch/**
+
+
+# 2) R / RStudio / OS temp & session files
+.Rhistory
+.Rapp.history
+.RData
+.RDataTmp
+.Ruserdata
+.Renviron
+.Rproj.user/
+*.Rproj
+
+# Output files from R CMD build/check
+/*.tar.gz
+/*.Rcheck/
+*-Ex.R
+
+# knitr / rmarkdown caches
+*_cache/
+cache/
+.cache/
+*.utf8.md
+*.knit.md
+
+# vignettes built output
+vignettes/*.html
+vignettes/*.pdf
+
+# pkgdown site (if you publish docs elsewhere, keep ignored)
+docs/
+
+# httr OAuth token
+.httr-oauth
+
+# translation temp files
+po/*~
+
+# RStudio Connect
+rsconnect/
+
+# macOS
+.DS_Store
+
+# Office lock files
+~$*
+
+# Claude Code local config / agents (not publication content)
+.claude/
+# figure intermediate objects (regenerable, not tracked)
+manuscript-figures/**/*.rds
+
+# Visium HD derived tables (08-3..08-6): heavy per-bin tables are regenerable,
+# only the two small portable files are tracked
+!results/08-visium-hd-derived/
+!results/08-visium-hd-derived/signature-panel-meta.csv
+!results/08-visium-hd-derived/heiland-per-section-cor-list.rds

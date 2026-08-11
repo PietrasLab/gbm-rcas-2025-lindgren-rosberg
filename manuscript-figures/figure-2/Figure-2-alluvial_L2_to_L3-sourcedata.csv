@@ -1,0 +1,27 @@
+Level_3,Freq,x
+Astrocyte,5110,no scale
+OPC/COP/OLG,4909,no scale
+Neural,1442,no scale
+Ependymal,229,no scale
+Microglia,9587,no scale
+Macrophage,3457,no scale
+Dendritic,617,no scale
+Neutrophil,122,no scale
+NKTB,930,no scale
+Choroid,977,no scale
+Endothelial,1947,no scale
+Mural,640,no scale
+Fibroblast,378,no scale
+Astrocyte,10912.78431372549,scaled
+OPC/COP/OLG,10483.533893557424,scaled
+Neural,3079.4980392156863,scaled
+Ependymal,489.04649859943976,scaled
+Microglia,20473.75014005602,scaled
+Macrophage,7382.680112044818,scaled
+Dendritic,1317.649299719888,scaled
+Neutrophil,260.540056022409,scaled
+NKTB,1986.0840336134454,scaled
+Choroid,2086.4560224089637,scaled
+Endothelial,4157.963025210084,scaled
+Mural,1366.767507002801,scaled
+Fibroblast,807.2470588235294,scaled

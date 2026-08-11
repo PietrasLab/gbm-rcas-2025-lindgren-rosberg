@@ -1,0 +1,626 @@
+x,y,score
+Astrocyte TE,Astrocyte TE,NA
+Astrocyte TE,Astrocyte NT,0.85
+Astrocyte TE,Astrocyte R,0.66
+Astrocyte TE,OPC/COP/OLG,0.06
+Astrocyte TE,Neural,0.04
+Astrocyte TE,Ependymal,0.15
+Astrocyte TE,Microglia,-0.18
+Astrocyte TE,Macrophage,-0.19
+Astrocyte TE,Dendritic,-0.15
+Astrocyte TE,Neutrophil,-0.09
+Astrocyte TE,NKTB,-0.09
+Astrocyte TE,Choroid,0.11
+Astrocyte TE,Endothelial,-0.01
+Astrocyte TE,Mural,0.05
+Astrocyte TE,Fibroblast,0.06
+Astrocyte TE,Neopl-Bulk,-0.14
+Astrocyte TE,Neopl-CC-I,-0.2
+Astrocyte TE,Neopl-CC-II,-0.19
+Astrocyte TE,Neopl-CC-III,-0.2
+Astrocyte TE,Neopl-OPC,-0.02
+Astrocyte TE,Neopl-COP,-0.04
+Astrocyte TE,Neopl-NC,0.04
+Astrocyte TE,Neopl-ACR,0.28
+Astrocyte TE,Neopl-ECM,-0.11
+Astrocyte TE,Neopl-RNA-low,-0.09
+Astrocyte NT,Astrocyte TE,0.85
+Astrocyte NT,Astrocyte NT,NA
+Astrocyte NT,Astrocyte R,0.59
+Astrocyte NT,OPC/COP/OLG,0.06
+Astrocyte NT,Neural,0.03
+Astrocyte NT,Ependymal,0.14
+Astrocyte NT,Microglia,-0.17
+Astrocyte NT,Macrophage,-0.18
+Astrocyte NT,Dendritic,-0.15
+Astrocyte NT,Neutrophil,-0.09
+Astrocyte NT,NKTB,-0.09
+Astrocyte NT,Choroid,0.09
+Astrocyte NT,Endothelial,-0.01
+Astrocyte NT,Mural,0.05
+Astrocyte NT,Fibroblast,0.06
+Astrocyte NT,Neopl-Bulk,-0.13
+Astrocyte NT,Neopl-CC-I,-0.2
+Astrocyte NT,Neopl-CC-II,-0.19
+Astrocyte NT,Neopl-CC-III,-0.2
+Astrocyte NT,Neopl-OPC,0
+Astrocyte NT,Neopl-COP,-0.02
+Astrocyte NT,Neopl-NC,0.04
+Astrocyte NT,Neopl-ACR,0.27
+Astrocyte NT,Neopl-ECM,-0.11
+Astrocyte NT,Neopl-RNA-low,-0.09
+Astrocyte R,Astrocyte TE,0.66
+Astrocyte R,Astrocyte NT,0.59
+Astrocyte R,Astrocyte R,NA
+Astrocyte R,OPC/COP/OLG,-0
+Astrocyte R,Neural,-0.02
+Astrocyte R,Ependymal,0.17
+Astrocyte R,Microglia,-0.2
+Astrocyte R,Macrophage,-0.14
+Astrocyte R,Dendritic,-0.11
+Astrocyte R,Neutrophil,-0.06
+Astrocyte R,NKTB,-0.08
+Astrocyte R,Choroid,0.11
+Astrocyte R,Endothelial,0.04
+Astrocyte R,Mural,0.11
+Astrocyte R,Fibroblast,0.23
+Astrocyte R,Neopl-Bulk,-0.05
+Astrocyte R,Neopl-CC-I,-0.16
+Astrocyte R,Neopl-CC-II,-0.16
+Astrocyte R,Neopl-CC-III,-0.15
+Astrocyte R,Neopl-OPC,-0.04
+Astrocyte R,Neopl-COP,-0.03
+Astrocyte R,Neopl-NC,0.02
+Astrocyte R,Neopl-ACR,0.67
+Astrocyte R,Neopl-ECM,-0.01
+Astrocyte R,Neopl-RNA-low,-0.08
+OPC/COP/OLG,Astrocyte TE,0.06
+OPC/COP/OLG,Astrocyte NT,0.06
+OPC/COP/OLG,Astrocyte R,-0
+OPC/COP/OLG,OPC/COP/OLG,NA
+OPC/COP/OLG,Neural,0.09
+OPC/COP/OLG,Ependymal,0
+OPC/COP/OLG,Microglia,-0.29
+OPC/COP/OLG,Macrophage,-0.31
+OPC/COP/OLG,Dendritic,-0.22
+OPC/COP/OLG,Neutrophil,-0.17
+OPC/COP/OLG,NKTB,-0.16
+OPC/COP/OLG,Choroid,-0.01
+OPC/COP/OLG,Endothelial,-0.08
+OPC/COP/OLG,Mural,-0.06
+OPC/COP/OLG,Fibroblast,-0.07
+OPC/COP/OLG,Neopl-Bulk,0.06
+OPC/COP/OLG,Neopl-CC-I,-0.04
+OPC/COP/OLG,Neopl-CC-II,-0.1
+OPC/COP/OLG,Neopl-CC-III,-0.11
+OPC/COP/OLG,Neopl-OPC,0.27
+OPC/COP/OLG,Neopl-COP,0.43
+OPC/COP/OLG,Neopl-NC,0.08
+OPC/COP/OLG,Neopl-ACR,0.04
+OPC/COP/OLG,Neopl-ECM,0.08
+OPC/COP/OLG,Neopl-RNA-low,0.01
+Neural,Astrocyte TE,0.04
+Neural,Astrocyte NT,0.03
+Neural,Astrocyte R,-0.02
+Neural,OPC/COP/OLG,0.09
+Neural,Neural,NA
+Neural,Ependymal,0.05
+Neural,Microglia,-0.23
+Neural,Macrophage,-0.23
+Neural,Dendritic,-0.14
+Neural,Neutrophil,-0.09
+Neural,NKTB,-0.07
+Neural,Choroid,0.04
+Neural,Endothelial,-0.06
+Neural,Mural,-0.03
+Neural,Fibroblast,-0.01
+Neural,Neopl-Bulk,0.11
+Neural,Neopl-CC-I,0.08
+Neural,Neopl-CC-II,0.03
+Neural,Neopl-CC-III,0.03
+Neural,Neopl-OPC,0.14
+Neural,Neopl-COP,0.08
+Neural,Neopl-NC,0.59
+Neural,Neopl-ACR,0.03
+Neural,Neopl-ECM,-0.02
+Neural,Neopl-RNA-low,0.29
+Ependymal,Astrocyte TE,0.15
+Ependymal,Astrocyte NT,0.14
+Ependymal,Astrocyte R,0.17
+Ependymal,OPC/COP/OLG,0
+Ependymal,Neural,0.05
+Ependymal,Ependymal,NA
+Ependymal,Microglia,-0.06
+Ependymal,Macrophage,-0.07
+Ependymal,Dendritic,-0.05
+Ependymal,Neutrophil,-0.02
+Ependymal,NKTB,-0.03
+Ependymal,Choroid,0.35
+Ependymal,Endothelial,0.02
+Ependymal,Mural,0.04
+Ependymal,Fibroblast,0.05
+Ependymal,Neopl-Bulk,-0.08
+Ependymal,Neopl-CC-I,-0.1
+Ependymal,Neopl-CC-II,-0.09
+Ependymal,Neopl-CC-III,-0.08
+Ependymal,Neopl-OPC,-0.07
+Ependymal,Neopl-COP,-0.02
+Ependymal,Neopl-NC,0.03
+Ependymal,Neopl-ACR,0.06
+Ependymal,Neopl-ECM,-0.06
+Ependymal,Neopl-RNA-low,0.06
+Microglia,Astrocyte TE,-0.18
+Microglia,Astrocyte NT,-0.17
+Microglia,Astrocyte R,-0.2
+Microglia,OPC/COP/OLG,-0.29
+Microglia,Neural,-0.23
+Microglia,Ependymal,-0.06
+Microglia,Microglia,NA
+Microglia,Macrophage,0.65
+Microglia,Dendritic,0.39
+Microglia,Neutrophil,0.31
+Microglia,NKTB,0.21
+Microglia,Choroid,-0.03
+Microglia,Endothelial,0.01
+Microglia,Mural,-0.02
+Microglia,Fibroblast,-0.02
+Microglia,Neopl-Bulk,-0.69
+Microglia,Neopl-CC-I,-0.63
+Microglia,Neopl-CC-II,-0.48
+Microglia,Neopl-CC-III,-0.52
+Microglia,Neopl-OPC,-0.57
+Microglia,Neopl-COP,-0.33
+Microglia,Neopl-NC,-0.25
+Microglia,Neopl-ACR,-0.38
+Microglia,Neopl-ECM,-0.58
+Microglia,Neopl-RNA-low,-0.58
+Macrophage,Astrocyte TE,-0.19
+Macrophage,Astrocyte NT,-0.18
+Macrophage,Astrocyte R,-0.14
+Macrophage,OPC/COP/OLG,-0.31
+Macrophage,Neural,-0.23
+Macrophage,Ependymal,-0.07
+Macrophage,Microglia,0.65
+Macrophage,Macrophage,NA
+Macrophage,Dendritic,0.64
+Macrophage,Neutrophil,0.52
+Macrophage,NKTB,0.32
+Macrophage,Choroid,-0.01
+Macrophage,Endothelial,0.01
+Macrophage,Mural,-0.02
+Macrophage,Fibroblast,0.02
+Macrophage,Neopl-Bulk,-0.61
+Macrophage,Neopl-CC-I,-0.51
+Macrophage,Neopl-CC-II,-0.36
+Macrophage,Neopl-CC-III,-0.39
+Macrophage,Neopl-OPC,-0.56
+Macrophage,Neopl-COP,-0.32
+Macrophage,Neopl-NC,-0.23
+Macrophage,Neopl-ACR,-0.31
+Macrophage,Neopl-ECM,-0.49
+Macrophage,Neopl-RNA-low,-0.46
+Dendritic,Astrocyte TE,-0.15
+Dendritic,Astrocyte NT,-0.15
+Dendritic,Astrocyte R,-0.11
+Dendritic,OPC/COP/OLG,-0.22
+Dendritic,Neural,-0.14
+Dendritic,Ependymal,-0.05
+Dendritic,Microglia,0.39
+Dendritic,Macrophage,0.64
+Dendritic,Dendritic,NA
+Dendritic,Neutrophil,0.44
+Dendritic,NKTB,0.47
+Dendritic,Choroid,0.01
+Dendritic,Endothelial,0.05
+Dendritic,Mural,0.03
+Dendritic,Fibroblast,0.03
+Dendritic,Neopl-Bulk,-0.43
+Dendritic,Neopl-CC-I,-0.38
+Dendritic,Neopl-CC-II,-0.28
+Dendritic,Neopl-CC-III,-0.3
+Dendritic,Neopl-OPC,-0.41
+Dendritic,Neopl-COP,-0.21
+Dendritic,Neopl-NC,-0.15
+Dendritic,Neopl-ACR,-0.22
+Dendritic,Neopl-ECM,-0.35
+Dendritic,Neopl-RNA-low,-0.27
+Neutrophil,Astrocyte TE,-0.09
+Neutrophil,Astrocyte NT,-0.09
+Neutrophil,Astrocyte R,-0.06
+Neutrophil,OPC/COP/OLG,-0.17
+Neutrophil,Neural,-0.09
+Neutrophil,Ependymal,-0.02
+Neutrophil,Microglia,0.31
+Neutrophil,Macrophage,0.52
+Neutrophil,Dendritic,0.44
+Neutrophil,Neutrophil,NA
+Neutrophil,NKTB,0.29
+Neutrophil,Choroid,0.02
+Neutrophil,Endothelial,0.03
+Neutrophil,Mural,0.01
+Neutrophil,Fibroblast,0.03
+Neutrophil,Neopl-Bulk,-0.33
+Neutrophil,Neopl-CC-I,-0.32
+Neutrophil,Neopl-CC-II,-0.24
+Neutrophil,Neopl-CC-III,-0.24
+Neutrophil,Neopl-OPC,-0.32
+Neutrophil,Neopl-COP,-0.17
+Neutrophil,Neopl-NC,-0.11
+Neutrophil,Neopl-ACR,-0.15
+Neutrophil,Neopl-ECM,-0.28
+Neutrophil,Neopl-RNA-low,-0.18
+NKTB,Astrocyte TE,-0.09
+NKTB,Astrocyte NT,-0.09
+NKTB,Astrocyte R,-0.08
+NKTB,OPC/COP/OLG,-0.16
+NKTB,Neural,-0.07
+NKTB,Ependymal,-0.03
+NKTB,Microglia,0.21
+NKTB,Macrophage,0.32
+NKTB,Dendritic,0.47
+NKTB,Neutrophil,0.29
+NKTB,NKTB,NA
+NKTB,Choroid,0.02
+NKTB,Endothelial,0.07
+NKTB,Mural,0.03
+NKTB,Fibroblast,0.02
+NKTB,Neopl-Bulk,-0.31
+NKTB,Neopl-CC-I,-0.26
+NKTB,Neopl-CC-II,-0.19
+NKTB,Neopl-CC-III,-0.2
+NKTB,Neopl-OPC,-0.31
+NKTB,Neopl-COP,-0.16
+NKTB,Neopl-NC,-0.1
+NKTB,Neopl-ACR,-0.16
+NKTB,Neopl-ECM,-0.26
+NKTB,Neopl-RNA-low,-0.13
+Choroid,Astrocyte TE,0.11
+Choroid,Astrocyte NT,0.09
+Choroid,Astrocyte R,0.11
+Choroid,OPC/COP/OLG,-0.01
+Choroid,Neural,0.04
+Choroid,Ependymal,0.35
+Choroid,Microglia,-0.03
+Choroid,Macrophage,-0.01
+Choroid,Dendritic,0.01
+Choroid,Neutrophil,0.02
+Choroid,NKTB,0.02
+Choroid,Choroid,NA
+Choroid,Endothelial,0.07
+Choroid,Mural,0.1
+Choroid,Fibroblast,0.16
+Choroid,Neopl-Bulk,-0.17
+Choroid,Neopl-CC-I,-0.16
+Choroid,Neopl-CC-II,-0.13
+Choroid,Neopl-CC-III,-0.12
+Choroid,Neopl-OPC,-0.15
+Choroid,Neopl-COP,-0.05
+Choroid,Neopl-NC,0.03
+Choroid,Neopl-ACR,0.02
+Choroid,Neopl-ECM,-0.09
+Choroid,Neopl-RNA-low,0.04
+Endothelial,Astrocyte TE,-0.01
+Endothelial,Astrocyte NT,-0.01
+Endothelial,Astrocyte R,0.04
+Endothelial,OPC/COP/OLG,-0.08
+Endothelial,Neural,-0.06
+Endothelial,Ependymal,0.02
+Endothelial,Microglia,0.01
+Endothelial,Macrophage,0.01
+Endothelial,Dendritic,0.05
+Endothelial,Neutrophil,0.03
+Endothelial,NKTB,0.07
+Endothelial,Choroid,0.07
+Endothelial,Endothelial,NA
+Endothelial,Mural,0.59
+Endothelial,Fibroblast,0.22
+Endothelial,Neopl-Bulk,-0.25
+Endothelial,Neopl-CC-I,-0.25
+Endothelial,Neopl-CC-II,-0.21
+Endothelial,Neopl-CC-III,-0.21
+Endothelial,Neopl-OPC,-0.23
+Endothelial,Neopl-COP,-0.1
+Endothelial,Neopl-NC,-0.1
+Endothelial,Neopl-ACR,-0.01
+Endothelial,Neopl-ECM,-0.15
+Endothelial,Neopl-RNA-low,-0.17
+Mural,Astrocyte TE,0.05
+Mural,Astrocyte NT,0.05
+Mural,Astrocyte R,0.11
+Mural,OPC/COP/OLG,-0.06
+Mural,Neural,-0.03
+Mural,Ependymal,0.04
+Mural,Microglia,-0.02
+Mural,Macrophage,-0.02
+Mural,Dendritic,0.03
+Mural,Neutrophil,0.01
+Mural,NKTB,0.03
+Mural,Choroid,0.1
+Mural,Endothelial,0.59
+Mural,Mural,NA
+Mural,Fibroblast,0.47
+Mural,Neopl-Bulk,-0.21
+Mural,Neopl-CC-I,-0.22
+Mural,Neopl-CC-II,-0.19
+Mural,Neopl-CC-III,-0.18
+Mural,Neopl-OPC,-0.2
+Mural,Neopl-COP,-0.08
+Mural,Neopl-NC,-0.06
+Mural,Neopl-ACR,0.1
+Mural,Neopl-ECM,-0.1
+Mural,Neopl-RNA-low,-0.1
+Fibroblast,Astrocyte TE,0.06
+Fibroblast,Astrocyte NT,0.06
+Fibroblast,Astrocyte R,0.23
+Fibroblast,OPC/COP/OLG,-0.07
+Fibroblast,Neural,-0.01
+Fibroblast,Ependymal,0.05
+Fibroblast,Microglia,-0.02
+Fibroblast,Macrophage,0.02
+Fibroblast,Dendritic,0.03
+Fibroblast,Neutrophil,0.03
+Fibroblast,NKTB,0.02
+Fibroblast,Choroid,0.16
+Fibroblast,Endothelial,0.22
+Fibroblast,Mural,0.47
+Fibroblast,Fibroblast,NA
+Fibroblast,Neopl-Bulk,-0.14
+Fibroblast,Neopl-CC-I,-0.17
+Fibroblast,Neopl-CC-II,-0.15
+Fibroblast,Neopl-CC-III,-0.12
+Fibroblast,Neopl-OPC,-0.19
+Fibroblast,Neopl-COP,-0.06
+Fibroblast,Neopl-NC,-0.03
+Fibroblast,Neopl-ACR,0.25
+Fibroblast,Neopl-ECM,0.01
+Fibroblast,Neopl-RNA-low,-0.06
+Neopl-Bulk,Astrocyte TE,-0.14
+Neopl-Bulk,Astrocyte NT,-0.13
+Neopl-Bulk,Astrocyte R,-0.05
+Neopl-Bulk,OPC/COP/OLG,0.06
+Neopl-Bulk,Neural,0.11
+Neopl-Bulk,Ependymal,-0.08
+Neopl-Bulk,Microglia,-0.69
+Neopl-Bulk,Macrophage,-0.61
+Neopl-Bulk,Dendritic,-0.43
+Neopl-Bulk,Neutrophil,-0.33
+Neopl-Bulk,NKTB,-0.31
+Neopl-Bulk,Choroid,-0.17
+Neopl-Bulk,Endothelial,-0.25
+Neopl-Bulk,Mural,-0.21
+Neopl-Bulk,Fibroblast,-0.14
+Neopl-Bulk,Neopl-Bulk,NA
+Neopl-Bulk,Neopl-CC-I,0.67
+Neopl-Bulk,Neopl-CC-II,0.31
+Neopl-Bulk,Neopl-CC-III,0.39
+Neopl-Bulk,Neopl-OPC,0.72
+Neopl-Bulk,Neopl-COP,0.26
+Neopl-Bulk,Neopl-NC,0.23
+Neopl-Bulk,Neopl-ACR,0.3
+Neopl-Bulk,Neopl-ECM,0.62
+Neopl-Bulk,Neopl-RNA-low,0.57
+Neopl-CC-I,Astrocyte TE,-0.2
+Neopl-CC-I,Astrocyte NT,-0.2
+Neopl-CC-I,Astrocyte R,-0.16
+Neopl-CC-I,OPC/COP/OLG,-0.04
+Neopl-CC-I,Neural,0.08
+Neopl-CC-I,Ependymal,-0.1
+Neopl-CC-I,Microglia,-0.63
+Neopl-CC-I,Macrophage,-0.51
+Neopl-CC-I,Dendritic,-0.38
+Neopl-CC-I,Neutrophil,-0.32
+Neopl-CC-I,NKTB,-0.26
+Neopl-CC-I,Choroid,-0.16
+Neopl-CC-I,Endothelial,-0.25
+Neopl-CC-I,Mural,-0.22
+Neopl-CC-I,Fibroblast,-0.17
+Neopl-CC-I,Neopl-Bulk,0.67
+Neopl-CC-I,Neopl-CC-I,NA
+Neopl-CC-I,Neopl-CC-II,0.76
+Neopl-CC-I,Neopl-CC-III,0.61
+Neopl-CC-I,Neopl-OPC,0.47
+Neopl-CC-I,Neopl-COP,0.13
+Neopl-CC-I,Neopl-NC,0.14
+Neopl-CC-I,Neopl-ACR,0.09
+Neopl-CC-I,Neopl-ECM,0.55
+Neopl-CC-I,Neopl-RNA-low,0.54
+Neopl-CC-II,Astrocyte TE,-0.19
+Neopl-CC-II,Astrocyte NT,-0.19
+Neopl-CC-II,Astrocyte R,-0.16
+Neopl-CC-II,OPC/COP/OLG,-0.1
+Neopl-CC-II,Neural,0.03
+Neopl-CC-II,Ependymal,-0.09
+Neopl-CC-II,Microglia,-0.48
+Neopl-CC-II,Macrophage,-0.36
+Neopl-CC-II,Dendritic,-0.28
+Neopl-CC-II,Neutrophil,-0.24
+Neopl-CC-II,NKTB,-0.19
+Neopl-CC-II,Choroid,-0.13
+Neopl-CC-II,Endothelial,-0.21
+Neopl-CC-II,Mural,-0.19
+Neopl-CC-II,Fibroblast,-0.15
+Neopl-CC-II,Neopl-Bulk,0.31
+Neopl-CC-II,Neopl-CC-I,0.76
+Neopl-CC-II,Neopl-CC-II,NA
+Neopl-CC-II,Neopl-CC-III,0.78
+Neopl-CC-II,Neopl-OPC,0.19
+Neopl-CC-II,Neopl-COP,0.02
+Neopl-CC-II,Neopl-NC,0.03
+Neopl-CC-II,Neopl-ACR,-0.01
+Neopl-CC-II,Neopl-ECM,0.34
+Neopl-CC-II,Neopl-RNA-low,0.36
+Neopl-CC-III,Astrocyte TE,-0.2
+Neopl-CC-III,Astrocyte NT,-0.2
+Neopl-CC-III,Astrocyte R,-0.15
+Neopl-CC-III,OPC/COP/OLG,-0.11
+Neopl-CC-III,Neural,0.03
+Neopl-CC-III,Ependymal,-0.08
+Neopl-CC-III,Microglia,-0.52
+Neopl-CC-III,Macrophage,-0.39
+Neopl-CC-III,Dendritic,-0.3
+Neopl-CC-III,Neutrophil,-0.24
+Neopl-CC-III,NKTB,-0.2
+Neopl-CC-III,Choroid,-0.12
+Neopl-CC-III,Endothelial,-0.21
+Neopl-CC-III,Mural,-0.18
+Neopl-CC-III,Fibroblast,-0.12
+Neopl-CC-III,Neopl-Bulk,0.39
+Neopl-CC-III,Neopl-CC-I,0.61
+Neopl-CC-III,Neopl-CC-II,0.78
+Neopl-CC-III,Neopl-CC-III,NA
+Neopl-CC-III,Neopl-OPC,0.21
+Neopl-CC-III,Neopl-COP,0.04
+Neopl-CC-III,Neopl-NC,0.02
+Neopl-CC-III,Neopl-ACR,0.03
+Neopl-CC-III,Neopl-ECM,0.37
+Neopl-CC-III,Neopl-RNA-low,0.36
+Neopl-OPC,Astrocyte TE,-0.02
+Neopl-OPC,Astrocyte NT,0
+Neopl-OPC,Astrocyte R,-0.04
+Neopl-OPC,OPC/COP/OLG,0.27
+Neopl-OPC,Neural,0.14
+Neopl-OPC,Ependymal,-0.07
+Neopl-OPC,Microglia,-0.57
+Neopl-OPC,Macrophage,-0.56
+Neopl-OPC,Dendritic,-0.41
+Neopl-OPC,Neutrophil,-0.32
+Neopl-OPC,NKTB,-0.31
+Neopl-OPC,Choroid,-0.15
+Neopl-OPC,Endothelial,-0.23
+Neopl-OPC,Mural,-0.2
+Neopl-OPC,Fibroblast,-0.19
+Neopl-OPC,Neopl-Bulk,0.72
+Neopl-OPC,Neopl-CC-I,0.47
+Neopl-OPC,Neopl-CC-II,0.19
+Neopl-OPC,Neopl-CC-III,0.21
+Neopl-OPC,Neopl-OPC,NA
+Neopl-OPC,Neopl-COP,0.45
+Neopl-OPC,Neopl-NC,0.22
+Neopl-OPC,Neopl-ACR,0.19
+Neopl-OPC,Neopl-ECM,0.51
+Neopl-OPC,Neopl-RNA-low,0.39
+Neopl-COP,Astrocyte TE,-0.04
+Neopl-COP,Astrocyte NT,-0.02
+Neopl-COP,Astrocyte R,-0.03
+Neopl-COP,OPC/COP/OLG,0.43
+Neopl-COP,Neural,0.08
+Neopl-COP,Ependymal,-0.02
+Neopl-COP,Microglia,-0.33
+Neopl-COP,Macrophage,-0.32
+Neopl-COP,Dendritic,-0.21
+Neopl-COP,Neutrophil,-0.17
+Neopl-COP,NKTB,-0.16
+Neopl-COP,Choroid,-0.05
+Neopl-COP,Endothelial,-0.1
+Neopl-COP,Mural,-0.08
+Neopl-COP,Fibroblast,-0.06
+Neopl-COP,Neopl-Bulk,0.26
+Neopl-COP,Neopl-CC-I,0.13
+Neopl-COP,Neopl-CC-II,0.02
+Neopl-COP,Neopl-CC-III,0.04
+Neopl-COP,Neopl-OPC,0.45
+Neopl-COP,Neopl-COP,NA
+Neopl-COP,Neopl-NC,0.07
+Neopl-COP,Neopl-ACR,0.18
+Neopl-COP,Neopl-ECM,0.35
+Neopl-COP,Neopl-RNA-low,0.14
+Neopl-NC,Astrocyte TE,0.04
+Neopl-NC,Astrocyte NT,0.04
+Neopl-NC,Astrocyte R,0.02
+Neopl-NC,OPC/COP/OLG,0.08
+Neopl-NC,Neural,0.59
+Neopl-NC,Ependymal,0.03
+Neopl-NC,Microglia,-0.25
+Neopl-NC,Macrophage,-0.23
+Neopl-NC,Dendritic,-0.15
+Neopl-NC,Neutrophil,-0.11
+Neopl-NC,NKTB,-0.1
+Neopl-NC,Choroid,0.03
+Neopl-NC,Endothelial,-0.1
+Neopl-NC,Mural,-0.06
+Neopl-NC,Fibroblast,-0.03
+Neopl-NC,Neopl-Bulk,0.23
+Neopl-NC,Neopl-CC-I,0.14
+Neopl-NC,Neopl-CC-II,0.03
+Neopl-NC,Neopl-CC-III,0.02
+Neopl-NC,Neopl-OPC,0.22
+Neopl-NC,Neopl-COP,0.07
+Neopl-NC,Neopl-NC,NA
+Neopl-NC,Neopl-ACR,0.09
+Neopl-NC,Neopl-ECM,0.03
+Neopl-NC,Neopl-RNA-low,0.4
+Neopl-ACR,Astrocyte TE,0.28
+Neopl-ACR,Astrocyte NT,0.27
+Neopl-ACR,Astrocyte R,0.67
+Neopl-ACR,OPC/COP/OLG,0.04
+Neopl-ACR,Neural,0.03
+Neopl-ACR,Ependymal,0.06
+Neopl-ACR,Microglia,-0.38
+Neopl-ACR,Macrophage,-0.31
+Neopl-ACR,Dendritic,-0.22
+Neopl-ACR,Neutrophil,-0.15
+Neopl-ACR,NKTB,-0.16
+Neopl-ACR,Choroid,0.02
+Neopl-ACR,Endothelial,-0.01
+Neopl-ACR,Mural,0.1
+Neopl-ACR,Fibroblast,0.25
+Neopl-ACR,Neopl-Bulk,0.3
+Neopl-ACR,Neopl-CC-I,0.09
+Neopl-ACR,Neopl-CC-II,-0.01
+Neopl-ACR,Neopl-CC-III,0.03
+Neopl-ACR,Neopl-OPC,0.19
+Neopl-ACR,Neopl-COP,0.18
+Neopl-ACR,Neopl-NC,0.09
+Neopl-ACR,Neopl-ACR,NA
+Neopl-ACR,Neopl-ECM,0.36
+Neopl-ACR,Neopl-RNA-low,0.1
+Neopl-ECM,Astrocyte TE,-0.11
+Neopl-ECM,Astrocyte NT,-0.11
+Neopl-ECM,Astrocyte R,-0.01
+Neopl-ECM,OPC/COP/OLG,0.08
+Neopl-ECM,Neural,-0.02
+Neopl-ECM,Ependymal,-0.06
+Neopl-ECM,Microglia,-0.58
+Neopl-ECM,Macrophage,-0.49
+Neopl-ECM,Dendritic,-0.35
+Neopl-ECM,Neutrophil,-0.28
+Neopl-ECM,NKTB,-0.26
+Neopl-ECM,Choroid,-0.09
+Neopl-ECM,Endothelial,-0.15
+Neopl-ECM,Mural,-0.1
+Neopl-ECM,Fibroblast,0.01
+Neopl-ECM,Neopl-Bulk,0.62
+Neopl-ECM,Neopl-CC-I,0.55
+Neopl-ECM,Neopl-CC-II,0.34
+Neopl-ECM,Neopl-CC-III,0.37
+Neopl-ECM,Neopl-OPC,0.51
+Neopl-ECM,Neopl-COP,0.35
+Neopl-ECM,Neopl-NC,0.03
+Neopl-ECM,Neopl-ACR,0.36
+Neopl-ECM,Neopl-ECM,NA
+Neopl-ECM,Neopl-RNA-low,0.31
+Neopl-RNA-low,Astrocyte TE,-0.09
+Neopl-RNA-low,Astrocyte NT,-0.09
+Neopl-RNA-low,Astrocyte R,-0.08
+Neopl-RNA-low,OPC/COP/OLG,0.01
+Neopl-RNA-low,Neural,0.29
+Neopl-RNA-low,Ependymal,0.06
+Neopl-RNA-low,Microglia,-0.58
+Neopl-RNA-low,Macrophage,-0.46
+Neopl-RNA-low,Dendritic,-0.27
+Neopl-RNA-low,Neutrophil,-0.18
+Neopl-RNA-low,NKTB,-0.13
+Neopl-RNA-low,Choroid,0.04
+Neopl-RNA-low,Endothelial,-0.17
+Neopl-RNA-low,Mural,-0.1
+Neopl-RNA-low,Fibroblast,-0.06
+Neopl-RNA-low,Neopl-Bulk,0.57
+Neopl-RNA-low,Neopl-CC-I,0.54
+Neopl-RNA-low,Neopl-CC-II,0.36
+Neopl-RNA-low,Neopl-CC-III,0.36
+Neopl-RNA-low,Neopl-OPC,0.39
+Neopl-RNA-low,Neopl-COP,0.14
+Neopl-RNA-low,Neopl-NC,0.4
+Neopl-RNA-low,Neopl-ACR,0.1
+Neopl-RNA-low,Neopl-ECM,0.31
+Neopl-RNA-low,Neopl-RNA-low,NA

@@ -1,0 +1,37 @@
+cond,niche_name,n,frac
+Healthy,Tumor: Proneural (OPC),0,0
+Healthy,Tumor: OPC/Bulk,0,0
+Healthy,Tumor: Bulk/OPC (reactive),0,0
+Healthy,Tumor: Bulk,0,0
+Healthy,Tumor margin (neuronal / reactive-astro),109,8.393202276174856e-4
+Healthy,Reactive-astro / immune,713,0.005490232314598782
+Healthy,Peritumoral parenchyma,34977,0.2693293908383192
+Healthy,Parenchyma,60845,0.4685177912787698
+Healthy,White matter,8230,0.0633725272779074
+Healthy,Oligodendrocyte,12137,0.09345715231737085
+Healthy,Homeostatic astrocyte (TE-NT),10629,0.08184527247106656
+Healthy,Choroid/ventricle,2227,0.017148313274349913
+Primary,Tumor: Proneural (OPC),45855,0.18147171961817923
+Primary,Tumor: OPC/Bulk,32393,0.12819569106077155
+Primary,Tumor: Bulk/OPC (reactive),43908,0.17376644346298142
+Primary,Tumor: Bulk,16871,0.06676718747526555
+Primary,Tumor margin (neuronal / reactive-astro),33302,0.13179306960472367
+Primary,Reactive-astro / immune,15264,0.060407465450918935
+Primary,Peritumoral parenchyma,25355,0.1003427205521521
+Primary,Parenchyma,24582,0.09728356366054043
+Primary,White matter,9720,0.038467018093745545
+Primary,Oligodendrocyte,3748,0.014832755536559498
+Primary,Homeostatic astrocyte (TE-NT),1305,0.0051645533551788
+Primary,Choroid/ventricle,381,0.001507812128983236
+Recurrent,Tumor: Proneural (OPC),0,0
+Recurrent,Tumor: OPC/Bulk,0,0
+Recurrent,Tumor: Bulk/OPC (reactive),899,0.0074517995391323085
+Recurrent,Tumor: Bulk,0,0
+Recurrent,Tumor margin (neuronal / reactive-astro),14252,0.11813464630891397
+Recurrent,Reactive-astro / immune,8904,0.07380514248769085
+Recurrent,Peritumoral parenchyma,36541,0.3028878831584357
+Recurrent,Parenchyma,30008,0.24873592944414052
+Recurrent,White matter,12439,0.1031067124218763
+Recurrent,Oligodendrocyte,6560,0.0543757563700867
+Recurrent,Homeostatic astrocyte (TE-NT),10459,0.08669451766383184
+Recurrent,Choroid/ventricle,580,0.004807612605891812

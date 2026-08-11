@@ -1,0 +1,9 @@
+sample_id,condition,measure,pct
+HB_hm01,Healthy,Tg+ bins,0
+HB_hm01,Healthy,QuPath tumour,0
+TP_1083,Primary,Tg+ bins,34.26
+TP_1083,Primary,QuPath tumour,73.81
+TP_987,Primary,Tg+ bins,27.77
+TP_987,Primary,QuPath tumour,55.55
+TR_03d_990,PostRT,Tg+ bins,2.57
+TR_03d_990,PostRT,QuPath tumour,19.63
